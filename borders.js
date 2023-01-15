@@ -1,0 +1,19308 @@
+import { koordinate } from "./koordinate"
+
+export var bjelovarska = [
+  koordinate(
+    17.1626,
+    45.5332
+  ),
+  koordinate(
+    17.1573,
+    45.5202
+  ),
+  koordinate(
+    17.1503,
+    45.5128
+  ),
+  koordinate(
+    17.1364,
+    45.5137
+  ),
+  koordinate(
+    17.1191,
+    45.5198
+  ),
+  koordinate(
+    17.0985,
+    45.5176
+  ),
+  koordinate(
+    17.0868,
+    45.5127
+  ),
+  koordinate(
+    17.0786,
+    45.5002
+  ),
+  koordinate(
+    17.0465,
+    45.5203
+  ),
+  koordinate(
+    17.0295,
+    45.515
+  ),
+  koordinate(
+    17.0225,
+    45.5088
+  ),
+  koordinate(
+    17.0155,
+    45.5063
+  ),
+  koordinate(
+    17.0028,
+    45.5061
+  ),
+  koordinate(
+    16.9907,
+    45.5093
+  ),
+  koordinate(
+    16.9859,
+    45.5112
+  ),
+  koordinate(
+    16.9817,
+    45.5157
+  ),
+  koordinate(
+    16.9642,
+    45.5219
+  ),
+  koordinate(
+    16.9521,
+    45.5327
+  ),
+  koordinate(
+    16.9505,
+    45.5383
+  ),
+  koordinate(
+    16.9444,
+    45.5426
+  ),
+  koordinate(
+    16.9362,
+    45.538
+  ),
+  koordinate(
+    16.9206,
+    45.5129
+  ),
+  koordinate(
+    16.9241,
+    45.4912
+  ),
+  koordinate(
+    16.9303,
+    45.4778
+  ),
+  koordinate(
+    16.9154,
+    45.4674
+  ),
+  koordinate(
+    16.9048,
+    45.4675
+  ),
+  koordinate(
+    16.9014,
+    45.4702
+  ),
+  koordinate(
+    16.8974,
+    45.4809
+  ),
+  koordinate(
+    16.8847,
+    45.4996
+  ),
+  koordinate(
+    16.8685,
+    45.5089
+  ),
+  koordinate(
+    16.8565,
+    45.5095
+  ),
+  koordinate(
+    16.852,
+    45.512
+  ),
+  koordinate(
+    16.8513,
+    45.517
+  ),
+  koordinate(
+    16.8596,
+    45.5217
+  ),
+  koordinate(
+    16.8614,
+    45.5244
+  ),
+  koordinate(
+    16.8597,
+    45.5273
+  ),
+  koordinate(
+    16.8488,
+    45.5361
+  ),
+  koordinate(
+    16.849,
+    45.5443
+  ),
+  koordinate(
+    16.8473,
+    45.5476
+  ),
+  koordinate(
+    16.8414,
+    45.551
+  ),
+  koordinate(
+    16.8252,
+    45.5535
+  ),
+  koordinate(
+    16.8226,
+    45.5564
+  ),
+  koordinate(
+    16.8199,
+    45.5661
+  ),
+  koordinate(
+    16.805,
+    45.5675
+  ),
+  koordinate(
+    16.7965,
+    45.5757
+  ),
+  koordinate(
+    16.7914,
+    45.5873
+  ),
+  koordinate(
+    16.7905,
+    45.6037
+  ),
+  koordinate(
+    16.7861,
+    45.6253
+  ),
+  koordinate(
+    16.7725,
+    45.6244
+  ),
+  koordinate(
+    16.7466,
+    45.6171
+  ),
+  koordinate(
+    16.7427,
+    45.6177
+  ),
+  koordinate(
+    16.7347,
+    45.6224
+  ),
+  koordinate(
+    16.7278,
+    45.622
+  ),
+  koordinate(
+    16.722,
+    45.6235
+  ),
+  koordinate(
+    16.7188,
+    45.6261
+  ),
+  koordinate(
+    16.7072,
+    45.6442
+  ),
+  koordinate(
+    16.6892,
+    45.6572
+  ),
+  koordinate(
+    16.6698,
+    45.6515
+  ),
+  koordinate(
+    16.6574,
+    45.6542
+  ),
+  koordinate(
+    16.6543,
+    45.6648
+  ),
+  koordinate(
+    16.6488,
+    45.6685
+  ),
+  koordinate(
+    16.6398,
+    45.6683
+  ),
+  koordinate(
+    16.6294,
+    45.6646
+  ),
+  koordinate(
+    16.6177,
+    45.6643
+  ),
+  koordinate(
+    16.6101,
+    45.6656
+  ),
+  koordinate(
+    16.597,
+    45.6711
+  ),
+  koordinate(
+    16.5888,
+    45.6829
+  ),
+  koordinate(
+    16.5746,
+    45.6856
+  ),
+  koordinate(
+    16.5721,
+    45.6899
+  ),
+  koordinate(
+    16.5713,
+    45.6989
+  ),
+  koordinate(
+    16.5638,
+    45.7029
+  ),
+  koordinate(
+    16.5554,
+    45.713
+  ),
+  koordinate(
+    16.5503,
+    45.7136
+  ),
+  koordinate(
+    16.5186,
+    45.7081
+  ),
+  koordinate(
+    16.5131,
+    45.7208
+  ),
+  koordinate(
+    16.5097,
+    45.7247
+  ),
+  koordinate(
+    16.5052,
+    45.7264
+  ),
+  koordinate(
+    16.4924,
+    45.7269
+  ),
+  koordinate(
+    16.488,
+    45.7295
+  ),
+  koordinate(
+    16.4909,
+    45.7422
+  ),
+  koordinate(
+    16.4897,
+    45.7516
+  ),
+  koordinate(
+    16.5023,
+    45.7565
+  ),
+  koordinate(
+    16.5056,
+    45.7608
+  ),
+  koordinate(
+    16.5032,
+    45.7635
+  ),
+  koordinate(
+    16.4787,
+    45.7771
+  ),
+  koordinate(
+    16.4911,
+    45.7791
+  ),
+  koordinate(
+    16.494,
+    45.7809
+  ),
+  koordinate(
+    16.4952,
+    45.7847
+  ),
+  koordinate(
+    16.494,
+    45.7941
+  ),
+  koordinate(
+    16.4962,
+    45.7977
+  ),
+  koordinate(
+    16.5111,
+    45.796
+  ),
+  koordinate(
+    16.5279,
+    45.8016
+  ),
+  koordinate(
+    16.5381,
+    45.8068
+  ),
+  koordinate(
+    16.5442,
+    45.8058
+  ),
+  koordinate(
+    16.5551,
+    45.8004
+  ),
+  koordinate(
+    16.5635,
+    45.7938
+  ),
+  koordinate(
+    16.5718,
+    45.7898
+  ),
+  koordinate(
+    16.5787,
+    45.7891
+  ),
+  koordinate(
+    16.5886,
+    45.7913
+  ),
+  koordinate(
+    16.5918,
+    45.7947
+  ),
+  koordinate(
+    16.5867,
+    45.8012
+  ),
+  koordinate(
+    16.5888,
+    45.822
+  ),
+  koordinate(
+    16.6007,
+    45.8249
+  ),
+  koordinate(
+    16.6114,
+    45.8384
+  ),
+  koordinate(
+    16.6182,
+    45.844
+  ),
+  koordinate(
+    16.623,
+    45.8444
+  ),
+  koordinate(
+    16.6274,
+    45.8424
+  ),
+  koordinate(
+    16.6283,
+    45.8322
+  ),
+  koordinate(
+    16.6293,
+    45.8301
+  ),
+  koordinate(
+    16.6332,
+    45.8285
+  ),
+  koordinate(
+    16.6459,
+    45.8332
+  ),
+  koordinate(
+    16.6517,
+    45.8323
+  ),
+  koordinate(
+    16.656,
+    45.8291
+  ),
+  koordinate(
+    16.662,
+    45.8333
+  ),
+  koordinate(
+    16.6634,
+    45.8369
+  ),
+  koordinate(
+    16.667,
+    45.8395
+  ),
+  koordinate(
+    16.6776,
+    45.8423
+  ),
+  koordinate(
+    16.688,
+    45.8429
+  ),
+  koordinate(
+    16.697,
+    45.8541
+  ),
+  koordinate(
+    16.6977,
+    45.857
+  ),
+  koordinate(
+    16.6933,
+    45.8653
+  ),
+  koordinate(
+    16.6835,
+    45.8741
+  ),
+  koordinate(
+    16.6807,
+    45.883
+  ),
+  koordinate(
+    16.683,
+    45.8918
+  ),
+  koordinate(
+    16.6827,
+    45.9167
+  ),
+  koordinate(
+    16.6851,
+    45.9267
+  ),
+  koordinate(
+    16.683,
+    45.936
+  ),
+  koordinate(
+    16.687,
+    45.9433
+  ),
+  koordinate(
+    16.6876,
+    45.9538
+  ),
+  koordinate(
+    16.684,
+    45.9673
+  ),
+  koordinate(
+    16.6924,
+    45.9871
+  ),
+  koordinate(
+    16.6969,
+    45.9928
+  ),
+  koordinate(
+    16.6981,
+    46.0035
+  ),
+  koordinate(
+    16.7079,
+    46.0089
+  ),
+  koordinate(
+    16.7102,
+    46.0138
+  ),
+  koordinate(
+    16.7111,
+    46.0285
+  ),
+  koordinate(
+    16.7053,
+    46.0387
+  ),
+  koordinate(
+    16.731,
+    46.0461
+  ),
+  koordinate(
+    16.7414,
+    46.0536
+  ),
+  koordinate(
+    16.7694,
+    46.0604
+  ),
+  koordinate(
+    16.782,
+    46.0568
+  ),
+  koordinate(
+    16.7823,
+    46.0531
+  ),
+  koordinate(
+    16.7797,
+    46.0477
+  ),
+  koordinate(
+    16.7936,
+    46.0491
+  ),
+  koordinate(
+    16.8051,
+    46.0564
+  ),
+  koordinate(
+    16.8206,
+    46.0623
+  ),
+  koordinate(
+    16.8264,
+    46.0661
+  ),
+  koordinate(
+    16.8274,
+    46.0697
+  ),
+  koordinate(
+    16.8231,
+    46.0901
+  ),
+  koordinate(
+    16.8385,
+    46.091
+  ),
+  koordinate(
+    16.8403,
+    46.0882
+  ),
+  koordinate(
+    16.8432,
+    46.0871
+  ),
+  koordinate(
+    16.862,
+    46.0859
+  ),
+  koordinate(
+    16.8689,
+    46.0805
+  ),
+  koordinate(
+    16.866,
+    46.0721
+  ),
+  koordinate(
+    16.8664,
+    46.068
+  ),
+  koordinate(
+    16.8772,
+    46.0624
+  ),
+  koordinate(
+    16.8795,
+    46.0589
+  ),
+  koordinate(
+    16.8816,
+    46.0498
+  ),
+  koordinate(
+    16.9055,
+    46.041
+  ),
+  koordinate(
+    16.8977,
+    46.0266
+  ),
+  koordinate(
+    16.9002,
+    46.0147
+  ),
+  koordinate(
+    16.8991,
+    46.0071
+  ),
+  koordinate(
+    16.8844,
+    45.992
+  ),
+  koordinate(
+    16.92,
+    45.9906
+  ),
+  koordinate(
+    16.9353,
+    45.9947
+  ),
+  koordinate(
+    16.9458,
+    45.9954
+  ),
+  koordinate(
+    16.952,
+    45.9907
+  ),
+  koordinate(
+    16.9595,
+    45.9876
+  ),
+  koordinate(
+    16.9629,
+    45.9835
+  ),
+  koordinate(
+    16.983,
+    45.9759
+  ),
+  koordinate(
+    16.9875,
+    45.9717
+  ),
+  koordinate(
+    16.9881,
+    45.967
+  ),
+  koordinate(
+    16.9823,
+    45.9566
+  ),
+  koordinate(
+    16.9809,
+    45.9434
+  ),
+  koordinate(
+    16.9779,
+    45.933
+  ),
+  koordinate(
+    16.9978,
+    45.9384
+  ),
+  koordinate(
+    17.0143,
+    45.9335
+  ),
+  koordinate(
+    17.0197,
+    45.9333
+  ),
+  koordinate(
+    17.036,
+    45.9423
+  ),
+  koordinate(
+    17.0426,
+    45.9431
+  ),
+  koordinate(
+    17.0534,
+    45.9331
+  ),
+  koordinate(
+    17.0542,
+    45.9298
+  ),
+  koordinate(
+    17.0524,
+    45.9209
+  ),
+  koordinate(
+    17.0578,
+    45.9119
+  ),
+  koordinate(
+    17.063,
+    45.9084
+  ),
+  koordinate(
+    17.0744,
+    45.9046
+  ),
+  koordinate(
+    17.0821,
+    45.9057
+  ),
+  koordinate(
+    17.0859,
+    45.904
+  ),
+  koordinate(
+    17.0978,
+    45.8858
+  ),
+  koordinate(
+    17.1032,
+    45.8836
+  ),
+  koordinate(
+    17.1229,
+    45.8825
+  ),
+  koordinate(
+    17.1281,
+    45.88
+  ),
+  koordinate(
+    17.141,
+    45.8783
+  ),
+  koordinate(
+    17.1544,
+    45.8738
+  ),
+  koordinate(
+    17.1591,
+    45.8704
+  ),
+  koordinate(
+    17.1621,
+    45.8647
+  ),
+  koordinate(
+    17.173,
+    45.8624
+  ),
+  koordinate(
+    17.1767,
+    45.8602
+  ),
+  koordinate(
+    17.1825,
+    45.8513
+  ),
+  koordinate(
+    17.1833,
+    45.8462
+  ),
+  koordinate(
+    17.1881,
+    45.8404
+  ),
+  koordinate(
+    17.2025,
+    45.8341
+  ),
+  koordinate(
+    17.2163,
+    45.8304
+  ),
+  koordinate(
+    17.2289,
+    45.8211
+  ),
+  koordinate(
+    17.23,
+    45.8181
+  ),
+  koordinate(
+    17.2521,
+    45.8133
+  ),
+  koordinate(
+    17.2645,
+    45.8123
+  ),
+  koordinate(
+    17.2635,
+    45.7927
+  ),
+  koordinate(
+    17.2651,
+    45.7872
+  ),
+  koordinate(
+    17.279,
+    45.7723
+  ),
+  koordinate(
+    17.2858,
+    45.7711
+  ),
+  koordinate(
+    17.3006,
+    45.7722
+  ),
+  koordinate(
+    17.3094,
+    45.7677
+  ),
+  koordinate(
+    17.3101,
+    45.7619
+  ),
+  koordinate(
+    17.3045,
+    45.7547
+  ),
+  koordinate(
+    17.3072,
+    45.7501
+  ),
+  koordinate(
+    17.3142,
+    45.7482
+  ),
+  koordinate(
+    17.3202,
+    45.7493
+  ),
+  koordinate(
+    17.3282,
+    45.7617
+  ),
+  koordinate(
+    17.3325,
+    45.7639
+  ),
+  koordinate(
+    17.3379,
+    45.7627
+  ),
+  koordinate(
+    17.3456,
+    45.7569
+  ),
+  koordinate(
+    17.3488,
+    45.7505
+  ),
+  koordinate(
+    17.3483,
+    45.7402
+  ),
+  koordinate(
+    17.3374,
+    45.7283
+  ),
+  koordinate(
+    17.3362,
+    45.7218
+  ),
+  koordinate(
+    17.3393,
+    45.7188
+  ),
+  koordinate(
+    17.3449,
+    45.7174
+  ),
+  koordinate(
+    17.358,
+    45.721
+  ),
+  koordinate(
+    17.3623,
+    45.72
+  ),
+  koordinate(
+    17.3656,
+    45.7147
+  ),
+  koordinate(
+    17.3692,
+    45.6984
+  ),
+  koordinate(
+    17.384,
+    45.7045
+  ),
+  koordinate(
+    17.3893,
+    45.7146
+  ),
+  koordinate(
+    17.3992,
+    45.7168
+  ),
+  koordinate(
+    17.4062,
+    45.723
+  ),
+  koordinate(
+    17.4196,
+    45.7274
+  ),
+  koordinate(
+    17.4255,
+    45.7257
+  ),
+  koordinate(
+    17.4369,
+    45.716
+  ),
+  koordinate(
+    17.4302,
+    45.71
+  ),
+  koordinate(
+    17.4303,
+    45.7067
+  ),
+  koordinate(
+    17.4573,
+    45.7008
+  ),
+  koordinate(
+    17.4694,
+    45.6922
+  ),
+  koordinate(
+    17.4708,
+    45.6859
+  ),
+  koordinate(
+    17.4693,
+    45.674
+  ),
+  koordinate(
+    17.4565,
+    45.6683
+  ),
+  koordinate(
+    17.4567,
+    45.6544
+  ),
+  koordinate(
+    17.4539,
+    45.647
+  ),
+  koordinate(
+    17.4444,
+    45.6413
+  ),
+  koordinate(
+    17.4321,
+    45.6257
+  ),
+  koordinate(
+    17.4315,
+    45.6169
+  ),
+  koordinate(
+    17.4363,
+    45.6065
+  ),
+  koordinate(
+    17.4358,
+    45.6029
+  ),
+  koordinate(
+    17.4299,
+    45.5996
+  ),
+  koordinate(
+    17.4092,
+    45.5981
+  ),
+  koordinate(
+    17.4063,
+    45.593
+  ),
+  koordinate(
+    17.4036,
+    45.5837
+  ),
+  koordinate(
+    17.4092,
+    45.5737
+  ),
+  koordinate(
+    17.4145,
+    45.5705
+  ),
+  koordinate(
+    17.4245,
+    45.5708
+  ),
+  koordinate(
+    17.4311,
+    45.5641
+  ),
+  koordinate(
+    17.4337,
+    45.5575
+  ),
+  koordinate(
+    17.4266,
+    45.5495
+  ),
+  koordinate(
+    17.4217,
+    45.5384
+  ),
+  koordinate(
+    17.4215,
+    45.527
+  ),
+  koordinate(
+    17.4125,
+    45.5157
+  ),
+  koordinate(
+    17.4027,
+    45.507
+  ),
+  koordinate(
+    17.3744,
+    45.5058
+  ),
+  koordinate(
+    17.3504,
+    45.5128
+  ),
+  koordinate(
+    17.3446,
+    45.5202
+  ),
+  koordinate(
+    17.3207,
+    45.5213
+  ),
+  koordinate(
+    17.2581,
+    45.51
+  ),
+  koordinate(
+    17.2338,
+    45.5101
+  ),
+  koordinate(
+    17.2208,
+    45.5086
+  ),
+  koordinate(
+    17.2064,
+    45.5167
+  ),
+  koordinate(
+    17.2009,
+    45.5221
+  ),
+  koordinate(
+    17.1924,
+    45.5248
+  ),
+  koordinate(
+    17.1868,
+    45.5325
+  ),
+  koordinate(
+    17.1627,
+    45.5397
+  ),
+  koordinate(
+    17.1626,
+    45.5332
+  )
+]
+export var posavina = [
+  koordinate(
+    17.9003,
+    45.0765
+  ),
+  koordinate(
+    17.8556,
+    45.0553
+  ),
+  koordinate(
+    17.838,
+    45.0543
+  ),
+  koordinate(
+    17.8182,
+    45.0586
+  ),
+  koordinate(
+    17.8003,
+    45.068
+  ),
+  koordinate(
+    17.7832,
+    45.0802
+  ),
+  koordinate(
+    17.7646,
+    45.0897
+  ),
+  koordinate(
+    17.7447,
+    45.089
+  ),
+  koordinate(
+    17.681,
+    45.1244
+  ),
+  koordinate(
+    17.6679,
+    45.1345
+  ),
+  koordinate(
+    17.6591,
+    45.1354
+  ),
+  koordinate(
+    17.6429,
+    45.1323
+  ),
+  koordinate(
+    17.6292,
+    45.1242
+  ),
+  koordinate(
+    17.6198,
+    45.1162
+  ),
+  koordinate(
+    17.6097,
+    45.1117
+  ),
+  koordinate(
+    17.5918,
+    45.1121
+  ),
+  koordinate(
+    17.5828,
+    45.1151
+  ),
+  koordinate(
+    17.5717,
+    45.1146
+  ),
+  koordinate(
+    17.5602,
+    45.1114
+  ),
+  koordinate(
+    17.5504,
+    45.1159
+  ),
+  koordinate(
+    17.5485,
+    45.1286
+  ),
+  koordinate(
+    17.5277,
+    45.1094
+  ),
+  koordinate(
+    17.5155,
+    45.1058
+  ),
+  koordinate(
+    17.4783,
+    45.1107
+  ),
+  koordinate(
+    17.472,
+    45.116
+  ),
+  koordinate(
+    17.4728,
+    45.1234
+  ),
+  koordinate(
+    17.481,
+    45.1348
+  ),
+  koordinate(
+    17.4635,
+    45.1274
+  ),
+  koordinate(
+    17.4533,
+    45.1268
+  ),
+  koordinate(
+    17.4426,
+    45.1307
+  ),
+  koordinate(
+    17.4384,
+    45.1367
+  ),
+  koordinate(
+    17.4368,
+    45.1425
+  ),
+  koordinate(
+    17.4386,
+    45.1524
+  ),
+  koordinate(
+    17.4349,
+    45.1573
+  ),
+  koordinate(
+    17.4176,
+    45.1362
+  ),
+  koordinate(
+    17.4053,
+    45.1352
+  ),
+  koordinate(
+    17.3651,
+    45.1383
+  ),
+  koordinate(
+    17.3494,
+    45.1412
+  ),
+  koordinate(
+    17.3346,
+    45.1473
+  ),
+  koordinate(
+    17.3276,
+    45.1529
+  ),
+  koordinate(
+    17.3256,
+    45.1571
+  ),
+  koordinate(
+    17.3193,
+    45.1609
+  ),
+  koordinate(
+    17.3117,
+    45.1654
+  ),
+  koordinate(
+    17.3035,
+    45.166
+  ),
+  koordinate(
+    17.3014,
+    45.1765
+  ),
+  koordinate(
+    17.2853,
+    45.1776
+  ),
+  koordinate(
+    17.2705,
+    45.1853
+  ),
+  koordinate(
+    17.254,
+    45.1533
+  ),
+  koordinate(
+    17.2471,
+    45.1483
+  ),
+  koordinate(
+    17.1783,
+    45.1521
+  ),
+  koordinate(
+    17.157,
+    45.1566
+  ),
+  koordinate(
+    17.1464,
+    45.1619
+  ),
+  koordinate(
+    17.1286,
+    45.1828
+  ),
+  koordinate(
+    17.1217,
+    45.1869
+  ),
+  koordinate(
+    17.1205,
+    45.1899
+  ),
+  koordinate(
+    17.122,
+    45.1941
+  ),
+  koordinate(
+    17.1016,
+    45.2041
+  ),
+  koordinate(
+    17.0915,
+    45.2118
+  ),
+  koordinate(
+    17.0789,
+    45.2138
+  ),
+  koordinate(
+    17.0771,
+    45.2174
+  ),
+  koordinate(
+    17.0806,
+    45.2269
+  ),
+  koordinate(
+    17.0946,
+    45.2453
+  ),
+  koordinate(
+    17.1004,
+    45.2488
+  ),
+  koordinate(
+    17.1222,
+    45.2545
+  ),
+  koordinate(
+    17.1346,
+    45.2614
+  ),
+  koordinate(
+    17.1487,
+    45.2805
+  ),
+  koordinate(
+    17.159,
+    45.2904
+  ),
+  koordinate(
+    17.1817,
+    45.2959
+  ),
+  koordinate(
+    17.1811,
+    45.3006
+  ),
+  koordinate(
+    17.1711,
+    45.3085
+  ),
+  koordinate(
+    17.1702,
+    45.3129
+  ),
+  koordinate(
+    17.1758,
+    45.3225
+  ),
+  koordinate(
+    17.1803,
+    45.3245
+  ),
+  koordinate(
+    17.1884,
+    45.3249
+  ),
+  koordinate(
+    17.1905,
+    45.3286
+  ),
+  koordinate(
+    17.1863,
+    45.335
+  ),
+  koordinate(
+    17.1762,
+    45.3388
+  ),
+  koordinate(
+    17.1723,
+    45.3468
+  ),
+  koordinate(
+    17.1801,
+    45.3507
+  ),
+  koordinate(
+    17.1862,
+    45.3591
+  ),
+  koordinate(
+    17.1975,
+    45.3667
+  ),
+  koordinate(
+    17.2069,
+    45.376
+  ),
+  koordinate(
+    17.2238,
+    45.3856
+  ),
+  koordinate(
+    17.2369,
+    45.3888
+  ),
+  koordinate(
+    17.2525,
+    45.3873
+  ),
+  koordinate(
+    17.26,
+    45.3851
+  ),
+  koordinate(
+    17.2754,
+    45.3731
+  ),
+  koordinate(
+    17.2918,
+    45.3665
+  ),
+  koordinate(
+    17.3097,
+    45.364
+  ),
+  koordinate(
+    17.3298,
+    45.3668
+  ),
+  koordinate(
+    17.3268,
+    45.3776
+  ),
+  koordinate(
+    17.3298,
+    45.3816
+  ),
+  koordinate(
+    17.3543,
+    45.3801
+  ),
+  koordinate(
+    17.386,
+    45.3886
+  ),
+  koordinate(
+    17.4119,
+    45.3764
+  ),
+  koordinate(
+    17.4214,
+    45.3675
+  ),
+  koordinate(
+    17.4301,
+    45.3625
+  ),
+  koordinate(
+    17.4344,
+    45.3566
+  ),
+  koordinate(
+    17.4432,
+    45.3501
+  ),
+  koordinate(
+    17.469,
+    45.3434
+  ),
+  koordinate(
+    17.4703,
+    45.3413
+  ),
+  koordinate(
+    17.4701,
+    45.3326
+  ),
+  koordinate(
+    17.4724,
+    45.3279
+  ),
+  koordinate(
+    17.4885,
+    45.3078
+  ),
+  koordinate(
+    17.5097,
+    45.3046
+  ),
+  koordinate(
+    17.5298,
+    45.2984
+  ),
+  koordinate(
+    17.5345,
+    45.2958
+  ),
+  koordinate(
+    17.5395,
+    45.289
+  ),
+  koordinate(
+    17.5467,
+    45.2842
+  ),
+  koordinate(
+    17.5662,
+    45.2776
+  ),
+  koordinate(
+    17.5776,
+    45.2717
+  ),
+  koordinate(
+    17.6142,
+    45.2711
+  ),
+  koordinate(
+    17.643,
+    45.2757
+  ),
+  koordinate(
+    17.6767,
+    45.2732
+  ),
+  koordinate(
+    17.6902,
+    45.2553
+  ),
+  koordinate(
+    17.6903,
+    45.2322
+  ),
+  koordinate(
+    17.6987,
+    45.2211
+  ),
+  koordinate(
+    17.697,
+    45.216
+  ),
+  koordinate(
+    17.6857,
+    45.2068
+  ),
+  koordinate(
+    17.6998,
+    45.1994
+  ),
+  koordinate(
+    17.7055,
+    45.1947
+  ),
+  koordinate(
+    17.7143,
+    45.1929
+  ),
+  koordinate(
+    17.7327,
+    45.1935
+  ),
+  koordinate(
+    17.7404,
+    45.1901
+  ),
+  koordinate(
+    17.7453,
+    45.1906
+  ),
+  koordinate(
+    17.7524,
+    45.1931
+  ),
+  koordinate(
+    17.7555,
+    45.2057
+  ),
+  koordinate(
+    17.7674,
+    45.2112
+  ),
+  koordinate(
+    17.7711,
+    45.2191
+  ),
+  koordinate(
+    17.7736,
+    45.2211
+  ),
+  koordinate(
+    17.7965,
+    45.2179
+  ),
+  koordinate(
+    17.8058,
+    45.2201
+  ),
+  koordinate(
+    17.8212,
+    45.2265
+  ),
+  koordinate(
+    17.8279,
+    45.2396
+  ),
+  koordinate(
+    17.8584,
+    45.2603
+  ),
+  koordinate(
+    17.869,
+    45.2654
+  ),
+  koordinate(
+    17.8692,
+    45.2759
+  ),
+  koordinate(
+    17.8805,
+    45.2942
+  ),
+  koordinate(
+    17.8867,
+    45.2966
+  ),
+  koordinate(
+    17.9089,
+    45.299
+  ),
+  koordinate(
+    17.9725,
+    45.2973
+  ),
+  koordinate(
+    18.009,
+    45.2929
+  ),
+  koordinate(
+    18.0276,
+    45.2889
+  ),
+  koordinate(
+    18.0426,
+    45.2834
+  ),
+  koordinate(
+    18.0609,
+    45.2807
+  ),
+  koordinate(
+    18.0742,
+    45.2739
+  ),
+  koordinate(
+    18.0941,
+    45.2688
+  ),
+  koordinate(
+    18.1294,
+    45.2672
+  ),
+  koordinate(
+    18.1322,
+    45.2613
+  ),
+  koordinate(
+    18.1357,
+    45.2591
+  ),
+  koordinate(
+    18.1532,
+    45.2586
+  ),
+  koordinate(
+    18.1713,
+    45.2554
+  ),
+  koordinate(
+    18.1793,
+    45.2506
+  ),
+  koordinate(
+    18.1853,
+    45.2395
+  ),
+  koordinate(
+    18.2041,
+    45.2316
+  ),
+  koordinate(
+    18.2183,
+    45.2277
+  ),
+  koordinate(
+    18.2306,
+    45.2354
+  ),
+  koordinate(
+    18.2605,
+    45.2395
+  ),
+  koordinate(
+    18.2791,
+    45.2512
+  ),
+  koordinate(
+    18.2903,
+    45.2558
+  ),
+  koordinate(
+    18.2974,
+    45.2572
+  ),
+  koordinate(
+    18.3199,
+    45.2551
+  ),
+  koordinate(
+    18.3489,
+    45.2584
+  ),
+  koordinate(
+    18.3651,
+    45.2527
+  ),
+  koordinate(
+    18.3781,
+    45.2509
+  ),
+  koordinate(
+    18.3825,
+    45.2438
+  ),
+  koordinate(
+    18.3889,
+    45.2393
+  ),
+  koordinate(
+    18.4167,
+    45.2352
+  ),
+  koordinate(
+    18.4232,
+    45.2283
+  ),
+  koordinate(
+    18.4288,
+    45.2253
+  ),
+  koordinate(
+    18.4472,
+    45.2217
+  ),
+  koordinate(
+    18.4516,
+    45.2248
+  ),
+  koordinate(
+    18.4596,
+    45.2258
+  ),
+  koordinate(
+    18.464,
+    45.2234
+  ),
+  koordinate(
+    18.4709,
+    45.2161
+  ),
+  koordinate(
+    18.4826,
+    45.2214
+  ),
+  koordinate(
+    18.4916,
+    45.2218
+  ),
+  koordinate(
+    18.4967,
+    45.218
+  ),
+  koordinate(
+    18.5058,
+    45.217
+  ),
+  koordinate(
+    18.5103,
+    45.2187
+  ),
+  koordinate(
+    18.5114,
+    45.2212
+  ),
+  koordinate(
+    18.5205,
+    45.2222
+  ),
+  koordinate(
+    18.5263,
+    45.2295
+  ),
+  koordinate(
+    18.5291,
+    45.243
+  ),
+  koordinate(
+    18.5441,
+    45.2411
+  ),
+  koordinate(
+    18.5517,
+    45.236
+  ),
+  koordinate(
+    18.5623,
+    45.2381
+  ),
+  koordinate(
+    18.5656,
+    45.2338
+  ),
+  koordinate(
+    18.5633,
+    45.2224
+  ),
+  koordinate(
+    18.5599,
+    45.2145
+  ),
+  koordinate(
+    18.5624,
+    45.2053
+  ),
+  koordinate(
+    18.5382,
+    45.1989
+  ),
+  koordinate(
+    18.5274,
+    45.1903
+  ),
+  koordinate(
+    18.52,
+    45.1824
+  ),
+  koordinate(
+    18.517,
+    45.1762
+  ),
+  koordinate(
+    18.5001,
+    45.1577
+  ),
+  koordinate(
+    18.4921,
+    45.1401
+  ),
+  koordinate(
+    18.4866,
+    45.1358
+  ),
+  koordinate(
+    18.4891,
+    45.1256
+  ),
+  koordinate(
+    18.4992,
+    45.1138
+  ),
+  koordinate(
+    18.5036,
+    45.1099
+  ),
+  koordinate(
+    18.5179,
+    45.1031
+  ),
+  koordinate(
+    18.5221,
+    45.1037
+  ),
+  koordinate(
+    18.523,
+    45.0986
+  ),
+  koordinate(
+    18.539,
+    45.0886
+  ),
+  koordinate(
+    18.5404,
+    45.0845
+  ),
+  koordinate(
+    18.5306,
+    45.0754
+  ),
+  koordinate(
+    18.5272,
+    45.0688
+  ),
+  koordinate(
+    18.5255,
+    45.0602
+  ),
+  koordinate(
+    18.5206,
+    45.0582
+  ),
+  koordinate(
+    18.5085,
+    45.0723
+  ),
+  koordinate(
+    18.4838,
+    45.0713
+  ),
+  koordinate(
+    18.4675,
+    45.0749
+  ),
+  koordinate(
+    18.4277,
+    45.1033
+  ),
+  koordinate(
+    18.4237,
+    45.114
+  ),
+  koordinate(
+    18.4049,
+    45.1237
+  ),
+  koordinate(
+    18.3394,
+    45.1176
+  ),
+  koordinate(
+    18.3088,
+    45.1182
+  ),
+  koordinate(
+    18.3029,
+    45.1272
+  ),
+  koordinate(
+    18.2876,
+    45.1297
+  ),
+  koordinate(
+    18.2717,
+    45.1292
+  ),
+  koordinate(
+    18.263,
+    45.1391
+  ),
+  koordinate(
+    18.2547,
+    45.1526
+  ),
+  koordinate(
+    18.2222,
+    45.1502
+  ),
+  koordinate(
+    18.2076,
+    45.1399
+  ),
+  koordinate(
+    18.207,
+    45.1311
+  ),
+  koordinate(
+    18.213,
+    45.1223
+  ),
+  koordinate(
+    18.213,
+    45.1125
+  ),
+  koordinate(
+    18.2051,
+    45.1007
+  ),
+  koordinate(
+    18.189,
+    45.0918
+  ),
+  koordinate(
+    18.1689,
+    45.0884
+  ),
+  koordinate(
+    18.1432,
+    45.0974
+  ),
+  koordinate(
+    18.1171,
+    45.0952
+  ),
+  koordinate(
+    18.0969,
+    45.0979
+  ),
+  koordinate(
+    18.0893,
+    45.1082
+  ),
+  koordinate(
+    18.0796,
+    45.1161
+  ),
+  koordinate(
+    18.0644,
+    45.1221
+  ),
+  koordinate(
+    18.0633,
+    45.1285
+  ),
+  koordinate(
+    18.0677,
+    45.1354
+  ),
+  koordinate(
+    18.0534,
+    45.1534
+  ),
+  koordinate(
+    18.0431,
+    45.1536
+  ),
+  koordinate(
+    18.0272,
+    45.1396
+  ),
+  koordinate(
+    18.0135,
+    45.1499
+  ),
+  koordinate(
+    18.0033,
+    45.1603
+  ),
+  koordinate(
+    17.9912,
+    45.1636
+  ),
+  koordinate(
+    17.982,
+    45.1608
+  ),
+  koordinate(
+    17.9708,
+    45.1547
+  ),
+  koordinate(
+    17.9617,
+    45.1454
+  ),
+  koordinate(
+    17.9571,
+    45.1335
+  ),
+  koordinate(
+    17.9461,
+    45.1257
+  ),
+  koordinate(
+    17.9284,
+    45.1213
+  ),
+  koordinate(
+    17.9251,
+    45.1126
+  ),
+  koordinate(
+    17.9246,
+    45.1019
+  ),
+  koordinate(
+    17.9173,
+    45.0876
+  ),
+  koordinate(
+    17.9003,
+    45.0765
+  )
+]
+export var neretvanska = [
+  koordinate(
+    13.9118,
+    44.8149
+  ),
+  koordinate(
+    13.9176,
+    44.8127
+  ),
+  koordinate(
+    13.9188,
+    44.8104
+  ),
+  koordinate(
+    13.9168,
+    44.8093
+  ),
+  koordinate(
+    13.919,
+    44.8098
+  ),
+  koordinate(
+    13.9199,
+    44.8057
+  ),
+  koordinate(
+    13.9249,
+    44.8032
+  ),
+  koordinate(
+    13.9229,
+    44.8007
+  ),
+  koordinate(
+    13.9201,
+    44.801
+  ),
+  koordinate(
+    13.9213,
+    44.8001
+  ),
+  koordinate(
+    13.9204,
+    44.7971
+  ),
+  koordinate(
+    13.9221,
+    44.7955
+  ),
+  koordinate(
+    13.9185,
+    44.7957
+  ),
+  koordinate(
+    13.9171,
+    44.7918
+  ),
+  koordinate(
+    13.9146,
+    44.7921
+  ),
+  koordinate(
+    13.9165,
+    44.7857
+  ),
+  koordinate(
+    13.9199,
+    44.7863
+  ),
+  koordinate(
+    13.9174,
+    44.7829
+  ),
+  koordinate(
+    13.9204,
+    44.7821
+  ),
+  koordinate(
+    13.921,
+    44.7796
+  ),
+  koordinate(
+    13.9132,
+    44.7768
+  ),
+  koordinate(
+    13.9143,
+    44.7746
+  ),
+  koordinate(
+    13.9215,
+    44.7771
+  ),
+  koordinate(
+    13.9235,
+    44.7735
+  ),
+  koordinate(
+    13.9174,
+    44.7718
+  ),
+  koordinate(
+    13.9235,
+    44.7713
+  ),
+  koordinate(
+    13.9246,
+    44.7696
+  ),
+  koordinate(
+    13.9271,
+    44.7704
+  ),
+  koordinate(
+    13.9271,
+    44.7682
+  ),
+  koordinate(
+    13.9246,
+    44.766
+  ),
+  koordinate(
+    13.9182,
+    44.7657
+  ),
+  koordinate(
+    13.9171,
+    44.7673
+  ),
+  koordinate(
+    13.9046,
+    44.7693
+  ),
+  koordinate(
+    13.9068,
+    44.7729
+  ),
+  koordinate(
+    13.9057,
+    44.7768
+  ),
+  koordinate(
+    13.9035,
+    44.7776
+  ),
+  koordinate(
+    13.9043,
+    44.7813
+  ),
+  koordinate(
+    13.9029,
+    44.7835
+  ),
+  koordinate(
+    13.9068,
+    44.7862
+  ),
+  koordinate(
+    13.9013,
+    44.786
+  ),
+  koordinate(
+    13.9029,
+    44.7893
+  ),
+  koordinate(
+    13.9001,
+    44.7901
+  ),
+  koordinate(
+    13.9001,
+    44.7915
+  ),
+  koordinate(
+    13.9035,
+    44.7943
+  ),
+  koordinate(
+    13.9015,
+    44.7988
+  ),
+  koordinate(
+    13.9037,
+    44.8025
+  ),
+  koordinate(
+    13.9035,
+    44.8054
+  ),
+  koordinate(
+    13.901,
+    44.8082
+  ),
+  koordinate(
+    13.886,
+    44.8096
+  ),
+  koordinate(
+    13.8807,
+    44.8054
+  ),
+  koordinate(
+    13.8732,
+    44.8046
+  ),
+  koordinate(
+    13.8743,
+    44.8071
+  ),
+  koordinate(
+    13.8782,
+    44.8088
+  ),
+  koordinate(
+    13.8663,
+    44.8085
+  ),
+  koordinate(
+    13.8615,
+    44.8124
+  ),
+  koordinate(
+    13.8659,
+    44.8177
+  ),
+  koordinate(
+    13.874,
+    44.8196
+  ),
+  koordinate(
+    13.8741,
+    44.8207
+  ),
+  koordinate(
+    13.8673,
+    44.8221
+  ),
+  koordinate(
+    13.861,
+    44.8151
+  ),
+  koordinate(
+    13.8557,
+    44.8154
+  ),
+  koordinate(
+    13.8532,
+    44.8179
+  ),
+  koordinate(
+    13.856,
+    44.8193
+  ),
+  koordinate(
+    13.8563,
+    44.821
+  ),
+  koordinate(
+    13.849,
+    44.8221
+  ),
+  koordinate(
+    13.8457,
+    44.8257
+  ),
+  koordinate(
+    13.8475,
+    44.8285
+  ),
+  koordinate(
+    13.8518,
+    44.8268
+  ),
+  koordinate(
+    13.8546,
+    44.829
+  ),
+  koordinate(
+    13.8615,
+    44.8282
+  ),
+  koordinate(
+    13.8604,
+    44.8332
+  ),
+  koordinate(
+    13.8507,
+    44.8304
+  ),
+  koordinate(
+    13.8438,
+    44.831
+  ),
+  koordinate(
+    13.8438,
+    44.8343
+  ),
+  koordinate(
+    13.8468,
+    44.8373
+  ),
+  koordinate(
+    13.8413,
+    44.8387
+  ),
+  koordinate(
+    13.8415,
+    44.8413
+  ),
+  koordinate(
+    13.8413,
+    44.8435
+  ),
+  koordinate(
+    13.8385,
+    44.8382
+  ),
+  koordinate(
+    13.8418,
+    44.8351
+  ),
+  koordinate(
+    13.8326,
+    44.8326
+  ),
+  koordinate(
+    13.8265,
+    44.8363
+  ),
+  koordinate(
+    13.834,
+    44.8429
+  ),
+  koordinate(
+    13.8313,
+    44.8432
+  ),
+  koordinate(
+    13.8304,
+    44.8474
+  ),
+  koordinate(
+    13.8329,
+    44.8499
+  ),
+  koordinate(
+    13.8296,
+    44.8507
+  ),
+  koordinate(
+    13.829,
+    44.8535
+  ),
+  koordinate(
+    13.8251,
+    44.8537
+  ),
+  koordinate(
+    13.8262,
+    44.8576
+  ),
+  koordinate(
+    13.8229,
+    44.8565
+  ),
+  koordinate(
+    13.8215,
+    44.859
+  ),
+  koordinate(
+    13.8168,
+    44.8605
+  ),
+  koordinate(
+    13.8157,
+    44.8571
+  ),
+  koordinate(
+    13.8185,
+    44.8549
+  ),
+  koordinate(
+    13.8143,
+    44.8532
+  ),
+  koordinate(
+    13.809,
+    44.8565
+  ),
+  koordinate(
+    13.8135,
+    44.8596
+  ),
+  koordinate(
+    13.8121,
+    44.8615
+  ),
+  koordinate(
+    13.8105,
+    44.8593
+  ),
+  koordinate(
+    13.8074,
+    44.859
+  ),
+  koordinate(
+    13.8057,
+    44.861
+  ),
+  koordinate(
+    13.7996,
+    44.8604
+  ),
+  koordinate(
+    13.7965,
+    44.8629
+  ),
+  koordinate(
+    13.7965,
+    44.8668
+  ),
+  koordinate(
+    13.7924,
+    44.8718
+  ),
+  koordinate(
+    13.7929,
+    44.8749
+  ),
+  koordinate(
+    13.7949,
+    44.8763
+  ),
+  koordinate(
+    13.8029,
+    44.8757
+  ),
+  koordinate(
+    13.8046,
+    44.8732
+  ),
+  koordinate(
+    13.8079,
+    44.8721
+  ),
+  koordinate(
+    13.8076,
+    44.8696
+  ),
+  koordinate(
+    13.8151,
+    44.8668
+  ),
+  koordinate(
+    13.8168,
+    44.8638
+  ),
+  koordinate(
+    13.8201,
+    44.866
+  ),
+  koordinate(
+    13.826,
+    44.864
+  ),
+  koordinate(
+    13.8274,
+    44.8665
+  ),
+  koordinate(
+    13.8357,
+    44.8646
+  ),
+  koordinate(
+    13.841,
+    44.8682
+  ),
+  koordinate(
+    13.8404,
+    44.871
+  ),
+  koordinate(
+    13.8432,
+    44.8732
+  ),
+  koordinate(
+    13.8485,
+    44.874
+  ),
+  koordinate(
+    13.8457,
+    44.8776
+  ),
+  koordinate(
+    13.8479,
+    44.8835
+  ),
+  koordinate(
+    13.8385,
+    44.8854
+  ),
+  koordinate(
+    13.8329,
+    44.881
+  ),
+  koordinate(
+    13.8335,
+    44.8788
+  ),
+  koordinate(
+    13.8321,
+    44.8779
+  ),
+  koordinate(
+    13.8224,
+    44.8788
+  ),
+  koordinate(
+    13.8201,
+    44.8774
+  ),
+  koordinate(
+    13.8204,
+    44.8757
+  ),
+  koordinate(
+    13.8168,
+    44.8754
+  ),
+  koordinate(
+    13.8165,
+    44.8785
+  ),
+  koordinate(
+    13.811,
+    44.8796
+  ),
+  koordinate(
+    13.8113,
+    44.8829
+  ),
+  koordinate(
+    13.8068,
+    44.8821
+  ),
+  koordinate(
+    13.8043,
+    44.8838
+  ),
+  koordinate(
+    13.8054,
+    44.8924
+  ),
+  koordinate(
+    13.7943,
+    44.8896
+  ),
+  koordinate(
+    13.7971,
+    44.8946
+  ),
+  koordinate(
+    13.8018,
+    44.8954
+  ),
+  koordinate(
+    13.8035,
+    44.8982
+  ),
+  koordinate(
+    13.8088,
+    44.8996
+  ),
+  koordinate(
+    13.8104,
+    44.9063
+  ),
+  koordinate(
+    13.8132,
+    44.9082
+  ),
+  koordinate(
+    13.8085,
+    44.909
+  ),
+  koordinate(
+    13.8093,
+    44.9118
+  ),
+  koordinate(
+    13.8049,
+    44.9132
+  ),
+  koordinate(
+    13.8012,
+    44.9193
+  ),
+  koordinate(
+    13.8026,
+    44.9254
+  ),
+  koordinate(
+    13.8019,
+    44.9313
+  ),
+  koordinate(
+    13.7899,
+    44.9401
+  ),
+  koordinate(
+    13.7896,
+    44.9457
+  ),
+  koordinate(
+    13.7821,
+    44.9515
+  ),
+  koordinate(
+    13.7846,
+    44.9546
+  ),
+  koordinate(
+    13.7843,
+    44.9565
+  ),
+  koordinate(
+    13.781,
+    44.9574
+  ),
+  koordinate(
+    13.7804,
+    44.9599
+  ),
+  koordinate(
+    13.7701,
+    44.9665
+  ),
+  koordinate(
+    13.7671,
+    44.9738
+  ),
+  koordinate(
+    13.7649,
+    44.9751
+  ),
+  koordinate(
+    13.7654,
+    44.9793
+  ),
+  koordinate(
+    13.761,
+    44.9829
+  ),
+  koordinate(
+    13.7615,
+    44.9857
+  ),
+  koordinate(
+    13.7565,
+    44.9871
+  ),
+  koordinate(
+    13.7546,
+    44.9854
+  ),
+  koordinate(
+    13.7446,
+    44.9854
+  ),
+  koordinate(
+    13.7413,
+    44.9874
+  ),
+  koordinate(
+    13.7349,
+    44.9857
+  ),
+  koordinate(
+    13.734,
+    44.9876
+  ),
+  koordinate(
+    13.7363,
+    44.9918
+  ),
+  koordinate(
+    13.7324,
+    44.9924
+  ),
+  koordinate(
+    13.731,
+    44.996
+  ),
+  koordinate(
+    13.7249,
+    44.9968
+  ),
+  koordinate(
+    13.7235,
+    44.9982
+  ),
+  koordinate(
+    13.7243,
+    45.0024
+  ),
+  koordinate(
+    13.7193,
+    45.0054
+  ),
+  koordinate(
+    13.7199,
+    45.0079
+  ),
+  koordinate(
+    13.7118,
+    45.0074
+  ),
+  koordinate(
+    13.7107,
+    45.0085
+  ),
+  koordinate(
+    13.7107,
+    45.0101
+  ),
+  koordinate(
+    13.714,
+    45.011
+  ),
+  koordinate(
+    13.7113,
+    45.0143
+  ),
+  koordinate(
+    13.7149,
+    45.0199
+  ),
+  koordinate(
+    13.714,
+    45.0218
+  ),
+  koordinate(
+    13.711,
+    45.0232
+  ),
+  koordinate(
+    13.7063,
+    45.021
+  ),
+  koordinate(
+    13.7015,
+    45.0238
+  ),
+  koordinate(
+    13.696,
+    45.0221
+  ),
+  koordinate(
+    13.6899,
+    45.0232
+  ),
+  koordinate(
+    13.689,
+    45.0274
+  ),
+  koordinate(
+    13.6924,
+    45.0297
+  ),
+  koordinate(
+    13.6901,
+    45.0313
+  ),
+  koordinate(
+    13.6907,
+    45.039
+  ),
+  koordinate(
+    13.681,
+    45.0435
+  ),
+  koordinate(
+    13.6823,
+    45.0477
+  ),
+  koordinate(
+    13.6871,
+    45.0482
+  ),
+  koordinate(
+    13.6885,
+    45.0507
+  ),
+  koordinate(
+    13.6838,
+    45.0507
+  ),
+  koordinate(
+    13.676,
+    45.0532
+  ),
+  koordinate(
+    13.6746,
+    45.0554
+  ),
+  koordinate(
+    13.6701,
+    45.0557
+  ),
+  koordinate(
+    13.6696,
+    45.0574
+  ),
+  koordinate(
+    13.6721,
+    45.0585
+  ),
+  koordinate(
+    13.6715,
+    45.0601
+  ),
+  koordinate(
+    13.6629,
+    45.0607
+  ),
+  koordinate(
+    13.6561,
+    45.0651
+  ),
+  koordinate(
+    13.6443,
+    45.0663
+  ),
+  koordinate(
+    13.6426,
+    45.064
+  ),
+  koordinate(
+    13.6383,
+    45.0649
+  ),
+  koordinate(
+    13.6371,
+    45.0629
+  ),
+  koordinate(
+    13.6349,
+    45.0641
+  ),
+  koordinate(
+    13.6287,
+    45.0629
+  ),
+  koordinate(
+    13.6293,
+    45.066
+  ),
+  koordinate(
+    13.6268,
+    45.0674
+  ),
+  koordinate(
+    13.626,
+    45.0704
+  ),
+  koordinate(
+    13.636,
+    45.0696
+  ),
+  koordinate(
+    13.6363,
+    45.0715
+  ),
+  koordinate(
+    13.6329,
+    45.076
+  ),
+  koordinate(
+    13.6385,
+    45.0795
+  ),
+  koordinate(
+    13.6321,
+    45.0799
+  ),
+  koordinate(
+    13.6285,
+    45.0843
+  ),
+  koordinate(
+    13.6335,
+    45.0843
+  ),
+  koordinate(
+    13.6404,
+    45.0868
+  ),
+  koordinate(
+    13.6404,
+    45.0962
+  ),
+  koordinate(
+    13.6357,
+    45.0979
+  ),
+  koordinate(
+    13.634,
+    45.0946
+  ),
+  koordinate(
+    13.6301,
+    45.0937
+  ),
+  koordinate(
+    13.629,
+    45.0951
+  ),
+  koordinate(
+    13.6315,
+    45.0979
+  ),
+  koordinate(
+    13.631,
+    45.0996
+  ),
+  koordinate(
+    13.6224,
+    45.0999
+  ),
+  koordinate(
+    13.6213,
+    45.1024
+  ),
+  koordinate(
+    13.6135,
+    45.1057
+  ),
+  koordinate(
+    13.6115,
+    45.1079
+  ),
+  koordinate(
+    13.6115,
+    45.1115
+  ),
+  koordinate(
+    13.6071,
+    45.1146
+  ),
+  koordinate(
+    13.6074,
+    45.1179
+  ),
+  koordinate(
+    13.6162,
+    45.1174
+  ),
+  koordinate(
+    13.6165,
+    45.1185
+  ),
+  koordinate(
+    13.6143,
+    45.1191
+  ),
+  koordinate(
+    13.6146,
+    45.121
+  ),
+  koordinate(
+    13.6199,
+    45.1196
+  ),
+  koordinate(
+    13.6238,
+    45.1165
+  ),
+  koordinate(
+    13.6235,
+    45.1201
+  ),
+  koordinate(
+    13.6265,
+    45.1221
+  ),
+  koordinate(
+    13.6204,
+    45.1232
+  ),
+  koordinate(
+    13.6226,
+    45.1257
+  ),
+  koordinate(
+    13.6176,
+    45.1329
+  ),
+  koordinate(
+    13.6129,
+    45.1304
+  ),
+  koordinate(
+    13.6035,
+    45.1315
+  ),
+  koordinate(
+    13.601,
+    45.1387
+  ),
+  koordinate(
+    13.5963,
+    45.1407
+  ),
+  koordinate(
+    13.6004,
+    45.1429
+  ),
+  koordinate(
+    13.5974,
+    45.1449
+  ),
+  koordinate(
+    13.599,
+    45.1493
+  ),
+  koordinate(
+    13.6018,
+    45.1493
+  ),
+  koordinate(
+    13.5974,
+    45.1499
+  ),
+  koordinate(
+    13.5971,
+    45.1535
+  ),
+  koordinate(
+    13.6049,
+    45.1535
+  ),
+  koordinate(
+    13.6088,
+    45.1565
+  ),
+  koordinate(
+    13.6088,
+    45.1593
+  ),
+  koordinate(
+    13.6051,
+    45.1604
+  ),
+  koordinate(
+    13.6051,
+    45.1621
+  ),
+  koordinate(
+    13.5999,
+    45.1629
+  ),
+  koordinate(
+    13.6035,
+    45.1651
+  ),
+  koordinate(
+    13.5963,
+    45.1674
+  ),
+  koordinate(
+    13.5988,
+    45.1701
+  ),
+  koordinate(
+    13.5982,
+    45.1721
+  ),
+  koordinate(
+    13.5924,
+    45.1729
+  ),
+  koordinate(
+    13.5904,
+    45.1715
+  ),
+  koordinate(
+    13.5904,
+    45.174
+  ),
+  koordinate(
+    13.5882,
+    45.1754
+  ),
+  koordinate(
+    13.5904,
+    45.1774
+  ),
+  koordinate(
+    13.5971,
+    45.1768
+  ),
+  koordinate(
+    13.5988,
+    45.1784
+  ),
+  koordinate(
+    13.6026,
+    45.1782
+  ),
+  koordinate(
+    13.6035,
+    45.1799
+  ),
+  koordinate(
+    13.5957,
+    45.1857
+  ),
+  koordinate(
+    13.5899,
+    45.1854
+  ),
+  koordinate(
+    13.5904,
+    45.189
+  ),
+  koordinate(
+    13.5849,
+    45.191
+  ),
+  koordinate(
+    13.5843,
+    45.1946
+  ),
+  koordinate(
+    13.5793,
+    45.1979
+  ),
+  koordinate(
+    13.581,
+    45.1993
+  ),
+  koordinate(
+    13.5899,
+    45.1993
+  ),
+  koordinate(
+    13.5896,
+    45.201
+  ),
+  koordinate(
+    13.5854,
+    45.2038
+  ),
+  koordinate(
+    13.5862,
+    45.206
+  ),
+  koordinate(
+    13.5896,
+    45.2057
+  ),
+  koordinate(
+    13.5915,
+    45.2026
+  ),
+  koordinate(
+    13.5982,
+    45.204
+  ),
+  koordinate(
+    13.5971,
+    45.2071
+  ),
+  koordinate(
+    13.5935,
+    45.2079
+  ),
+  koordinate(
+    13.5899,
+    45.2065
+  ),
+  koordinate(
+    13.5874,
+    45.209
+  ),
+  koordinate(
+    13.5904,
+    45.2093
+  ),
+  koordinate(
+    13.5899,
+    45.2115
+  ),
+  koordinate(
+    13.5885,
+    45.2115
+  ),
+  koordinate(
+    13.5885,
+    45.2143
+  ),
+  koordinate(
+    13.5929,
+    45.214
+  ),
+  koordinate(
+    13.594,
+    45.2155
+  ),
+  koordinate(
+    13.5918,
+    45.2176
+  ),
+  koordinate(
+    13.5938,
+    45.2257
+  ),
+  koordinate(
+    13.5882,
+    45.2282
+  ),
+  koordinate(
+    13.5917,
+    45.2293
+  ),
+  koordinate(
+    13.5976,
+    45.2285
+  ),
+  koordinate(
+    13.5985,
+    45.2321
+  ),
+  koordinate(
+    13.594,
+    45.2374
+  ),
+  koordinate(
+    13.5965,
+    45.2379
+  ),
+  koordinate(
+    13.5976,
+    45.2421
+  ),
+  koordinate(
+    13.5999,
+    45.2438
+  ),
+  koordinate(
+    13.5893,
+    45.2485
+  ),
+  koordinate(
+    13.5949,
+    45.2518
+  ),
+  koordinate(
+    13.5955,
+    45.2535
+  ),
+  koordinate(
+    13.5937,
+    45.2549
+  ),
+  koordinate(
+    13.5837,
+    45.2532
+  ),
+  koordinate(
+    13.5818,
+    45.2549
+  ),
+  koordinate(
+    13.576,
+    45.2554
+  ),
+  koordinate(
+    13.576,
+    45.2571
+  ),
+  koordinate(
+    13.5801,
+    45.2596
+  ),
+  koordinate(
+    13.5815,
+    45.2649
+  ),
+  koordinate(
+    13.5771,
+    45.2651
+  ),
+  koordinate(
+    13.5749,
+    45.2632
+  ),
+  koordinate(
+    13.5726,
+    45.2646
+  ),
+  koordinate(
+    13.5799,
+    45.269
+  ),
+  koordinate(
+    13.5796,
+    45.2713
+  ),
+  koordinate(
+    13.5823,
+    45.2727
+  ),
+  koordinate(
+    13.5824,
+    45.2751
+  ),
+  koordinate(
+    13.5807,
+    45.2765
+  ),
+  koordinate(
+    13.5815,
+    45.2779
+  ),
+  koordinate(
+    13.5868,
+    45.2754
+  ),
+  koordinate(
+    13.5893,
+    45.2768
+  ),
+  koordinate(
+    13.5935,
+    45.2754
+  ),
+  koordinate(
+    13.5963,
+    45.2771
+  ),
+  koordinate(
+    13.6015,
+    45.2768
+  ),
+  koordinate(
+    13.5963,
+    45.2796
+  ),
+  koordinate(
+    13.6007,
+    45.2849
+  ),
+  koordinate(
+    13.5974,
+    45.2821
+  ),
+  koordinate(
+    13.5868,
+    45.2837
+  ),
+  koordinate(
+    13.5815,
+    45.2876
+  ),
+  koordinate(
+    13.581,
+    45.2899
+  ),
+  koordinate(
+    13.5685,
+    45.2976
+  ),
+  koordinate(
+    13.5691,
+    45.2991
+  ),
+  koordinate(
+    13.5749,
+    45.3005
+  ),
+  koordinate(
+    13.5818,
+    45.2982
+  ),
+  koordinate(
+    13.5899,
+    45.2979
+  ),
+  koordinate(
+    13.5871,
+    45.3021
+  ),
+  koordinate(
+    13.591,
+    45.3063
+  ),
+  koordinate(
+    13.5996,
+    45.3079
+  ),
+  koordinate(
+    13.6061,
+    45.3124
+  ),
+  koordinate(
+    13.6115,
+    45.3118
+  ),
+  koordinate(
+    13.6143,
+    45.3135
+  ),
+  koordinate(
+    13.6029,
+    45.3149
+  ),
+  koordinate(
+    13.6065,
+    45.3185
+  ),
+  koordinate(
+    13.6038,
+    45.3171
+  ),
+  koordinate(
+    13.5965,
+    45.3171
+  ),
+  koordinate(
+    13.601,
+    45.321
+  ),
+  koordinate(
+    13.5985,
+    45.3221
+  ),
+  koordinate(
+    13.5908,
+    45.321
+  ),
+  koordinate(
+    13.5924,
+    45.3193
+  ),
+  koordinate(
+    13.5919,
+    45.3168
+  ),
+  koordinate(
+    13.5887,
+    45.3146
+  ),
+  koordinate(
+    13.5729,
+    45.3135
+  ),
+  koordinate(
+    13.5674,
+    45.3157
+  ),
+  koordinate(
+    13.5651,
+    45.314
+  ),
+  koordinate(
+    13.5601,
+    45.314
+  ),
+  koordinate(
+    13.5568,
+    45.3157
+  ),
+  koordinate(
+    13.5638,
+    45.3196
+  ),
+  koordinate(
+    13.5632,
+    45.3221
+  ),
+  koordinate(
+    13.5568,
+    45.3243
+  ),
+  koordinate(
+    13.556,
+    45.321
+  ),
+  koordinate(
+    13.5524,
+    45.3213
+  ),
+  koordinate(
+    13.5513,
+    45.3257
+  ),
+  koordinate(
+    13.5393,
+    45.3282
+  ),
+  koordinate(
+    13.5396,
+    45.3313
+  ),
+  koordinate(
+    13.544,
+    45.3329
+  ),
+  koordinate(
+    13.5438,
+    45.3346
+  ),
+  koordinate(
+    13.5404,
+    45.3363
+  ),
+  koordinate(
+    13.5404,
+    45.3382
+  ),
+  koordinate(
+    13.5443,
+    45.341
+  ),
+  koordinate(
+    13.5393,
+    45.3471
+  ),
+  koordinate(
+    13.5376,
+    45.3526
+  ),
+  koordinate(
+    13.5443,
+    45.3524
+  ),
+  koordinate(
+    13.5501,
+    45.354
+  ),
+  koordinate(
+    13.5551,
+    45.3582
+  ),
+  koordinate(
+    13.5515,
+    45.3605
+  ),
+  koordinate(
+    13.5419,
+    45.3607
+  ),
+  koordinate(
+    13.5407,
+    45.3688
+  ),
+  koordinate(
+    13.5446,
+    45.3726
+  ),
+  koordinate(
+    13.536,
+    45.3743
+  ),
+  koordinate(
+    13.5351,
+    45.3757
+  ),
+  koordinate(
+    13.5447,
+    45.3785
+  ),
+  koordinate(
+    13.5376,
+    45.381
+  ),
+  koordinate(
+    13.5326,
+    45.3851
+  ),
+  koordinate(
+    13.5323,
+    45.3885
+  ),
+  koordinate(
+    13.5393,
+    45.3915
+  ),
+  koordinate(
+    13.5307,
+    45.3954
+  ),
+  koordinate(
+    13.5363,
+    45.4015
+  ),
+  koordinate(
+    13.5293,
+    45.4029
+  ),
+  koordinate(
+    13.5276,
+    45.4065
+  ),
+  koordinate(
+    13.5246,
+    45.4065
+  ),
+  koordinate(
+    13.5224,
+    45.4107
+  ),
+  koordinate(
+    13.5154,
+    45.4151
+  ),
+  koordinate(
+    13.5171,
+    45.4213
+  ),
+  koordinate(
+    13.5157,
+    45.4235
+  ),
+  koordinate(
+    13.5199,
+    45.4218
+  ),
+  koordinate(
+    13.5241,
+    45.4254
+  ),
+  koordinate(
+    13.5185,
+    45.4274
+  ),
+  koordinate(
+    13.5193,
+    45.4327
+  ),
+  koordinate(
+    13.5154,
+    45.4343
+  ),
+  koordinate(
+    13.521,
+    45.4338
+  ),
+  koordinate(
+    13.524,
+    45.4379
+  ),
+  koordinate(
+    13.5185,
+    45.4396
+  ),
+  koordinate(
+    13.5171,
+    45.4376
+  ),
+  koordinate(
+    13.5118,
+    45.4379
+  ),
+  koordinate(
+    13.5118,
+    45.4404
+  ),
+  koordinate(
+    13.5079,
+    45.4407
+  ),
+  koordinate(
+    13.5096,
+    45.4437
+  ),
+  koordinate(
+    13.5149,
+    45.446
+  ),
+  koordinate(
+    13.5154,
+    45.449
+  ),
+  koordinate(
+    13.5118,
+    45.4499
+  ),
+  koordinate(
+    13.5112,
+    45.4518
+  ),
+  koordinate(
+    13.5168,
+    45.4532
+  ),
+  koordinate(
+    13.5126,
+    45.4579
+  ),
+  koordinate(
+    13.5079,
+    45.4582
+  ),
+  koordinate(
+    13.5113,
+    45.4596
+  ),
+  koordinate(
+    13.511,
+    45.4618
+  ),
+  koordinate(
+    13.5132,
+    45.4627
+  ),
+  koordinate(
+    13.5126,
+    45.4643
+  ),
+  koordinate(
+    13.5082,
+    45.4654
+  ),
+  koordinate(
+    13.5093,
+    45.4665
+  ),
+  koordinate(
+    13.5085,
+    45.4701
+  ),
+  koordinate(
+    13.5104,
+    45.4732
+  ),
+  koordinate(
+    13.501,
+    45.4771
+  ),
+  koordinate(
+    13.4896,
+    45.4865
+  ),
+  koordinate(
+    13.4913,
+    45.4912
+  ),
+  koordinate(
+    13.4985,
+    45.4918
+  ),
+  koordinate(
+    13.4968,
+    45.4979
+  ),
+  koordinate(
+    13.4985,
+    45.4993
+  ),
+  koordinate(
+    13.5037,
+    45.4993
+  ),
+  koordinate(
+    13.5018,
+    45.501
+  ),
+  koordinate(
+    13.5032,
+    45.5037
+  ),
+  koordinate(
+    13.511,
+    45.5057
+  ),
+  koordinate(
+    13.5185,
+    45.5021
+  ),
+  koordinate(
+    13.5243,
+    45.5018
+  ),
+  koordinate(
+    13.5535,
+    45.4921
+  ),
+  koordinate(
+    13.5601,
+    45.4876
+  ),
+  koordinate(
+    13.5671,
+    45.4854
+  ),
+  koordinate(
+    13.5684,
+    45.4831
+  ),
+  koordinate(
+    13.5954,
+    45.4631
+  ),
+  koordinate(
+    13.6169,
+    45.4608
+  ),
+  koordinate(
+    13.6328,
+    45.4564
+  ),
+  koordinate(
+    13.6545,
+    45.447
+  ),
+  koordinate(
+    13.7357,
+    45.4787
+  ),
+  koordinate(
+    13.7579,
+    45.4701
+  ),
+  koordinate(
+    13.7901,
+    45.4727
+  ),
+  koordinate(
+    13.8077,
+    45.4721
+  ),
+  koordinate(
+    13.8261,
+    45.4675
+  ),
+  koordinate(
+    13.8643,
+    45.4483
+  ),
+  koordinate(
+    13.8715,
+    45.4411
+  ),
+  koordinate(
+    13.8775,
+    45.4283
+  ),
+  koordinate(
+    13.9065,
+    45.4471
+  ),
+  koordinate(
+    13.9227,
+    45.4537
+  ),
+  koordinate(
+    13.9352,
+    45.4641
+  ),
+  koordinate(
+    13.9768,
+    45.464
+  ),
+  koordinate(
+    14,
+    45.4719
+  ),
+  koordinate(
+    14.0055,
+    45.4815
+  ),
+  koordinate(
+    14.0055,
+    45.4893
+  ),
+  koordinate(
+    14.0137,
+    45.4983
+  ),
+  koordinate(
+    14.0193,
+    45.5025
+  ),
+  koordinate(
+    14.0347,
+    45.5017
+  ),
+  koordinate(
+    14.0807,
+    45.4847
+  ),
+  koordinate(
+    14.1249,
+    45.4803
+  ),
+  koordinate(
+    14.1417,
+    45.4803
+  ),
+  koordinate(
+    14.1424,
+    45.4689
+  ),
+  koordinate(
+    14.1392,
+    45.4619
+  ),
+  koordinate(
+    14.1395,
+    45.4571
+  ),
+  koordinate(
+    14.1487,
+    45.4427
+  ),
+  koordinate(
+    14.1584,
+    45.4316
+  ),
+  koordinate(
+    14.1899,
+    45.4147
+  ),
+  koordinate(
+    14.2037,
+    45.4115
+  ),
+  koordinate(
+    14.2209,
+    45.4043
+  ),
+  koordinate(
+    14.2202,
+    45.3998
+  ),
+  koordinate(
+    14.2021,
+    45.3896
+  ),
+  koordinate(
+    14.1997,
+    45.3836
+  ),
+  koordinate(
+    14.2021,
+    45.3771
+  ),
+  koordinate(
+    14.2143,
+    45.3717
+  ),
+  koordinate(
+    14.2171,
+    45.3689
+  ),
+  koordinate(
+    14.2176,
+    45.3481
+  ),
+  koordinate(
+    14.2248,
+    45.3329
+  ),
+  koordinate(
+    14.2233,
+    45.3309
+  ),
+  koordinate(
+    14.2136,
+    45.3294
+  ),
+  koordinate(
+    14.2077,
+    45.3259
+  ),
+  koordinate(
+    14.1971,
+    45.31
+  ),
+  koordinate(
+    14.1961,
+    45.3049
+  ),
+  koordinate(
+    14.1991,
+    45.2874
+  ),
+  koordinate(
+    14.204,
+    45.2767
+  ),
+  koordinate(
+    14.1989,
+    45.2643
+  ),
+  koordinate(
+    14.1986,
+    45.2586
+  ),
+  koordinate(
+    14.2067,
+    45.2441
+  ),
+  koordinate(
+    14.2133,
+    45.2248
+  ),
+  koordinate(
+    14.2131,
+    45.2076
+  ),
+  koordinate(
+    14.2104,
+    45.1992
+  ),
+  koordinate(
+    14.2095,
+    45.1865
+  ),
+  koordinate(
+    14.2042,
+    45.1718
+  ),
+  koordinate(
+    14.2156,
+    45.1667
+  ),
+  koordinate(
+    14.2302,
+    45.1571
+  ),
+  koordinate(
+    14.2268,
+    45.1538
+  ),
+  koordinate(
+    14.2282,
+    45.1476
+  ),
+  koordinate(
+    14.2232,
+    45.1437
+  ),
+  koordinate(
+    14.2249,
+    45.1427
+  ),
+  koordinate(
+    14.2249,
+    45.1374
+  ),
+  koordinate(
+    14.2176,
+    45.1351
+  ),
+  koordinate(
+    14.2137,
+    45.1238
+  ),
+  koordinate(
+    14.2076,
+    45.116
+  ),
+  koordinate(
+    14.2012,
+    45.1201
+  ),
+  koordinate(
+    14.1929,
+    45.1226
+  ),
+  koordinate(
+    14.1899,
+    45.1282
+  ),
+  koordinate(
+    14.1824,
+    45.1329
+  ),
+  koordinate(
+    14.1785,
+    45.1329
+  ),
+  koordinate(
+    14.1869,
+    45.1282
+  ),
+  koordinate(
+    14.1882,
+    45.1215
+  ),
+  koordinate(
+    14.1979,
+    45.1146
+  ),
+  koordinate(
+    14.1981,
+    45.1065
+  ),
+  koordinate(
+    14.1901,
+    45.0932
+  ),
+  koordinate(
+    14.1799,
+    45.0857
+  ),
+  koordinate(
+    14.1757,
+    45.079
+  ),
+  koordinate(
+    14.1688,
+    45.076
+  ),
+  koordinate(
+    14.1663,
+    45.0724
+  ),
+  koordinate(
+    14.1604,
+    45.0737
+  ),
+  koordinate(
+    14.1585,
+    45.0779
+  ),
+  koordinate(
+    14.1521,
+    45.0785
+  ),
+  koordinate(
+    14.1537,
+    45.0693
+  ),
+  koordinate(
+    14.1496,
+    45.0671
+  ),
+  koordinate(
+    14.1557,
+    45.0651
+  ),
+  koordinate(
+    14.1551,
+    45.0635
+  ),
+  koordinate(
+    14.1571,
+    45.0604
+  ),
+  koordinate(
+    14.1601,
+    45.059
+  ),
+  koordinate(
+    14.159,
+    45.0554
+  ),
+  koordinate(
+    14.1565,
+    45.0549
+  ),
+  koordinate(
+    14.1551,
+    45.0521
+  ),
+  koordinate(
+    14.1588,
+    45.0521
+  ),
+  koordinate(
+    14.159,
+    45.0485
+  ),
+  koordinate(
+    14.1635,
+    45.0446
+  ),
+  koordinate(
+    14.1629,
+    45.041
+  ),
+  koordinate(
+    14.1601,
+    45.0418
+  ),
+  koordinate(
+    14.1493,
+    45.0521
+  ),
+  koordinate(
+    14.1429,
+    45.0535
+  ),
+  koordinate(
+    14.1443,
+    45.0505
+  ),
+  koordinate(
+    14.1499,
+    45.0479
+  ),
+  koordinate(
+    14.151,
+    45.0446
+  ),
+  koordinate(
+    14.1549,
+    45.0415
+  ),
+  koordinate(
+    14.1557,
+    45.0374
+  ),
+  koordinate(
+    14.161,
+    45.0332
+  ),
+  koordinate(
+    14.1596,
+    45.031
+  ),
+  koordinate(
+    14.1554,
+    45.0335
+  ),
+  koordinate(
+    14.1557,
+    45.0279
+  ),
+  koordinate(
+    14.161,
+    45.0232
+  ),
+  koordinate(
+    14.1593,
+    45.0207
+  ),
+  koordinate(
+    14.1643,
+    45.0201
+  ),
+  koordinate(
+    14.1651,
+    45.0171
+  ),
+  koordinate(
+    14.1626,
+    45.0146
+  ),
+  koordinate(
+    14.166,
+    45.0149
+  ),
+  koordinate(
+    14.1682,
+    45.011
+  ),
+  koordinate(
+    14.1668,
+    45.0043
+  ),
+  koordinate(
+    14.1715,
+    44.9932
+  ),
+  koordinate(
+    14.1721,
+    44.9868
+  ),
+  koordinate(
+    14.1701,
+    44.9796
+  ),
+  koordinate(
+    14.1669,
+    44.9785
+  ),
+  koordinate(
+    14.1657,
+    44.9749
+  ),
+  koordinate(
+    14.1593,
+    44.9707
+  ),
+  koordinate(
+    14.156,
+    44.9671
+  ),
+  koordinate(
+    14.156,
+    44.9643
+  ),
+  koordinate(
+    14.1476,
+    44.9565
+  ),
+  koordinate(
+    14.1438,
+    44.9562
+  ),
+  koordinate(
+    14.1385,
+    44.9621
+  ),
+  koordinate(
+    14.1371,
+    44.9663
+  ),
+  koordinate(
+    14.1224,
+    44.9613
+  ),
+  koordinate(
+    14.1176,
+    44.966
+  ),
+  koordinate(
+    14.1193,
+    44.9685
+  ),
+  koordinate(
+    14.1171,
+    44.9702
+  ),
+  koordinate(
+    14.1079,
+    44.971
+  ),
+  koordinate(
+    14.104,
+    44.9693
+  ),
+  koordinate(
+    14.0996,
+    44.9646
+  ),
+  koordinate(
+    14.0901,
+    44.9624
+  ),
+  koordinate(
+    14.0813,
+    44.9565
+  ),
+  koordinate(
+    14.076,
+    44.9463
+  ),
+  koordinate(
+    14.0643,
+    44.9449
+  ),
+  koordinate(
+    14.069,
+    44.949
+  ),
+  koordinate(
+    14.0674,
+    44.9599
+  ),
+  koordinate(
+    14.0727,
+    44.9632
+  ),
+  koordinate(
+    14.0724,
+    44.9696
+  ),
+  koordinate(
+    14.0768,
+    44.9712
+  ),
+  koordinate(
+    14.0885,
+    44.9699
+  ),
+  koordinate(
+    14.0912,
+    44.9718
+  ),
+  koordinate(
+    14.0987,
+    44.9712
+  ),
+  koordinate(
+    14.0987,
+    44.9726
+  ),
+  koordinate(
+    14.0951,
+    44.9749
+  ),
+  koordinate(
+    14.0899,
+    44.9754
+  ),
+  koordinate(
+    14.0874,
+    44.9776
+  ),
+  koordinate(
+    14.0871,
+    44.9849
+  ),
+  koordinate(
+    14.0824,
+    44.9837
+  ),
+  koordinate(
+    14.0801,
+    44.986
+  ),
+  koordinate(
+    14.079,
+    44.9946
+  ),
+  koordinate(
+    14.076,
+    44.9976
+  ),
+  koordinate(
+    14.0779,
+    45.0049
+  ),
+  koordinate(
+    14.0682,
+    44.9996
+  ),
+  koordinate(
+    14.054,
+    45.0035
+  ),
+  koordinate(
+    14.054,
+    45.0082
+  ),
+  koordinate(
+    14.0593,
+    45.0137
+  ),
+  koordinate(
+    14.0593,
+    45.0179
+  ),
+  koordinate(
+    14.0532,
+    45.021
+  ),
+  koordinate(
+    14.0535,
+    45.0274
+  ),
+  koordinate(
+    14.0493,
+    45.0293
+  ),
+  koordinate(
+    14.0474,
+    45.034
+  ),
+  koordinate(
+    14.0454,
+    45.0315
+  ),
+  koordinate(
+    14.0393,
+    45.0307
+  ),
+  koordinate(
+    14.0387,
+    45.0285
+  ),
+  koordinate(
+    14.0421,
+    45.0246
+  ),
+  koordinate(
+    14.0432,
+    45.0185
+  ),
+  koordinate(
+    14.0465,
+    45.0165
+  ),
+  koordinate(
+    14.0465,
+    45.0137
+  ),
+  koordinate(
+    14.0404,
+    45.0049
+  ),
+  koordinate(
+    14.0379,
+    45.0041
+  ),
+  koordinate(
+    14.0376,
+    45.0001
+  ),
+  koordinate(
+    14.0407,
+    45.0013
+  ),
+  koordinate(
+    14.0463,
+    45.0004
+  ),
+  koordinate(
+    14.0501,
+    44.9963
+  ),
+  koordinate(
+    14.0535,
+    44.9971
+  ),
+  koordinate(
+    14.069,
+    44.9935
+  ),
+  koordinate(
+    14.0712,
+    44.9918
+  ),
+  koordinate(
+    14.0729,
+    44.981
+  ),
+  koordinate(
+    14.0756,
+    44.9801
+  ),
+  koordinate(
+    14.0765,
+    44.9779
+  ),
+  koordinate(
+    14.0724,
+    44.9754
+  ),
+  koordinate(
+    14.0643,
+    44.9776
+  ),
+  koordinate(
+    14.0673,
+    44.9746
+  ),
+  koordinate(
+    14.0643,
+    44.9713
+  ),
+  koordinate(
+    14.0649,
+    44.9668
+  ),
+  koordinate(
+    14.0543,
+    44.9624
+  ),
+  koordinate(
+    14.0565,
+    44.959
+  ),
+  koordinate(
+    14.0513,
+    44.9549
+  ),
+  koordinate(
+    14.0546,
+    44.951
+  ),
+  koordinate(
+    14.0538,
+    44.9476
+  ),
+  koordinate(
+    14.0501,
+    44.9465
+  ),
+  koordinate(
+    14.0326,
+    44.9526
+  ),
+  koordinate(
+    14.0357,
+    44.9491
+  ),
+  koordinate(
+    14.0413,
+    44.9471
+  ),
+  koordinate(
+    14.0407,
+    44.9449
+  ),
+  koordinate(
+    14.0449,
+    44.9449
+  ),
+  koordinate(
+    14.0468,
+    44.941
+  ),
+  koordinate(
+    14.0504,
+    44.9396
+  ),
+  koordinate(
+    14.0504,
+    44.9374
+  ),
+  koordinate(
+    14.0476,
+    44.9349
+  ),
+  koordinate(
+    14.0437,
+    44.9343
+  ),
+  koordinate(
+    14.0457,
+    44.9307
+  ),
+  koordinate(
+    14.0424,
+    44.929
+  ),
+  koordinate(
+    14.0443,
+    44.9265
+  ),
+  koordinate(
+    14.0404,
+    44.9251
+  ),
+  koordinate(
+    14.0415,
+    44.9238
+  ),
+  koordinate(
+    14.0385,
+    44.9171
+  ),
+  koordinate(
+    14.0349,
+    44.9169
+  ),
+  koordinate(
+    14.0307,
+    44.923
+  ),
+  koordinate(
+    14.0265,
+    44.9254
+  ),
+  koordinate(
+    14.0288,
+    44.9196
+  ),
+  koordinate(
+    14.026,
+    44.9196
+  ),
+  koordinate(
+    14.0251,
+    44.9174
+  ),
+  koordinate(
+    14.0218,
+    44.9174
+  ),
+  koordinate(
+    14.0201,
+    44.9157
+  ),
+  koordinate(
+    14.0299,
+    44.9135
+  ),
+  koordinate(
+    14.0299,
+    44.9118
+  ),
+  koordinate(
+    14.0273,
+    44.9107
+  ),
+  koordinate(
+    14.0271,
+    44.9046
+  ),
+  koordinate(
+    14.0246,
+    44.9043
+  ),
+  koordinate(
+    14.024,
+    44.9018
+  ),
+  koordinate(
+    14.0199,
+    44.9015
+  ),
+  koordinate(
+    14.0157,
+    44.8963
+  ),
+  koordinate(
+    14.014,
+    44.8996
+  ),
+  koordinate(
+    14.0124,
+    44.8996
+  ),
+  koordinate(
+    14.0074,
+    44.8924
+  ),
+  koordinate(
+    13.9982,
+    44.8929
+  ),
+  koordinate(
+    13.9968,
+    44.8918
+  ),
+  koordinate(
+    13.9888,
+    44.8954
+  ),
+  koordinate(
+    13.9832,
+    44.9027
+  ),
+  koordinate(
+    13.981,
+    44.9021
+  ),
+  koordinate(
+    13.9835,
+    44.8985
+  ),
+  koordinate(
+    13.9813,
+    44.8929
+  ),
+  koordinate(
+    13.986,
+    44.8935
+  ),
+  koordinate(
+    13.9899,
+    44.8913
+  ),
+  koordinate(
+    13.9932,
+    44.8868
+  ),
+  koordinate(
+    14.0032,
+    44.8874
+  ),
+  koordinate(
+    14.0035,
+    44.8815
+  ),
+  koordinate(
+    14.0004,
+    44.8799
+  ),
+  koordinate(
+    13.9957,
+    44.8807
+  ),
+  koordinate(
+    13.9929,
+    44.8782
+  ),
+  koordinate(
+    13.9918,
+    44.8743
+  ),
+  koordinate(
+    13.9955,
+    44.8735
+  ),
+  koordinate(
+    13.9973,
+    44.8704
+  ),
+  koordinate(
+    13.9957,
+    44.8668
+  ),
+  koordinate(
+    14.001,
+    44.8651
+  ),
+  koordinate(
+    14.0018,
+    44.8635
+  ),
+  koordinate(
+    13.9927,
+    44.8609
+  ),
+  koordinate(
+    13.9915,
+    44.8557
+  ),
+  koordinate(
+    13.9826,
+    44.8524
+  ),
+  koordinate(
+    13.9826,
+    44.8482
+  ),
+  koordinate(
+    13.9793,
+    44.8404
+  ),
+  koordinate(
+    13.9824,
+    44.8363
+  ),
+  koordinate(
+    13.9854,
+    44.8354
+  ),
+  koordinate(
+    13.9874,
+    44.8315
+  ),
+  koordinate(
+    13.9893,
+    44.8315
+  ),
+  koordinate(
+    13.9893,
+    44.829
+  ),
+  koordinate(
+    13.9863,
+    44.8251
+  ),
+  koordinate(
+    13.9788,
+    44.8232
+  ),
+  koordinate(
+    13.9765,
+    44.8193
+  ),
+  koordinate(
+    13.9801,
+    44.8176
+  ),
+  koordinate(
+    13.9832,
+    44.8191
+  ),
+  koordinate(
+    13.9846,
+    44.8218
+  ),
+  koordinate(
+    13.9912,
+    44.8213
+  ),
+  koordinate(
+    13.9923,
+    44.8171
+  ),
+  koordinate(
+    13.991,
+    44.816
+  ),
+  koordinate(
+    13.9926,
+    44.814
+  ),
+  koordinate(
+    14.0004,
+    44.8121
+  ),
+  koordinate(
+    14.0005,
+    44.8091
+  ),
+  koordinate(
+    13.9976,
+    44.8076
+  ),
+  koordinate(
+    14.004,
+    44.8051
+  ),
+  koordinate(
+    14.0012,
+    44.8018
+  ),
+  koordinate(
+    13.9904,
+    44.8046
+  ),
+  koordinate(
+    13.9888,
+    44.8026
+  ),
+  koordinate(
+    13.9763,
+    44.8026
+  ),
+  koordinate(
+    13.9729,
+    44.8046
+  ),
+  koordinate(
+    13.9637,
+    44.8029
+  ),
+  koordinate(
+    13.9587,
+    44.8049
+  ),
+  koordinate(
+    13.9485,
+    44.8029
+  ),
+  koordinate(
+    13.9438,
+    44.8054
+  ),
+  koordinate(
+    13.9413,
+    44.8101
+  ),
+  koordinate(
+    13.9321,
+    44.8135
+  ),
+  koordinate(
+    13.9304,
+    44.8115
+  ),
+  koordinate(
+    13.9326,
+    44.8088
+  ),
+  koordinate(
+    13.9304,
+    44.8054
+  ),
+  koordinate(
+    13.9329,
+    44.8032
+  ),
+  koordinate(
+    13.9296,
+    44.8029
+  ),
+  koordinate(
+    13.9263,
+    44.809
+  ),
+  koordinate(
+    13.9279,
+    44.8101
+  ),
+  koordinate(
+    13.9282,
+    44.8143
+  ),
+  koordinate(
+    13.9337,
+    44.8176
+  ),
+  koordinate(
+    13.9301,
+    44.8196
+  ),
+  koordinate(
+    13.9285,
+    44.8163
+  ),
+  koordinate(
+    13.9215,
+    44.8165
+  ),
+  koordinate(
+    13.9213,
+    44.8196
+  ),
+  koordinate(
+    13.9229,
+    44.821
+  ),
+  koordinate(
+    13.9276,
+    44.8201
+  ),
+  koordinate(
+    13.9279,
+    44.8215
+  ),
+  koordinate(
+    13.9241,
+    44.8221
+  ),
+  koordinate(
+    13.9249,
+    44.8237
+  ),
+  koordinate(
+    13.9235,
+    44.8254
+  ),
+  koordinate(
+    13.9196,
+    44.8251
+  ),
+  koordinate(
+    13.9146,
+    44.8293
+  ),
+  koordinate(
+    13.9096,
+    44.8299
+  ),
+  koordinate(
+    13.911,
+    44.8243
+  ),
+  koordinate(
+    13.9087,
+    44.8218
+  ),
+  koordinate(
+    13.9001,
+    44.8246
+  ),
+  koordinate(
+    13.9001,
+    44.8232
+  ),
+  koordinate(
+    13.9043,
+    44.821
+  ),
+  koordinate(
+    13.9013,
+    44.8176
+  ),
+  koordinate(
+    13.8938,
+    44.8207
+  ),
+  koordinate(
+    13.8899,
+    44.8243
+  ),
+  koordinate(
+    13.8849,
+    44.824
+  ),
+  koordinate(
+    13.8829,
+    44.8224
+  ),
+  koordinate(
+    13.8838,
+    44.8199
+  ),
+  koordinate(
+    13.8882,
+    44.8185
+  ),
+  koordinate(
+    13.8882,
+    44.8168
+  ),
+  koordinate(
+    13.8976,
+    44.8173
+  ),
+  koordinate(
+    13.9026,
+    44.8146
+  ),
+  koordinate(
+    13.9118,
+    44.8149
+  )
+]
+export var senjska =[
+    koordinate(
+      15.7704,
+      44.3994
+    ),
+    koordinate(
+      15.7781,
+      44.3945
+    ),
+    koordinate(
+      15.7804,
+      44.3882
+    ),
+    koordinate(
+      15.7726,
+      44.3778
+    ),
+    koordinate(
+      15.7592,
+      44.3676
+    ),
+    koordinate(
+      15.7577,
+      44.3611
+    ),
+    koordinate(
+      15.7607,
+      44.3583
+    ),
+    koordinate(
+      15.7766,
+      44.3523
+    ),
+    koordinate(
+      15.798,
+      44.357
+    ),
+    koordinate(
+      15.8035,
+      44.3564
+    ),
+    koordinate(
+      15.8058,
+      44.3525
+    ),
+    koordinate(
+      15.8057,
+      44.3404
+    ),
+    koordinate(
+      15.8141,
+      44.3189
+    ),
+    koordinate(
+      15.8131,
+      44.3045
+    ),
+    koordinate(
+      15.8006,
+      44.2959
+    ),
+    koordinate(
+      15.7857,
+      44.2806
+    ),
+    koordinate(
+      15.7647,
+      44.2708
+    ),
+    koordinate(
+      15.7595,
+      44.2699
+    ),
+    koordinate(
+      15.6991,
+      44.2733
+    ),
+    koordinate(
+      15.6896,
+      44.2698
+    ),
+    koordinate(
+      15.6634,
+      44.2717
+    ),
+    koordinate(
+      15.6477,
+      44.2839
+    ),
+    koordinate(
+      15.6367,
+      44.287
+    ),
+    koordinate(
+      15.6098,
+      44.2854
+    ),
+    koordinate(
+      15.5993,
+      44.2886
+    ),
+    koordinate(
+      15.5834,
+      44.29
+    ),
+    koordinate(
+      15.5668,
+      44.2966
+    ),
+    koordinate(
+      15.5544,
+      44.2921
+    ),
+    koordinate(
+      15.543,
+      44.3072
+    ),
+    koordinate(
+      15.5255,
+      44.3392
+    ),
+    koordinate(
+      15.5153,
+      44.3506
+    ),
+    koordinate(
+      15.5059,
+      44.3538
+    ),
+    koordinate(
+      15.4892,
+      44.3556
+    ),
+    koordinate(
+      15.4712,
+      44.3622
+    ),
+    koordinate(
+      15.4561,
+      44.3638
+    ),
+    koordinate(
+      15.431,
+      44.3729
+    ),
+    koordinate(
+      15.379,
+      44.3823
+    ),
+    koordinate(
+      15.355,
+      44.394
+    ),
+    koordinate(
+      15.3421,
+      44.4042
+    ),
+    koordinate(
+      15.3207,
+      44.4122
+    ),
+    koordinate(
+      15.3071,
+      44.4148
+    ),
+    koordinate(
+      15.2985,
+      44.4112
+    ),
+    koordinate(
+      15.2925,
+      44.3976
+    ),
+    koordinate(
+      15.2798,
+      44.3774
+    ),
+    koordinate(
+      15.2762,
+      44.3671
+    ),
+    koordinate(
+      15.2713,
+      44.3729
+    ),
+    koordinate(
+      15.2688,
+      44.3732
+    ),
+    koordinate(
+      15.2632,
+      44.3788
+    ),
+    koordinate(
+      15.259,
+      44.3801
+    ),
+    koordinate(
+      15.2585,
+      44.3832
+    ),
+    koordinate(
+      15.2451,
+      44.3943
+    ),
+    koordinate(
+      15.2357,
+      44.4057
+    ),
+    koordinate(
+      15.2271,
+      44.4115
+    ),
+    koordinate(
+      15.2135,
+      44.4271
+    ),
+    koordinate(
+      15.2046,
+      44.4315
+    ),
+    koordinate(
+      15.1913,
+      44.4351
+    ),
+    koordinate(
+      15.1801,
+      44.4446
+    ),
+    koordinate(
+      15.1857,
+      44.4443
+    ),
+    koordinate(
+      15.1854,
+      44.4463
+    ),
+    koordinate(
+      15.1829,
+      44.4463
+    ),
+    koordinate(
+      15.1793,
+      44.4493
+    ),
+    koordinate(
+      15.1776,
+      44.4493
+    ),
+    koordinate(
+      15.1765,
+      44.4465
+    ),
+    koordinate(
+      15.1749,
+      44.4468
+    ),
+    koordinate(
+      15.1737,
+      44.4518
+    ),
+    koordinate(
+      15.1699,
+      44.4524
+    ),
+    koordinate(
+      15.1707,
+      44.4549
+    ),
+    koordinate(
+      15.1679,
+      44.4543
+    ),
+    koordinate(
+      15.1604,
+      44.4579
+    ),
+    koordinate(
+      15.1607,
+      44.4615
+    ),
+    koordinate(
+      15.1551,
+      44.4601
+    ),
+    koordinate(
+      15.1504,
+      44.4618
+    ),
+    koordinate(
+      15.1468,
+      44.4651
+    ),
+    koordinate(
+      15.1443,
+      44.4649
+    ),
+    koordinate(
+      15.1382,
+      44.4713
+    ),
+    koordinate(
+      15.1363,
+      44.471
+    ),
+    koordinate(
+      15.1338,
+      44.4738
+    ),
+    koordinate(
+      15.137,
+      44.4768
+    ),
+    koordinate(
+      15.1313,
+      44.4762
+    ),
+    koordinate(
+      15.1251,
+      44.4818
+    ),
+    koordinate(
+      15.1235,
+      44.4865
+    ),
+    koordinate(
+      15.1179,
+      44.4913
+    ),
+    koordinate(
+      15.1174,
+      44.4943
+    ),
+    koordinate(
+      15.1113,
+      44.499
+    ),
+    koordinate(
+      15.1113,
+      44.501
+    ),
+    koordinate(
+      15.1088,
+      44.5021
+    ),
+    koordinate(
+      15.1068,
+      44.506
+    ),
+    koordinate(
+      15.1024,
+      44.5076
+    ),
+    koordinate(
+      15.0993,
+      44.5121
+    ),
+    koordinate(
+      15.0821,
+      44.5199
+    ),
+    koordinate(
+      15.0776,
+      44.5254
+    ),
+    koordinate(
+      15.0726,
+      44.524
+    ),
+    koordinate(
+      15.0651,
+      44.5301
+    ),
+    koordinate(
+      15.0665,
+      44.5332
+    ),
+    koordinate(
+      15.0621,
+      44.534
+    ),
+    koordinate(
+      15.0413,
+      44.5518
+    ),
+    koordinate(
+      15.0307,
+      44.5554
+    ),
+    koordinate(
+      15.0274,
+      44.5593
+    ),
+    koordinate(
+      15.0243,
+      44.5585
+    ),
+    koordinate(
+      15.0224,
+      44.5596
+    ),
+    koordinate(
+      15.0215,
+      44.5629
+    ),
+    koordinate(
+      15.0171,
+      44.559
+    ),
+    koordinate(
+      15.0151,
+      44.559
+    ),
+    koordinate(
+      15.0124,
+      44.5624
+    ),
+    koordinate(
+      15.0101,
+      44.5621
+    ),
+    koordinate(
+      15.0076,
+      44.564
+    ),
+    koordinate(
+      15.0051,
+      44.5695
+    ),
+    koordinate(
+      15.0015,
+      44.569
+    ),
+    koordinate(
+      14.9993,
+      44.5715
+    ),
+    koordinate(
+      14.9951,
+      44.5704
+    ),
+    koordinate(
+      14.9885,
+      44.5735
+    ),
+    koordinate(
+      14.9893,
+      44.5774
+    ),
+    koordinate(
+      14.9854,
+      44.5768
+    ),
+    koordinate(
+      14.9857,
+      44.581
+    ),
+    koordinate(
+      14.9818,
+      44.5824
+    ),
+    koordinate(
+      14.9779,
+      44.5924
+    ),
+    koordinate(
+      14.9751,
+      44.5938
+    ),
+    koordinate(
+      14.9732,
+      44.5976
+    ),
+    koordinate(
+      14.9685,
+      44.5996
+    ),
+    koordinate(
+      14.9685,
+      44.6021
+    ),
+    koordinate(
+      14.9663,
+      44.6032
+    ),
+    koordinate(
+      14.9663,
+      44.609
+    ),
+    koordinate(
+      14.9646,
+      44.6104
+    ),
+    koordinate(
+      14.9655,
+      44.6124
+    ),
+    koordinate(
+      14.9626,
+      44.6157
+    ),
+    koordinate(
+      14.9615,
+      44.6204
+    ),
+    koordinate(
+      14.9626,
+      44.6243
+    ),
+    koordinate(
+      14.9587,
+      44.6268
+    ),
+    koordinate(
+      14.9587,
+      44.6301
+    ),
+    koordinate(
+      14.9546,
+      44.631
+    ),
+    koordinate(
+      14.9513,
+      44.6362
+    ),
+    koordinate(
+      14.9435,
+      44.639
+    ),
+    koordinate(
+      14.9432,
+      44.6421
+    ),
+    koordinate(
+      14.9387,
+      44.6429
+    ),
+    koordinate(
+      14.9382,
+      44.6457
+    ),
+    koordinate(
+      14.9315,
+      44.6493
+    ),
+    koordinate(
+      14.9318,
+      44.6529
+    ),
+    koordinate(
+      14.9285,
+      44.6532
+    ),
+    koordinate(
+      14.9282,
+      44.6565
+    ),
+    koordinate(
+      14.9254,
+      44.6585
+    ),
+    koordinate(
+      14.926,
+      44.6632
+    ),
+    koordinate(
+      14.9299,
+      44.6635
+    ),
+    koordinate(
+      14.9282,
+      44.6662
+    ),
+    koordinate(
+      14.9255,
+      44.6671
+    ),
+    koordinate(
+      14.9271,
+      44.6693
+    ),
+    koordinate(
+      14.9221,
+      44.6699
+    ),
+    koordinate(
+      14.9193,
+      44.6757
+    ),
+    koordinate(
+      14.9149,
+      44.6771
+    ),
+    koordinate(
+      14.9124,
+      44.6824
+    ),
+    koordinate(
+      14.9085,
+      44.6835
+    ),
+    koordinate(
+      14.9093,
+      44.6879
+    ),
+    koordinate(
+      14.9032,
+      44.6879
+    ),
+    koordinate(
+      14.901,
+      44.6929
+    ),
+    koordinate(
+      14.8963,
+      44.6957
+    ),
+    koordinate(
+      14.8971,
+      44.6999
+    ),
+    koordinate(
+      14.894,
+      44.7007
+    ),
+    koordinate(
+      14.896,
+      44.7046
+    ),
+    koordinate(
+      14.8921,
+      44.7079
+    ),
+    koordinate(
+      14.8924,
+      44.7124
+    ),
+    koordinate(
+      14.8885,
+      44.7174
+    ),
+    koordinate(
+      14.8913,
+      44.7188
+    ),
+    koordinate(
+      14.8913,
+      44.7199
+    ),
+    koordinate(
+      14.8888,
+      44.7201
+    ),
+    koordinate(
+      14.8896,
+      44.7212
+    ),
+    koordinate(
+      14.8951,
+      44.7221
+    ),
+    koordinate(
+      14.8971,
+      44.7204
+    ),
+    koordinate(
+      14.896,
+      44.7229
+    ),
+    koordinate(
+      14.8971,
+      44.7257
+    ),
+    koordinate(
+      14.8924,
+      44.7257
+    ),
+    koordinate(
+      14.8915,
+      44.7276
+    ),
+    koordinate(
+      14.8926,
+      44.734
+    ),
+    koordinate(
+      14.8965,
+      44.7357
+    ),
+    koordinate(
+      14.8985,
+      44.7393
+    ),
+    koordinate(
+      14.8971,
+      44.7401
+    ),
+    koordinate(
+      14.8974,
+      44.7426
+    ),
+    koordinate(
+      14.8946,
+      44.744
+    ),
+    koordinate(
+      14.8943,
+      44.7474
+    ),
+    koordinate(
+      14.8915,
+      44.7477
+    ),
+    koordinate(
+      14.8896,
+      44.7518
+    ),
+    koordinate(
+      14.8888,
+      44.7593
+    ),
+    koordinate(
+      14.8857,
+      44.7668
+    ),
+    koordinate(
+      14.8863,
+      44.7693
+    ),
+    koordinate(
+      14.884,
+      44.7732
+    ),
+    koordinate(
+      14.8835,
+      44.7812
+    ),
+    koordinate(
+      14.8854,
+      44.7832
+    ),
+    koordinate(
+      14.8813,
+      44.7837
+    ),
+    koordinate(
+      14.8813,
+      44.7879
+    ),
+    koordinate(
+      14.879,
+      44.791
+    ),
+    koordinate(
+      14.8785,
+      44.8004
+    ),
+    koordinate(
+      14.8796,
+      44.8021
+    ),
+    koordinate(
+      14.8829,
+      44.8024
+    ),
+    koordinate(
+      14.8799,
+      44.8051
+    ),
+    koordinate(
+      14.881,
+      44.8076
+    ),
+    koordinate(
+      14.8799,
+      44.8132
+    ),
+    koordinate(
+      14.8827,
+      44.8163
+    ),
+    koordinate(
+      14.8796,
+      44.8199
+    ),
+    koordinate(
+      14.8837,
+      44.8285
+    ),
+    koordinate(
+      14.8807,
+      44.8357
+    ),
+    koordinate(
+      14.8846,
+      44.8365
+    ),
+    koordinate(
+      14.8813,
+      44.8396
+    ),
+    koordinate(
+      14.8818,
+      44.8435
+    ),
+    koordinate(
+      14.8843,
+      44.8446
+    ),
+    koordinate(
+      14.8854,
+      44.8476
+    ),
+    koordinate(
+      14.8837,
+      44.8496
+    ),
+    koordinate(
+      14.884,
+      44.8585
+    ),
+    koordinate(
+      14.8862,
+      44.859
+    ),
+    koordinate(
+      14.8885,
+      44.8546
+    ),
+    koordinate(
+      14.8921,
+      44.8571
+    ),
+    koordinate(
+      14.8951,
+      44.8679
+    ),
+    koordinate(
+      14.8921,
+      44.879
+    ),
+    koordinate(
+      14.8965,
+      44.8826
+    ),
+    koordinate(
+      14.8957,
+      44.8871
+    ),
+    koordinate(
+      14.9001,
+      44.8918
+    ),
+    koordinate(
+      14.9065,
+      44.9068
+    ),
+    koordinate(
+      14.9113,
+      44.9057
+    ),
+    koordinate(
+      14.9126,
+      44.9071
+    ),
+    koordinate(
+      14.9126,
+      44.9146
+    ),
+    koordinate(
+      14.9157,
+      44.9227
+    ),
+    koordinate(
+      14.9143,
+      44.9257
+    ),
+    koordinate(
+      14.9168,
+      44.9276
+    ),
+    koordinate(
+      14.9151,
+      44.9296
+    ),
+    koordinate(
+      14.9188,
+      44.9296
+    ),
+    koordinate(
+      14.9204,
+      44.9315
+    ),
+    koordinate(
+      14.921,
+      44.9407
+    ),
+    koordinate(
+      14.9271,
+      44.9524
+    ),
+    koordinate(
+      14.9215,
+      44.9607
+    ),
+    koordinate(
+      14.9204,
+      44.9676
+    ),
+    koordinate(
+      14.916,
+      44.9754
+    ),
+    koordinate(
+      14.8974,
+      44.9885
+    ),
+    koordinate(
+      14.9004,
+      44.9904
+    ),
+    koordinate(
+      14.8985,
+      44.9918
+    ),
+    koordinate(
+      14.8993,
+      44.9985
+    ),
+    koordinate(
+      14.8957,
+      45.0021
+    ),
+    koordinate(
+      14.8957,
+      45.0051
+    ),
+    koordinate(
+      14.8915,
+      45.0107
+    ),
+    koordinate(
+      14.8893,
+      45.0113
+    ),
+    koordinate(
+      14.8891,
+      45.0149
+    ),
+    koordinate(
+      14.8843,
+      45.0218
+    ),
+    koordinate(
+      14.8846,
+      45.0268
+    ),
+    koordinate(
+      14.8807,
+      45.031
+    ),
+    koordinate(
+      14.8807,
+      45.0365
+    ),
+    koordinate(
+      14.8751,
+      45.0396
+    ),
+    koordinate(
+      14.8794,
+      45.0585
+    ),
+    koordinate(
+      14.884,
+      45.0616
+    ),
+    koordinate(
+      14.9016,
+      45.0665
+    ),
+    koordinate(
+      14.9168,
+      45.0757
+    ),
+    koordinate(
+      14.9269,
+      45.078
+    ),
+    koordinate(
+      14.9335,
+      45.0759
+    ),
+    koordinate(
+      14.9376,
+      45.0716
+    ),
+    koordinate(
+      14.9391,
+      45.0663
+    ),
+    koordinate(
+      14.9432,
+      45.0646
+    ),
+    koordinate(
+      14.949,
+      45.0652
+    ),
+    koordinate(
+      14.9644,
+      45.0708
+    ),
+    koordinate(
+      14.9819,
+      45.0659
+    ),
+    koordinate(
+      15.0031,
+      45.0666
+    ),
+    koordinate(
+      15.016,
+      45.0763
+    ),
+    koordinate(
+      15.0212,
+      45.0844
+    ),
+    koordinate(
+      15.0205,
+      45.0942
+    ),
+    koordinate(
+      15.0127,
+      45.1061
+    ),
+    koordinate(
+      15.0141,
+      45.1104
+    ),
+    koordinate(
+      15.0473,
+      45.1134
+    ),
+    koordinate(
+      15.0657,
+      45.108
+    ),
+    koordinate(
+      15.111,
+      45.0888
+    ),
+    koordinate(
+      15.1285,
+      45.0896
+    ),
+    koordinate(
+      15.141,
+      45.0878
+    ),
+    koordinate(
+      15.1452,
+      45.0894
+    ),
+    koordinate(
+      15.1499,
+      45.0948
+    ),
+    koordinate(
+      15.1597,
+      45.1018
+    ),
+    koordinate(
+      15.1797,
+      45.1045
+    ),
+    koordinate(
+      15.184,
+      45.1067
+    ),
+    koordinate(
+      15.1867,
+      45.1112
+    ),
+    koordinate(
+      15.1984,
+      45.1056
+    ),
+    koordinate(
+      15.207,
+      45.0983
+    ),
+    koordinate(
+      15.2224,
+      45.0929
+    ),
+    koordinate(
+      15.2319,
+      45.0824
+    ),
+    koordinate(
+      15.2413,
+      45.0762
+    ),
+    koordinate(
+      15.2504,
+      45.0717
+    ),
+    koordinate(
+      15.2668,
+      45.0673
+    ),
+    koordinate(
+      15.2729,
+      45.0601
+    ),
+    koordinate(
+      15.2937,
+      45.0509
+    ),
+    koordinate(
+      15.2996,
+      45.0463
+    ),
+    koordinate(
+      15.3103,
+      45.0329
+    ),
+    koordinate(
+      15.3253,
+      45.0229
+    ),
+    koordinate(
+      15.3387,
+      45.0164
+    ),
+    koordinate(
+      15.3448,
+      45.0212
+    ),
+    koordinate(
+      15.3565,
+      45.0196
+    ),
+    koordinate(
+      15.3625,
+      45.024
+    ),
+    koordinate(
+      15.366,
+      45.0224
+    ),
+    koordinate(
+      15.3678,
+      45.0201
+    ),
+    koordinate(
+      15.3679,
+      45.0122
+    ),
+    koordinate(
+      15.3726,
+      45.0093
+    ),
+    koordinate(
+      15.3772,
+      45.0024
+    ),
+    koordinate(
+      15.3871,
+      44.9941
+    ),
+    koordinate(
+      15.3952,
+      44.9817
+    ),
+    koordinate(
+      15.4088,
+      44.9718
+    ),
+    koordinate(
+      15.4158,
+      44.9606
+    ),
+    koordinate(
+      15.4204,
+      44.9479
+    ),
+    koordinate(
+      15.4328,
+      44.9335
+    ),
+    koordinate(
+      15.4641,
+      44.9237
+    ),
+    koordinate(
+      15.4911,
+      44.9274
+    ),
+    koordinate(
+      15.51,
+      44.926
+    ),
+    koordinate(
+      15.5176,
+      44.9188
+    ),
+    koordinate(
+      15.5182,
+      44.9145
+    ),
+    koordinate(
+      15.5227,
+      44.9131
+    ),
+    koordinate(
+      15.5359,
+      44.897
+    ),
+    koordinate(
+      15.5471,
+      44.8886
+    ),
+    koordinate(
+      15.5532,
+      44.8862
+    ),
+    koordinate(
+      15.5637,
+      44.8871
+    ),
+    koordinate(
+      15.5663,
+      44.8894
+    ),
+    koordinate(
+      15.5662,
+      44.8927
+    ),
+    koordinate(
+      15.5627,
+      44.8962
+    ),
+    koordinate(
+      15.555,
+      44.9002
+    ),
+    koordinate(
+      15.5441,
+      44.9117
+    ),
+    koordinate(
+      15.5317,
+      44.9169
+    ),
+    koordinate(
+      15.5194,
+      44.9188
+    ),
+    koordinate(
+      15.5187,
+      44.9204
+    ),
+    koordinate(
+      15.5277,
+      44.9356
+    ),
+    koordinate(
+      15.5328,
+      44.9396
+    ),
+    koordinate(
+      15.5376,
+      44.9408
+    ),
+    koordinate(
+      15.5464,
+      44.9325
+    ),
+    koordinate(
+      15.562,
+      44.9295
+    ),
+    koordinate(
+      15.5818,
+      44.9335
+    ),
+    koordinate(
+      15.5894,
+      44.941
+    ),
+    koordinate(
+      15.5956,
+      44.9437
+    ),
+    koordinate(
+      15.6122,
+      44.9349
+    ),
+    koordinate(
+      15.6338,
+      44.9523
+    ),
+    koordinate(
+      15.6513,
+      44.9566
+    ),
+    koordinate(
+      15.6586,
+      44.9542
+    ),
+    koordinate(
+      15.6717,
+      44.9416
+    ),
+    koordinate(
+      15.6803,
+      44.9384
+    ),
+    koordinate(
+      15.6865,
+      44.9337
+    ),
+    koordinate(
+      15.6972,
+      44.9304
+    ),
+    koordinate(
+      15.7017,
+      44.9306
+    ),
+    koordinate(
+      15.707,
+      44.9356
+    ),
+    koordinate(
+      15.7176,
+      44.9389
+    ),
+    koordinate(
+      15.7274,
+      44.9482
+    ),
+    koordinate(
+      15.7291,
+      44.9519
+    ),
+    koordinate(
+      15.7414,
+      44.943
+    ),
+    koordinate(
+      15.7437,
+      44.9366
+    ),
+    koordinate(
+      15.7408,
+      44.9218
+    ),
+    koordinate(
+      15.7439,
+      44.9097
+    ),
+    koordinate(
+      15.7499,
+      44.8975
+    ),
+    koordinate(
+      15.7577,
+      44.8863
+    ),
+    koordinate(
+      15.7877,
+      44.8597
+    ),
+    koordinate(
+      15.7899,
+      44.8497
+    ),
+    koordinate(
+      15.7844,
+      44.841
+    ),
+    koordinate(
+      15.7705,
+      44.8329
+    ),
+    koordinate(
+      15.7561,
+      44.8287
+    ),
+    koordinate(
+      15.7429,
+      44.8217
+    ),
+    koordinate(
+      15.7371,
+      44.8113
+    ),
+    koordinate(
+      15.7399,
+      44.8011
+    ),
+    koordinate(
+      15.7495,
+      44.7889
+    ),
+    koordinate(
+      15.7603,
+      44.7643
+    ),
+    koordinate(
+      15.7917,
+      44.7519
+    ),
+    koordinate(
+      15.8074,
+      44.7391
+    ),
+    koordinate(
+      15.8192,
+      44.7385
+    ),
+    koordinate(
+      15.8403,
+      44.7507
+    ),
+    koordinate(
+      15.8532,
+      44.7539
+    ),
+    koordinate(
+      15.8677,
+      44.7554
+    ),
+    koordinate(
+      15.8811,
+      44.7686
+    ),
+    koordinate(
+      15.8953,
+      44.7521
+    ),
+    koordinate(
+      15.9303,
+      44.7549
+    ),
+    koordinate(
+      15.9435,
+      44.7209
+    ),
+    koordinate(
+      15.9651,
+      44.7187
+    ),
+    koordinate(
+      15.9679,
+      44.7059
+    ),
+    koordinate(
+      15.9761,
+      44.6942
+    ),
+    koordinate(
+      15.9936,
+      44.6834
+    ),
+    koordinate(
+      16.0135,
+      44.6747
+    ),
+    koordinate(
+      16.0491,
+      44.6521
+    ),
+    koordinate(
+      16.0617,
+      44.6379
+    ),
+    koordinate(
+      16.0631,
+      44.6248
+    ),
+    koordinate(
+      16.0572,
+      44.6114
+    ),
+    koordinate(
+      16.0346,
+      44.592
+    ),
+    koordinate(
+      16.014,
+      44.5882
+    ),
+    koordinate(
+      16.0092,
+      44.5813
+    ),
+    koordinate(
+      16.0084,
+      44.5716
+    ),
+    koordinate(
+      16.0098,
+      44.5646
+    ),
+    koordinate(
+      16.0211,
+      44.5589
+    ),
+    koordinate(
+      16.0767,
+      44.5427
+    ),
+    koordinate(
+      16.0967,
+      44.5401
+    ),
+    koordinate(
+      16.1131,
+      44.5205
+    ),
+    koordinate(
+      16.1331,
+      44.5
+    ),
+    koordinate(
+      16.1355,
+      44.4913
+    ),
+    koordinate(
+      16.1313,
+      44.4813
+    ),
+    koordinate(
+      16.1321,
+      44.4794
+    ),
+    koordinate(
+      16.1304,
+      44.4715
+    ),
+    koordinate(
+      16.0955,
+      44.46
+    ),
+    koordinate(
+      16.0708,
+      44.4597
+    ),
+    koordinate(
+      16.0671,
+      44.4619
+    ),
+    koordinate(
+      16.0633,
+      44.4692
+    ),
+    koordinate(
+      16.0569,
+      44.4755
+    ),
+    koordinate(
+      16.0526,
+      44.4775
+    ),
+    koordinate(
+      16.0474,
+      44.4767
+    ),
+    koordinate(
+      16.0457,
+      44.4733
+    ),
+    koordinate(
+      16.0489,
+      44.467
+    ),
+    koordinate(
+      16.054,
+      44.4427
+    ),
+    koordinate(
+      16.0523,
+      44.439
+    ),
+    koordinate(
+      16.0475,
+      44.438
+    ),
+    koordinate(
+      16.0377,
+      44.4445
+    ),
+    koordinate(
+      16.0293,
+      44.4538
+    ),
+    koordinate(
+      16.0243,
+      44.4738
+    ),
+    koordinate(
+      16.0217,
+      44.4776
+    ),
+    koordinate(
+      15.999,
+      44.4971
+    ),
+    koordinate(
+      15.9924,
+      44.4997
+    ),
+    koordinate(
+      15.988,
+      44.5049
+    ),
+    koordinate(
+      15.9646,
+      44.5127
+    ),
+    koordinate(
+      15.952,
+      44.5117
+    ),
+    koordinate(
+      15.9368,
+      44.513
+    ),
+    koordinate(
+      15.9245,
+      44.5116
+    ),
+    koordinate(
+      15.891,
+      44.4845
+    ),
+    koordinate(
+      15.8779,
+      44.4803
+    ),
+    koordinate(
+      15.8655,
+      44.4809
+    ),
+    koordinate(
+      15.8612,
+      44.4793
+    ),
+    koordinate(
+      15.8451,
+      44.4592
+    ),
+    koordinate(
+      15.8366,
+      44.4526
+    ),
+    koordinate(
+      15.8192,
+      44.4476
+    ),
+    koordinate(
+      15.8021,
+      44.4401
+    ),
+    koordinate(
+      15.7848,
+      44.4381
+    ),
+    koordinate(
+      15.7739,
+      44.4328
+    ),
+    koordinate(
+      15.7701,
+      44.4291
+    ),
+    koordinate(
+      15.7663,
+      44.4167
+    ),
+    koordinate(
+      15.7656,
+      44.4048
+    ),
+    koordinate(
+      15.7704,
+      44.3994
+    )
+]
+export var columbia=[  
+  koordinate(
+    -71.656158006999931,
+    12.465318101000079
+),
+koordinate(
+    -71.626088019999912,
+    12.45148346600017
+),
+koordinate(
+    -71.604156053999873,
+    12.447211005000071
+),
+koordinate(
+    -71.53160559799997,
+    12.447211005000071
+),
+koordinate(
+    -71.511301235999952,
+    12.443264065000079
+),
+koordinate(
+    -71.490630662999934,
+    12.433823960000069
+),
+koordinate(
+    -71.459584113999938,
+    12.413723049000112
+),
+koordinate(
+    -71.445952928999901,
+    12.400580145000148
+),
+koordinate(
+    -71.439076300999972,
+    12.396185614000075
+),
+koordinate(
+    -71.426096157999979,
+    12.39256419500019
+),
+koordinate(
+    -71.390248175999972,
+    12.393296617000132
+),
+koordinate(
+    -71.38109290299991,
+    12.389146226000094
+),
+koordinate(
+    -71.361236131999902,
+    12.374457098000093
+),
+koordinate(
+    -71.340931769999884,
+    12.367173570000176
+),
+koordinate(
+    -71.295155402999882,
+    12.358465887000094
+),
+koordinate(
+    -71.261830206999889,
+    12.341864325000131
+),
+koordinate(
+    -71.242298956999917,
+    12.327704169000114
+),
+koordinate(
+    -71.231597459999904,
+    12.310858466000113
+),
+koordinate(
+    -71.22716223899991,
+    12.305405992000175
+),
+koordinate(
+    -71.222645636999886,
+    12.297308661000145
+),
+koordinate(
+    -71.219064907999893,
+    12.278265692000147
+),
+koordinate(
+    -71.158436652999939,
+    12.176703192000062
+),
+koordinate(
+    -71.15172278599988,
+    12.149603583000129
+),
+koordinate(
+    -71.113880988999938,
+    12.094387111000117
+),
+koordinate(
+    -71.107492641999926,
+    12.074937242000118
+),
+koordinate(
+    -71.113677537999877,
+    12.052394924000126
+),
+koordinate(
+    -71.126088019999912,
+    12.031195380000128
+),
+koordinate(
+    -71.138091600999928,
+    12.015814520000092
+),
+koordinate(
+    -71.164906378999916,
+    11.996161200000145
+),
+koordinate(
+    -71.233998175999943,
+    11.958889065000079
+),
+koordinate(
+    -71.254139777999882,
+    11.936957098000136
+),
+koordinate(
+    -71.268666144999912,
+    11.929185289000145
+),
+koordinate(
+    -71.285633917999888,
+    11.922919012000179
+),
+koordinate(
+    -71.298817511999943,
+    11.920233466000113
+),
+koordinate(
+    -71.303578253999945,
+    11.9116885440001
+),
+koordinate(
+    -71.323068813999924,
+    11.858140367000175
+),
+koordinate(
+    -71.327463344999899,
+    11.850083726000051
+),
+koordinate(
+    -71.327504035999908,
+    11.850002346000068
+),
+koordinate(
+    -71.327506533614383,
+    11.849997690656224
+),
+koordinate(
+    -71.357629353999897,
+    11.850802307000095
+),
+koordinate(
+    -71.375457723999943,
+    11.841087138000148
+),
+koordinate(
+    -71.409667521999921,
+    11.812303365000133
+),
+koordinate(
+    -71.449458373999931,
+    11.795456848000143
+),
+koordinate(
+    -71.476485148999899,
+    11.788583883000172
+),
+koordinate(
+    -71.535086222999922,
+    11.773546041000188
+),
+koordinate(
+    -71.593635620999919,
+    11.758508199000119
+),
+koordinate(
+    -71.652288370999941,
+    11.743573710000149
+),
+koordinate(
+    -71.710889444999879,
+    11.728535868000165
+),
+koordinate(
+    -71.769438842999904,
+    11.713549703000183
+),
+koordinate(
+    -71.828039916999899,
+    11.69856353800013
+),
+koordinate(
+    -71.88664099199994,
+    11.683525696000132
+),
+koordinate(
+    -71.945242065999963,
+    11.66853953000016
+),
+koordinate(
+    -71.971080281999974,
+    11.661924948000163
+),
+koordinate(
+    -71.990613973999899,
+    11.64905751600017
+),
+koordinate(
+    -72.007925578999902,
+    11.624614563000137
+),
+koordinate(
+    -72.018002482999918,
+    11.606114400000195
+),
+koordinate(
+    -72.047819783999927,
+    11.551311544000114
+),
+koordinate(
+    -72.077637084999935,
+    11.496534526000133
+),
+koordinate(
+    -72.107454386999933,
+    11.441757507000148
+),
+koordinate(
+    -72.137271687999942,
+    11.386980489000166
+),
+koordinate(
+    -72.167088989999939,
+    11.33220347100017
+),
+koordinate(
+    -72.19690629099992,
+    11.277400614000101
+),
+koordinate(
+    -72.226775268999944,
+    11.222571920000092
+),
+koordinate(
+    -72.256592569999953,
+    11.167794902000196
+),
+koordinate(
+    -72.267082885999912,
+    11.154901632000104
+),
+koordinate(
+    -72.284652872999885,
+    11.150457458000105
+),
+koordinate(
+    -72.321859904999968,
+    11.160095113000125
+),
+koordinate(
+    -72.341341918999973,
+    11.16211049400016
+),
+koordinate(
+    -72.36144405099995,
+    11.158002218000149
+),
+koordinate(
+    -72.416996215999944,
+    11.137615865000114
+),
+koordinate(
+    -72.459991007999918,
+    11.135807190000122
+),
+koordinate(
+    -72.481488402999872,
+    11.132525737000122
+),
+koordinate(
+    -72.49931677299989,
+    11.120795187000141
+),
+koordinate(
+    -72.503812622999931,
+    11.111777649000189
+),
+koordinate(
+    -72.504691121999969,
+    11.092709045000106
+),
+koordinate(
+    -72.507481648999914,
+    11.08299387600016
+),
+koordinate(
+    -72.515026408999887,
+    11.072477722000201
+),
+koordinate(
+    -72.533939981999907,
+    11.052375590000153
+),
+koordinate(
+    -72.542053182999922,
+    11.041084290000171
+),
+koordinate(
+    -72.576469685999967,
+    10.95736846900013
+),
+koordinate(
+    -72.594504760999968,
+    10.932977193000113
+),
+koordinate(
+    -72.613108276999924,
+    10.915252177000184
+),
+koordinate(
+    -72.656723184999976,
+    10.885202332000134
+),
+koordinate(
+    -72.682974812999902,
+    10.855617575000096
+),
+koordinate(
+    -72.706125854999897,
+    10.81125335700014
+),
+koordinate(
+    -72.754391641999916,
+    10.674853414000083
+),
+koordinate(
+    -72.781418416999941,
+    10.631316020000142
+),
+koordinate(
+    -72.843016723999966,
+    10.560596822000136
+),
+koordinate(
+    -72.861413533999979,
+    10.508093567000159
+),
+koordinate(
+    -72.87541784699999,
+    10.489645081000148
+),
+koordinate(
+    -72.892005982,
+    10.472927755000114
+),
+koordinate(
+    -72.90756058799991,
+    10.452463888000153
+),
+koordinate(
+    -72.914898640999922,
+    10.43290435800013
+),
+koordinate(
+    -72.915232104999887,
+    10.428171730000159
+),
+koordinate(
+    -72.916242227999987,
+    10.41383575500015
+),
+koordinate(
+    -72.91551875899998,
+    10.394276225000141
+),
+koordinate(
+    -72.935620890999957,
+    10.175193991000114
+),
+koordinate(
+    -72.987710733999904,
+    9.999416606000153
+),
+koordinate(
+    -72.987865763999935,
+    9.960426738000152
+),
+koordinate(
+    -72.996185668999914,
+    9.92128184000012
+),
+koordinate(
+    -72.996960814999909,
+    9.90071462000013
+),
+koordinate(
+    -72.990449584999936,
+    9.874979757000148
+),
+koordinate(
+    -72.981612914999943,
+    9.856557108000132
+),
+koordinate(
+    -72.977633829999945,
+    9.838056946000108
+),
+koordinate(
+    -72.985540323999913,
+    9.812167053000167
+),
+koordinate(
+    -73.01690791899992,
+    9.748605041000104
+),
+koordinate(
+    -73.071891642999873,
+    9.664088237000144
+),
+koordinate(
+    -73.097161417999928,
+    9.596366272000139
+),
+koordinate(
+    -73.107651733999973,
+    9.577995301000144
+),
+koordinate(
+    -73.123619750999922,
+    9.56125213700011
+),
+koordinate(
+    -73.163720662999935,
+    9.536344096000136
+),
+koordinate(
+    -73.178448445999919,
+    9.523037415000204
+),
+koordinate(
+    -73.197413696999973,
+    9.478673197000163
+),
+koordinate(
+    -73.277408812999909,
+    9.361806946000115
+),
+koordinate(
+    -73.311773640999945,
+    9.276230774000155
+),
+koordinate(
+    -73.324382690999983,
+    9.255921936000135
+),
+koordinate(
+    -73.342159383999899,
+    9.239178772000102
+),
+koordinate(
+    -73.379108032999937,
+    9.213883159000204
+),
+koordinate(
+    -73.390838582999919,
+    9.19450449600015
+),
+koordinate(
+    -73.391148640999916,
+    9.172774556000149
+),
+koordinate(
+    -73.377816121999899,
+    9.164687195000155
+),
+koordinate(
+    -73.363644981999954,
+    9.165032761000148
+),
+koordinate(
+    -73.253844360999921,
+    9.167710266000171
+),
+koordinate(
+    -73.212244832999914,
+    9.173446350000134
+),
+koordinate(
+    -73.176174682999914,
+    9.190938823000181
+),
+koordinate(
+    -73.141861531999979,
+    9.223029887000109
+),
+koordinate(
+    -73.124343221999936,
+    9.234476217000122
+),
+koordinate(
+    -73.098763387999981,
+    9.241581727000138
+),
+koordinate(
+    -73.076025756999911,
+    9.254268290000184
+),
+koordinate(
+    -73.032669230999915,
+    9.294601746000154
+),
+koordinate(
+    -73.009724894999891,
+    9.295376892000164
+),
+koordinate(
+    -73.003575398999914,
+    9.287909648000138
+),
+koordinate(
+    -72.991121378999935,
+    9.251684468000178
+),
+koordinate(
+    -72.991431436999903,
+    9.247937927000166
+),
+koordinate(
+    -72.995462199999906,
+    9.239101258000161
+),
+koordinate(
+    -72.995617227999958,
+    9.235354716000145
+),
+koordinate(
+    -72.992206583999916,
+    9.230342102000179
+),
+koordinate(
+    -72.982853149999897,
+    9.220962830000147
+),
+koordinate(
+    -72.980062622999924,
+    9.216518656000133
+),
+koordinate(
+    -72.976031860999939,
+    9.192127380000116
+),
+koordinate(
+    -72.978667358999928,
+    9.150140280000187
+),
+koordinate(
+    -72.973189656999949,
+    9.128436178000101
+),
+koordinate(
+    -72.955309611999979,
+    9.103993225000153
+),
+koordinate(
+    -72.936396036999952,
+    9.099187317000158
+),
+koordinate(
+    -72.916190551999961,
+    9.106964621000159
+),
+koordinate(
+    -72.881980753999954,
+    9.129366353000151
+),
+koordinate(
+    -72.874022582999913,
+    9.133422954000153
+),
+koordinate(
+    -72.86172359299988,
+    9.137040304000138
+),
+koordinate(
+    -72.850251423999936,
+    9.136730245000152
+),
+koordinate(
+    -72.841518107999974,
+    9.133784688000148
+),
+koordinate(
+    -72.834128377999974,
+    9.133629659000121
+),
+koordinate(
+    -72.826686971999948,
+    9.141691182000102
+),
+koordinate(
+    -72.807670043999877,
+    9.123733622000131
+),
+koordinate(
+    -72.791030232999873,
+    9.113940939000159
+),
+koordinate(
+    -72.785604207999967,
+    9.102442933000134
+),
+koordinate(
+    -72.800021932999897,
+    9.07944692000018
+),
+koordinate(
+    -72.783072062999906,
+    9.059939067000187
+),
+koordinate(
+    -72.778059448999926,
+    9.041051331000162
+),
+koordinate(
+    -72.766587279999925,
+    8.997384746000193
+),
+koordinate(
+    -72.755063435999972,
+    8.953743998000135
+),
+koordinate(
+    -72.743539591999962,
+    8.910051575000168
+),
+koordinate(
+    -72.732067423999951,
+    8.866384990000199
+),
+koordinate(
+    -72.720491902999896,
+    8.822744243000145
+),
+koordinate(
+    -72.709019734999885,
+    8.779051819000173
+),
+koordinate(
+    -72.697495890999932,
+    8.735385234000205
+),
+koordinate(
+    -72.68602372299992,
+    8.691692810000134
+),
+koordinate(
+    -72.675430053999946,
+    8.651514384000123
+),
+koordinate(
+    -72.655431274999927,
+    8.617898865000186
+),
+koordinate(
+    -72.637086140999941,
+    8.598184306000135
+),
+koordinate(
+    -72.617345744999881,
+    8.57704864500009
+),
+koordinate(
+    -72.597760376999958,
+    8.555964661000161
+),
+koordinate(
+    -72.578071655999906,
+    8.534854839000118
+),
+koordinate(
+    -72.558537963999896,
+    8.513719178000173
+),
+koordinate(
+    -72.538849243999948,
+    8.492609355000141
+),
+koordinate(
+    -72.519212199999913,
+    8.471525371000112
+),
+koordinate(
+    -72.499523478999947,
+    8.450441386000179
+),
+koordinate(
+    -72.479938110999939,
+    8.429331563000147
+),
+koordinate(
+    -72.456270304999919,
+    8.40393259700015
+),
+koordinate(
+    -72.444539753999919,
+    8.394114075000175
+),
+koordinate(
+    -72.434411173999962,
+    8.390186666000204
+),
+koordinate(
+    -72.4249543869999,
+    8.387706197000142
+),
+koordinate(
+    -72.415609206999932,
+    8.382691114000153
+),
+koordinate(
+    -72.415084187999923,
+    8.382409363000193
+),
+koordinate(
+    -72.403250286,
+    8.370497946000157
+),
+koordinate(
+    -72.393535115999953,
+    8.355382589000158
+),
+koordinate(
+    -72.386765502999907,
+    8.338613587000111
+),
+koordinate(
+    -72.383974975999962,
+    8.321792908000134
+),
+koordinate(
+    -72.385835327999956,
+    8.30551483100011
+),
+koordinate(
+    -72.394775350999907,
+    8.272803650000128
+),
+koordinate(
+    -72.395963907999914,
+    8.256603088000119
+),
+koordinate(
+    -72.390537882999951,
+    8.234330546000166
+),
+koordinate(
+    -72.357258259999895,
+    8.172137960000072
+),
+koordinate(
+    -72.335760864999969,
+    8.103899231000128
+),
+koordinate(
+    -72.33384883599993,
+    8.065477804000182
+),
+koordinate(
+    -72.350075235999952,
+    8.042585144000071
+),
+koordinate(
+    -72.367231811999915,
+    8.042688497000185
+),
+koordinate(
+    -72.388315796999933,
+    8.046176657000146
+),
+koordinate(
+    -72.40707434199993,
+    8.04377370200018
+),
+koordinate(
+    -72.417099568999873,
+    8.025764465000108
+),
+koordinate(
+    -72.421853800999941,
+    8.006230774000187
+),
+koordinate(
+    -72.430122029999978,
+    7.990521139000123
+),
+koordinate(
+    -72.441904256999891,
+    7.977136942000186
+),
+koordinate(
+    -72.456735391999928,
+    7.964941304000163
+),
+koordinate(
+    -72.467432413999944,
+    7.959670309000146
+),
+koordinate(
+    -72.478801228999913,
+    7.955536194000118
+),
+koordinate(
+    -72.48779292899988,
+    7.949179993000186
+),
+koordinate(
+    -72.491203572999979,
+    7.937501119000118
+),
+koordinate(
+    -72.486656046999968,
+    7.928716126000126
+),
+koordinate(
+    -72.465675414999879,
+    7.904583232000164
+),
+koordinate(
+    -72.458647419999949,
+    7.893524475000163
+),
+koordinate(
+    -72.454461629999912,
+    7.876161194000147
+),
+koordinate(
+    -72.451774454999878,
+    7.832804667000161
+),
+koordinate(
+    -72.454151570999926,
+    7.815234681000106
+),
+koordinate(
+    -72.474150349999945,
+    7.754153137000102
+),
+koordinate(
+    -72.483348754999952,
+    7.649353333000121
+),
+koordinate(
+    -72.48040319899988,
+    7.628941142000173
+),
+koordinate(
+    -72.466812296999962,
+    7.589873759000156
+),
+koordinate(
+    -72.463401651999931,
+    7.57075347900016
+),
+koordinate(
+    -72.467380737999918,
+    7.548739319000092
+),
+koordinate(
+    -72.475907348999925,
+    7.528637187000129
+),
+koordinate(
+    -72.482005168,
+    7.508018290000123
+),
+koordinate(
+    -72.478697875999899,
+    7.484453837000118
+),
+koordinate(
+    -72.451309366999965,
+    7.440218811000193
+),
+koordinate(
+    -72.414619099999896,
+    7.41381215500013
+),
+koordinate(
+    -72.395812432999918,
+    7.407491518000199
+),
+koordinate(
+    -72.370797485999873,
+    7.399084371000129
+),
+koordinate(
+    -72.321808227999952,
+    7.390040995000163
+),
+koordinate(
+    -72.23969437699995,
+    7.391281230000104
+),
+koordinate(
+    -72.206208048999969,
+    7.381876119000154
+),
+koordinate(
+    -72.171688191999891,
+    7.337331034000144
+),
+koordinate(
+    -72.166313843999916,
+    7.334075419000158
+),
+koordinate(
+    -72.16404008,
+    7.328856099000149
+),
+koordinate(
+    -72.173496866999955,
+    7.288186747000097
+),
+koordinate(
+    -72.174220337999969,
+    7.279608460000162
+),
+koordinate(
+    -72.171481486999937,
+    7.249894511000179
+),
+koordinate(
+    -72.164143432999936,
+    7.220800680000181
+),
+koordinate(
+    -72.153343057999905,
+    7.192585348000122
+),
+koordinate(
+    -72.098255981999927,
+    7.086752014000155
+),
+koordinate(
+    -72.08099605299995,
+    7.066598206000094
+),
+koordinate(
+    -72.069575561999926,
+    7.05920847600008
+),
+koordinate(
+    -72.042083699999949,
+    7.046909485000143
+),
+koordinate(
+    -72.028699503999917,
+    7.038847962000148
+),
+koordinate(
+    -72.005290079999952,
+    7.01910756400018
+),
+koordinate(
+    -71.993998179999949,
+    7.012952970000143
+),
+koordinate(
+    -71.99381791199994,
+    7.012854716000092
+),
+koordinate(
+    -71.964020716999926,
+    7.005920692000132
+),
+koordinate(
+    -71.881008259999902,
+    6.986603089000155
+),
+koordinate(
+    -71.848193725999892,
+    6.983864238000194
+),
+koordinate(
+    -71.832639119999953,
+    6.986448059000111
+),
+koordinate(
+    -71.821890421999939,
+    6.992959290000087
+),
+koordinate(
+    -71.812123575999891,
+    7.001175842000109
+),
+koordinate(
+    -71.799617878999896,
+    7.009185689000091
+),
+koordinate(
+    -71.788559122999885,
+    7.009702454000134
+),
+koordinate(
+    -71.777758748999958,
+    7.007532044000143
+),
+koordinate(
+    -71.771505899999937,
+    7.011149394000128
+),
+koordinate(
+    -71.77403804599993,
+    7.028926086000155
+),
+koordinate(
+    -71.74535762499994,
+    7.029339498000155
+),
+koordinate(
+    -71.721689819999909,
+    7.033421936000167
+),
+koordinate(
+    -71.698022013999974,
+    7.034972229000104
+),
+koordinate(
+    -71.669599975999944,
+    7.027737529000135
+),
+koordinate(
+    -71.673527384999915,
+    7.044222310000109
+),
+koordinate(
+    -71.667016153999953,
+    7.051508688000183
+),
+koordinate(
+    -71.654303751999919,
+    7.053369039000188
+),
+koordinate(
+    -71.620404012999899,
+    7.052128805000152
+),
+koordinate(
+    -71.612187459999944,
+    7.046341044000172
+),
+koordinate(
+    -71.606503051999908,
+    7.038279521000092
+),
+koordinate(
+    -71.594720825999929,
+    7.030114645000168
+),
+koordinate(
+    -71.587796182999938,
+    7.029287821000153
+),
+koordinate(
+    -71.580613159999899,
+    7.031561584000158
+),
+koordinate(
+    -71.567073934999911,
+    7.039313050000175
+),
+koordinate(
+    -71.558443969999956,
+    7.041225078000181
+),
+koordinate(
+    -71.553586385999949,
+    7.037297668000122
+),
+koordinate(
+    -71.551054239999957,
+    7.031819967000132
+),
+koordinate(
+    -71.549348917999879,
+    7.029132793000201
+),
+koordinate(
+    -71.548625448,
+    7.028305969000172
+),
+koordinate(
+    -71.52883337499992,
+    7.02706573500015
+),
+koordinate(
+    -71.529091756999975,
+    7.028305969000172
+),
+koordinate(
+    -71.528058227999907,
+    7.029856262000109
+),
+koordinate(
+    -71.509919799999892,
+    7.034610494000106
+),
+koordinate(
+    -71.487647257999924,
+    7.028926086000155
+),
+koordinate(
+    -71.467700154999903,
+    7.012441304000163
+),
+koordinate(
+    -71.45576289899995,
+    7.015696920000153
+),
+koordinate(
+    -71.429459594999912,
+    7.027737529000135
+),
+koordinate(
+    -71.413904988999974,
+    7.030993144000206
+),
+koordinate(
+    -71.39819535399991,
+    7.029494527000111
+),
+koordinate(
+    -71.366000935999978,
+    7.020709534000119
+),
+koordinate(
+    -71.349361125999934,
+    7.019469299000178
+),
+koordinate(
+    -71.307761597999956,
+    7.027375793000132
+),
+koordinate(
+    -71.292517048999912,
+    7.025773824000098
+),
+koordinate(
+    -71.283525349999962,
+    7.018849183000114
+),
+koordinate(
+    -71.281458292999901,
+    7.007221985000157
+),
+koordinate(
+    -71.280683146999905,
+    6.994612936000124
+),
+koordinate(
+    -71.275515503999969,
+    6.984381002000148
+),
+koordinate(
+    -71.262027953999933,
+    6.978696595000201
+),
+koordinate(
+    -71.213245402999974,
+    6.977508036000174
+),
+koordinate(
+    -71.201514851999974,
+    6.971875305000154
+),
+koordinate(
+    -71.193815063999892,
+    6.96531239800008
+),
+koordinate(
+    -71.18404821799993,
+    6.962573547000119
+),
+koordinate(
+    -71.166323201999916,
+    6.968102926000128
+),
+koordinate(
+    -71.153610798999949,
+    6.977094625000163
+),
+koordinate(
+    -71.145394246999928,
+    6.986189678000145
+),
+koordinate(
+    -71.13604081299988,
+    6.992132467000147
+),
+koordinate(
+    -71.065476643999915,
+    6.98453603100009
+),
+koordinate(
+    -71.0112680659999,
+    6.990892232000121
+),
+koordinate(
+    -70.961322794999916,
+    7.00944407200015
+),
+koordinate(
+    -70.918818928999968,
+    7.039468079000116
+),
+koordinate(
+    -70.908096069999942,
+    7.053369039000188
+),
+koordinate(
+    -70.903445190999975,
+    7.063187561000163
+),
+koordinate(
+    -70.895538696999949,
+    7.068510233000112
+),
+koordinate(
+    -70.874816446999915,
+    7.069182027000181
+),
+koordinate(
+    -70.83662756399994,
+    7.081894430000148
+),
+koordinate(
+    -70.793064331999915,
+    7.085098369000207
+),
+koordinate(
+    -70.732964639999977,
+    7.099309388000165
+),
+koordinate(
+    -70.703302368999914,
+    7.099929504000144
+),
+koordinate(
+    -70.696739461999925,
+    7.096673889000158
+),
+koordinate(
+    -70.682605957999982,
+    7.084633281000095
+),
+koordinate(
+    -70.67317500799993,
+    7.081170959000147
+),
+koordinate(
+    -70.63927526899991,
+    7.073471171000151
+),
+koordinate(
+    -70.622893839999875,
+    7.074091288000119
+),
+koordinate(
+    -70.594678507999902,
+    7.082979635000143
+),
+koordinate(
+    -70.578607137999938,
+    7.085821838000115
+),
+koordinate(
+    -70.571475789999909,
+    7.079362284000155
+),
+koordinate(
+    -70.520910400999952,
+    7.015593567000124
+),
+koordinate(
+    -70.510704305999894,
+    7.009702454000134
+),
+koordinate(
+    -70.494813801999953,
+    7.005516663000094
+),
+koordinate(
+    -70.484142619999972,
+    7.005309957000137
+),
+koordinate(
+    -70.461301636999877,
+    7.008307190000153
+),
+koordinate(
+    -70.451663981999928,
+    7.00768707300017
+),
+koordinate(
+    -70.447013102999875,
+    7.004741516000181
+),
+koordinate(
+    -70.440966959999898,
+    6.995749817000132
+),
+koordinate(
+    -70.43778885999987,
+    6.993010966000099
+),
+koordinate(
+    -70.42293188499994,
+    6.987791646000176
+),
+koordinate(
+    -70.31906225599991,
+    6.93828562400013
+),
+koordinate(
+    -70.287617146999963,
+    6.936942037000151
+),
+koordinate(
+    -70.231263997999946,
+    6.968516337000139
+),
+koordinate(
+    -70.195012979999916,
+    6.977559713000105
+),
+koordinate(
+    -70.15778011099988,
+    6.979523418000127
+),
+koordinate(
+    -70.129203043999922,
+    6.972547099000138
+),
+koordinate(
+    -70.096621053999883,
+    6.944435120000094
+),
+koordinate(
+    -70.079412801999894,
+    6.922834371000121
+),
+koordinate(
+    -70.003577636999893,
+    6.827362163000174
+),
+koordinate(
+    -69.927716634999882,
+    6.731838278000126
+),
+koordinate(
+    -69.851829793999968,
+    6.636314393000177
+),
+koordinate(
+    -69.77596879099994,
+    6.540816345000124
+),
+koordinate(
+    -69.700211140999869,
+    6.445292460000175
+),
+koordinate(
+    -69.624350137999869,
+    6.349768575000127
+),
+koordinate(
+    -69.548489136999933,
+    6.254296366000176
+),
+koordinate(
+    -69.472628133999933,
+    6.158746643000114
+),
+koordinate(
+    -69.443637654999947,
+    6.122237244000189
+),
+koordinate(
+    -69.432018568999951,
+    6.122237244000189
+),
+koordinate(
+    -69.431080281999925,
+    6.122237244000189
+),
+koordinate(
+    -69.406146403999884,
+    6.129342753000131
+),
+koordinate(
+    -69.358164835999929,
+    6.15161529500017
+),
+koordinate(
+    -69.331396443999949,
+    6.156369527000081
+),
+koordinate(
+    -69.311345987999914,
+    6.146215108000206
+),
+koordinate(
+    -69.268583740999901,
+    6.09745839500016
+),
+koordinate(
+    -69.246104492999876,
+    6.080663554000111
+),
+koordinate(
+    -69.189157063999914,
+    6.112625427000182
+),
+koordinate(
+    -69.129961710999936,
+    6.169934591000157
+),
+koordinate(
+    -69.108412638999965,
+    6.182569479000094
+),
+koordinate(
+    -69.080197306999906,
+    6.209389547000171
+),
+koordinate(
+    -69.061128702999923,
+    6.217838644000082
+),
+koordinate(
+    -69.036892455999947,
+    6.218768819000133
+),
+koordinate(
+    -69.016170206999902,
+    6.213988750000127
+),
+koordinate(
+    -68.978575601999893,
+    6.197323100000105
+),
+koordinate(
+    -68.960902262999895,
+    6.202361553000159
+),
+koordinate(
+    -68.938345499999969,
+    6.197116394000148
+),
+koordinate(
+    -68.914470987999977,
+    6.18869313500015
+),
+koordinate(
+    -68.892921915999921,
+    6.18432647700017
+),
+koordinate(
+    -68.829127359999887,
+    6.187788798000113
+),
+koordinate(
+    -68.807862507999914,
+    6.18432647700017
+),
+koordinate(
+    -68.744093790999898,
+    6.164921977000105
+),
+koordinate(
+    -68.721614542999959,
+    6.162519023000144
+),
+koordinate(
+    -68.700892293999942,
+    6.157971497000105
+),
+koordinate(
+    -68.659344441999963,
+    6.138670349000165
+),
+koordinate(
+    -68.63531490099993,
+    6.135879822000106
+),
+koordinate(
+    -68.621982381999914,
+    6.141925964000151
+),
+koordinate(
+    -68.595679076999943,
+    6.164921977000105
+),
+koordinate(
+    -68.584723673999889,
+    6.170012106000172
+),
+koordinate(
+    -68.522505249999966,
+    6.173293559000172
+),
+koordinate(
+    -68.4490213629999,
+    6.194997661000159
+),
+koordinate(
+    -68.427420613999942,
+    6.197323100000105
+),
+koordinate(
+    -68.406698364999897,
+    6.194894308000144
+),
+koordinate(
+    -68.34112097199997,
+    6.176833394000127
+),
+koordinate(
+    -68.30417232299996,
+    6.176988424000172
+),
+koordinate(
+    -68.190277466999902,
+    6.217838644000082
+),
+koordinate(
+    -68.146507527999916,
+    6.223781433000099
+),
+koordinate(
+    -68.019021769999966,
+    6.211611634000178
+),
+koordinate(
+    -67.977990682999916,
+    6.217838644000082
+),
+koordinate(
+    -67.943315795999894,
+    6.229698385000106
+),
+koordinate(
+    -67.933652303999878,
+    6.231455383000167
+),
+koordinate(
+    -67.92414384,
+    6.234555970000201
+),
+koordinate(
+    -67.916289021999944,
+    6.242229920000099
+),
+koordinate(
+    -67.911069702999953,
+    6.252306824000144
+),
+koordinate(
+    -67.909157674999932,
+    6.262512919000116
+),
+koordinate(
+    -67.904300089999907,
+    6.275147807000138
+),
+koordinate(
+    -67.892827921999896,
+    6.2783000700001
+),
+koordinate(
+    -67.879288696999907,
+    6.277938334000112
+),
+koordinate(
+    -67.868126587999967,
+    6.279876201000135
+),
+koordinate(
+    -67.857636270999933,
+    6.288454488000156
+),
+koordinate(
+    -67.839136108999895,
+    6.307523092000139
+),
+koordinate(
+    -67.827198852999942,
+    6.313414205000143
+),
+koordinate(
+    -67.818517211999904,
+    6.313750102000128
+),
+koordinate(
+    -67.80079219599989,
+    6.308608297000134
+),
+koordinate(
+    -67.73097733599991,
+    6.302691345000127
+),
+koordinate(
+    -67.573984334999949,
+    6.266233622000129
+),
+koordinate(
+    -67.544890502999948,
+    6.248069356000187
+),
+koordinate(
+    -67.518277139999924,
+    6.222541199000148
+),
+koordinate(
+    -67.490475219999951,
+    6.201638082000073
+),
+koordinate(
+    -67.450972371999882,
+    6.198035463000153
+),
+koordinate(
+    -67.449960896999954,
+    6.197943218000162
+),
+koordinate(
+    -67.456299399999921,
+    6.193223721000109
+),
+koordinate(
+    -67.476160847999978,
+    6.178435364000166
+),
+koordinate(
+    -67.486961221999906,
+    6.16678232800011
+),
+koordinate(
+    -67.491405395999919,
+    6.152958883000139
+),
+koordinate(
+    -67.491198689999948,
+    6.114485779000091
+),
+koordinate(
+    -67.454301716999936,
+    6.056789042000119
+),
+koordinate(
+    -67.428566853999939,
+    6.038469747000136
+),
+koordinate(
+    -67.420970418999872,
+    6.01834177600017
+),
+koordinate(
+    -67.418593302999938,
+    5.995345764000206
+),
+koordinate(
+    -67.422469034999978,
+    5.978240865000174
+),
+koordinate(
+    -67.434768025999915,
+    5.96816396100013
+),
+koordinate(
+    -67.470889852999932,
+    5.952841899000163
+),
+koordinate(
+    -67.485204223999943,
+    5.94408274300018
+),
+koordinate(
+    -67.532384806999943,
+    5.8925613400001
+),
+koordinate(
+    -67.54158321099996,
+    5.876722514000093
+),
+koordinate(
+    -67.601217814999956,
+    5.820576070000129
+),
+koordinate(
+    -67.625144002999946,
+    5.784505921000132
+),
+koordinate(
+    -67.641163695999921,
+    5.744844259000161
+),
+koordinate(
+    -67.649121866999877,
+    5.701952820000201
+),
+koordinate(
+    -67.649070190999964,
+    5.65608998600014
+),
+koordinate(
+    -67.637753051999965,
+    5.597308045000162
+),
+koordinate(
+    -67.6359960529999,
+    5.577593485000122
+),
+koordinate(
+    -67.632585408999972,
+    5.573071798000086
+),
+koordinate(
+    -67.617650919999932,
+    5.558524882000128
+),
+koordinate(
+    -67.614291951999917,
+    5.553667298000121
+),
+koordinate(
+    -67.617030802999949,
+    5.54160085100014
+),
+koordinate(
+    -67.622973591999965,
+    5.533410136000114
+),
+koordinate(
+    -67.630001586999981,
+    5.526898906000142
+),
+koordinate(
+    -67.6359960529999,
+    5.519535014000141
+),
+koordinate(
+    -67.647003133999903,
+    5.483361511000112
+),
+koordinate(
+    -67.652480834999977,
+    5.477961324000148
+),
+koordinate(
+    -67.664469767999947,
+    5.474912415000119
+),
+koordinate(
+    -67.67527014199996,
+    5.46718678800012
+),
+koordinate(
+    -67.693718627999971,
+    5.4472138470001
+),
+koordinate(
+    -67.702141886999982,
+    5.441400248000207
+),
+koordinate(
+    -67.731649129999909,
+    5.430134786000153
+),
+koordinate(
+    -67.737023477999941,
+    5.42581980400017
+),
+koordinate(
+    -67.746686971999878,
+    5.414321798000145
+),
+koordinate(
+    -67.752112996999955,
+    5.409670919000178
+),
+koordinate(
+    -67.756712198999907,
+    5.408792420000154
+),
+koordinate(
+    -67.767925984999948,
+    5.410497742000118
+),
+koordinate(
+    -67.772576863999916,
+    5.409670919000178
+),
+koordinate(
+    -67.809783895999914,
+    5.378820089000115
+),
+koordinate(
+    -67.83458858299997,
+    5.33931345600017
+),
+koordinate(
+    -67.843683634999934,
+    5.297248840000137
+),
+koordinate(
+    -67.8340201419999,
+    5.258879090000121
+),
+koordinate(
+    -67.824976765999935,
+    5.242781881000141
+),
+koordinate(
+    -67.818620564999918,
+    5.227821554000173
+),
+koordinate(
+    -67.814744832999878,
+    5.210277405000113
+),
+koordinate(
+    -67.813504598999941,
+    5.186557923000166
+),
+koordinate(
+    -67.8155716549999,
+    5.177902120000113
+),
+koordinate(
+    -67.824563354999924,
+    5.154337667000121
+),
+koordinate(
+    -67.827198852999942,
+    5.142116191000184
+),
+koordinate(
+    -67.827560587999955,
+    5.1306956990001
+),
+koordinate(
+    -67.82663041299989,
+    5.120386251000184
+),
+koordinate(
+    -67.824511677999936,
+    5.110593567000123
+),
+koordinate(
+    -67.820997680999966,
+    5.100594177000119
+),
+koordinate(
+    -67.814744832999878,
+    5.090956523000102
+),
+koordinate(
+    -67.796761433999876,
+    5.070156759000142
+),
+koordinate(
+    -67.793092406999904,
+    5.063335470000183
+),
+koordinate(
+    -67.795211141999971,
+    5.052715963000196
+),
+koordinate(
+    -67.799862019999921,
+    5.045868835000135
+),
+koordinate(
+    -67.804564575999905,
+    5.040856221000169
+),
+koordinate(
+    -67.806734985999896,
+    5.035714417000179
+),
+koordinate(
+    -67.804977986999916,
+    4.991246846000195
+),
+koordinate(
+    -67.806683308999965,
+    4.972255757000141
+),
+koordinate(
+    -67.819602417999903,
+    4.933317566000156
+),
+koordinate(
+    -67.826372029999931,
+    4.894844462000108
+),
+koordinate(
+    -67.827198852999942,
+    4.871538391000172
+),
+koordinate(
+    -67.825235148999923,
+    4.864897970000172
+),
+koordinate(
+    -67.816140095999941,
+    4.847302145000185
+),
+koordinate(
+    -67.813504598999941,
+    4.84050669400014
+),
+koordinate(
+    -67.813866333999925,
+    4.828259379000201
+),
+koordinate(
+    -67.817121948999926,
+    4.821515605000172
+),
+koordinate(
+    -67.818620564999918,
+    4.815676168000096
+),
+koordinate(
+    -67.813504598999941,
+    4.806348572000161
+),
+koordinate(
+    -67.820532593999928,
+    4.78764170400018
+),
+koordinate(
+    -67.82285803299996,
+    4.743587545000196
+),
+koordinate(
+    -67.830609496999898,
+    4.727542013000146
+),
+koordinate(
+    -67.840634725999905,
+    4.711496480000093
+),
+koordinate(
+    -67.845647338999953,
+    4.689740703000084
+),
+koordinate(
+    -67.848799600999911,
+    4.634188538000089
+),
+koordinate(
+    -67.855155802999946,
+    4.607730204000106
+),
+koordinate(
+    -67.853708862999952,
+    4.575820007000132
+),
+koordinate(
+    -67.855155802999946,
+    4.566156515000102
+),
+koordinate(
+    -67.860633504999925,
+    4.557965800000176
+),
+koordinate(
+    -67.867609822999924,
+    4.553159892000167
+),
+koordinate(
+    -67.873397583999918,
+    4.546519471000167
+),
+koordinate(
+    -67.875051228999951,
+    4.53264434800019
+),
+koordinate(
+    -67.871795613999979,
+    4.521559753000176
+),
+koordinate(
+    -67.865077676999931,
+    4.512077128000115
+),
+koordinate(
+    -67.856551066999941,
+    4.504170634000161
+),
+koordinate(
+    -67.847662720999921,
+    4.497891948000145
+),
+koordinate(
+    -67.847662720999921,
+    4.50468739900019
+),
+koordinate(
+    -67.829059203999947,
+    4.491432394000185
+),
+koordinate(
+    -67.821876180999908,
+    4.478229065000107
+),
+koordinate(
+    -67.813504598999941,
+    4.443269959000119
+),
+koordinate(
+    -67.809422159999912,
+    4.439290873000132
+),
+koordinate(
+    -67.797071492999976,
+    4.434924215000137
+),
+koordinate(
+    -67.793092406999904,
+    4.428981425000131
+),
+koordinate(
+    -67.792678995999978,
+    4.420842387000121
+),
+koordinate(
+    -67.798363403999929,
+    4.406915589000136
+),
+koordinate(
+    -67.799862019999921,
+    4.398905741000149
+),
+koordinate(
+    -67.796658081999965,
+    4.385805766000189
+),
+koordinate(
+    -67.78265376899995,
+    4.36379160600012
+),
+koordinate(
+    -67.77939815299996,
+    4.350794983000185
+),
+koordinate(
+    -67.781981974999951,
+    4.338883565000145
+),
+koordinate(
+    -67.799862019999921,
+    4.306069031000135
+),
+koordinate(
+    -67.804926310999917,
+    4.268474426000125
+),
+koordinate(
+    -67.79944860899991,
+    4.235323995000115
+),
+koordinate(
+    -67.790766967999872,
+    4.204266459000166
+),
+koordinate(
+    -67.786219441999918,
+    4.172976380000165
+),
+koordinate(
+    -67.777744506999909,
+    4.153933614000096
+),
+koordinate(
+    -67.758934285,
+    4.138559875000127
+),
+koordinate(
+    -67.740175740999916,
+    4.118716126000123
+),
+koordinate(
+    -67.731649129999909,
+    4.086366679000136
+),
+koordinate(
+    -67.720642048999906,
+    4.07497202600014
+),
+koordinate(
+    -67.714079141999918,
+    4.056497701000126
+),
+koordinate(
+    -67.716932481999919,
+    4.039878247000104
+),
+koordinate(
+    -67.717024698999921,
+    4.039341125000163
+),
+koordinate(
+    -67.710410115999935,
+    4.035723775000179
+),
+koordinate(
+    -67.701625121999939,
+    4.011952616000116
+),
+koordinate(
+    -67.69857621299991,
+    3.949966736000178
+),
+koordinate(
+    -67.693873657999916,
+    3.928598531000162
+),
+koordinate(
+    -67.653876098999945,
+    3.859248759000124
+),
+koordinate(
+    -67.644419311999883,
+    3.834624939000136
+),
+koordinate(
+    -67.638786580999948,
+    3.785170594000107
+),
+koordinate(
+    -67.631758585999961,
+    3.761864523000071
+),
+koordinate(
+    -67.614136921999972,
+    3.740573832000081
+),
+koordinate(
+    -67.594809936999923,
+    3.73091034000015
+),
+koordinate(
+    -67.576516479999952,
+    3.730703633000189
+),
+koordinate(
+    -67.5579129649999,
+    3.734165955000137
+),
+koordinate(
+    -67.537449096999921,
+    3.735509542000102
+),
+koordinate(
+    -67.499828654999902,
+    3.71791371700013
+),
+koordinate(
+    -67.4714066169999,
+    3.680060730000136
+),
+koordinate(
+    -67.403917195999952,
+    3.504464213000134
+),
+koordinate(
+    -67.390119588999909,
+    3.485059713000069
+),
+koordinate(
+    -67.375391804999907,
+    3.474905294000095
+),
+koordinate(
+    -67.337823038999971,
+    3.460099996000167
+),
+koordinate(
+    -67.304646768999959,
+    3.425709331000135
+),
+koordinate(
+    -67.309452677999872,
+    3.383928935000171
+),
+koordinate(
+    -67.335290893999911,
+    3.342096863000108
+),
+koordinate(
+    -67.395803995999927,
+    3.266571757000094
+),
+koordinate(
+    -67.408051309999877,
+    3.25727
+),
+koordinate(
+    -67.418386596999966,
+    3.253704325000015
+),
+koordinate(
+    -67.440245727999923,
+    3.249415182000135
+),
+koordinate(
+    -67.452182983999961,
+    3.243679098000172
+),
+koordinate(
+    -67.470941528999873,
+    3.226315816000067
+),
+koordinate(
+    -67.513832967999917,
+    3.186731670000185
+),
+koordinate(
+    -67.55662105299993,
+    3.147044170000115
+),
+koordinate(
+    -67.599512492999906,
+    3.107460022000154
+),
+koordinate(
+    -67.642300577999919,
+    3.067824198000011
+),
+koordinate(
+    -67.685140339999947,
+    3.028240052000129
+),
+koordinate(
+    -67.727980102999908,
+    2.988604228000071
+),
+koordinate(
+    -67.770768188999909,
+    2.948968404000183
+),
+koordinate(
+    -67.813607950999966,
+    2.909332581000044
+),
+koordinate(
+    -67.838619344999955,
+    2.886129863000122
+),
+koordinate(
+    -67.85525915499997,
+    2.858172913000132
+),
+koordinate(
+    -67.855930948999969,
+    2.78975331600013
+),
+koordinate(
+    -67.84125484199987,
+    2.801432190000028
+),
+koordinate(
+    -67.83334834799993,
+    2.815229798000161
+),
+koordinate(
+    -67.823323120999902,
+    2.827322083000141
+),
+koordinate(
+    -67.80332434099995,
+    2.832593078000087
+),
+koordinate(
+    -67.78141353399991,
+    2.831507874000181
+),
+koordinate(
+    -67.770199747999953,
+    2.83243805000005
+),
+koordinate(
+    -67.751027790999871,
+    2.842101542000151
+),
+koordinate(
+    -67.742552856999964,
+    2.838587545000024
+),
+koordinate(
+    -67.731649129999909,
+    2.826340231000089
+),
+koordinate(
+    -67.690411336999972,
+    2.806341451000137
+),
+koordinate(
+    -67.665606648999955,
+    2.80132883700017
+),
+koordinate(
+    -67.645659546999923,
+    2.808666891000087
+),
+koordinate(
+    -67.62659094299994,
+    2.813421122000079
+),
+koordinate(
+    -67.608452514999925,
+    2.798589986000053
+),
+koordinate(
+    -67.594293172999954,
+    2.776110738000128
+),
+koordinate(
+    -67.58705847199991,
+    2.758127340000058
+),
+koordinate(
+    -67.581477416999888,
+    2.713065491000108
+),
+koordinate(
+    -67.575586303999899,
+    2.691103007000137
+),
+koordinate(
+    -67.563700724999961,
+    2.68174957300009
+),
+koordinate(
+    -67.518793904999967,
+    2.681026103000193
+),
+koordinate(
+    -67.50029374199994,
+    2.675341695000142
+),
+koordinate(
+    -67.485204223999943,
+    2.661905823000097
+),
+koordinate(
+    -67.481018432999889,
+    2.653534241000131
+),
+koordinate(
+    -67.475023966999885,
+    2.63467234300019
+),
+koordinate(
+    -67.470889852999932,
+    2.627127584000064
+),
+koordinate(
+    -67.461743122999877,
+    2.62040964700013
+),
+koordinate(
+    -67.440349080999937,
+    2.610022685000104
+),
+koordinate(
+    -67.436163289999911,
+    2.60356313000014
+),
+koordinate(
+    -67.43264929299994,
+    2.595398255000134
+),
+koordinate(
+    -67.416991332999913,
+    2.575761210000096
+),
+koordinate(
+    -67.412908894999902,
+    2.571885478000056
+),
+koordinate(
+    -67.400351522999983,
+    2.56821645100014
+),
+koordinate(
+    -67.393220174999925,
+    2.559328105000134
+),
+koordinate(
+    -67.388104207999959,
+    2.548165996000193
+),
+koordinate(
+    -67.381541300999885,
+    2.537779032000174
+),
+koordinate(
+    -67.372032836999978,
+    2.53044097900009
+),
+koordinate(
+    -67.349863647999967,
+    2.518452047000039
+),
+koordinate(
+    -67.340613565999945,
+    2.510493876000155
+),
+koordinate(
+    -67.335807658999926,
+    2.500313619000096
+),
+koordinate(
+    -67.331260131999898,
+    2.486671041000179
+),
+koordinate(
+    -67.325420694999906,
+    2.474630432000112
+),
+koordinate(
+    -67.316635701999928,
+    2.469462789000119
+),
+koordinate(
+    -67.305680297999942,
+    2.466207174000132
+),
+koordinate(
+    -67.294724894999973,
+    2.458352356000191
+),
+koordinate(
+    -67.275707966999903,
+    2.439387106000055
+),
+koordinate(
+    -67.266561238999913,
+    2.433754375000206
+),
+koordinate(
+    -67.23136958799995,
+    2.422333883000107
+),
+koordinate(
+    -67.197624878,
+    2.402025045000187
+),
+koordinate(
+    -67.189718383999946,
+    2.394376933000117
+),
+koordinate(
+    -67.186101033999961,
+    2.384455058000114
+),
+koordinate(
+    -67.185739298999948,
+    2.365489808000163
+),
+koordinate(
+    -67.180158243999955,
+    2.356498108000125
+),
+koordinate(
+    -67.173750365999922,
+    2.33644765200016
+),
+koordinate(
+    -67.187031209999901,
+    2.315983785000029
+),
+koordinate(
+    -67.206306518999952,
+    2.297793681000158
+),
+koordinate(
+    -67.217675333999949,
+    2.284512838000154
+),
+koordinate(
+    -67.217261921999921,
+    2.266064351000139
+),
+koordinate(
+    -67.201345580999913,
+    2.227927144000176
+),
+koordinate(
+    -67.194265910999974,
+    2.197024638000187
+),
+koordinate(
+    -67.177832804999923,
+    2.154494934000127
+),
+koordinate(
+    -67.169254516999899,
+    2.14116241500011
+),
+koordinate(
+    -67.154113321999972,
+    2.132687480000115
+),
+koordinate(
+    -67.136026570999945,
+    2.127132263000107
+),
+koordinate(
+    -67.12098872899989,
+    2.119096578000111
+),
+koordinate(
+    -67.11463252799993,
+    2.102999370000134
+),
+koordinate(
+    -67.111170206999901,
+    2.048842469000121
+),
+koordinate(
+    -67.11463252799993,
+    2.031298320000161
+),
+koordinate(
+    -67.119025024999928,
+    2.023986105000162
+),
+koordinate(
+    -67.135148071999907,
+    2.003341370000157
+),
+koordinate(
+    -67.132615925999943,
+    1.99080983500015
+),
+koordinate(
+    -67.125536255999918,
+    1.980500386000159
+),
+koordinate(
+    -67.118094848999903,
+    1.972387187000066
+),
+koordinate(
+    -67.11034338399989,
+    1.959519755000159
+),
+koordinate(
+    -67.091584838999978,
+    1.946523133000042
+),
+koordinate(
+    -67.087295694999909,
+    1.938823344000127
+),
+koordinate(
+    -67.08481522699995,
+    1.927997132000101
+),
+koordinate(
+    -67.066831827999948,
+    1.894123230000091
+),
+koordinate(
+    -66.980893920999904,
+    1.665945943000011
+),
+koordinate(
+    -66.978051716999943,
+    1.644293518000026
+),
+koordinate(
+    -66.978051716999943,
+    1.599722596000106
+),
+koordinate(
+    -66.974175984999988,
+    1.58003387500014
+),
+koordinate(
+    -66.964460815999928,
+    1.55830393500014
+),
+koordinate(
+    -66.943170125999956,
+    1.523189799000193
+),
+koordinate(
+    -66.93360998599988,
+    1.501692403000163
+),
+koordinate(
+    -66.929682576999909,
+    1.479497375000136
+),
+koordinate(
+    -66.936503865999953,
+    1.438517965000187
+),
+koordinate(
+    -66.932731485999909,
+    1.424642843000044
+),
+koordinate(
+    -66.92337805199989,
+    1.414359232000138
+),
+koordinate(
+    -66.911905884999953,
+    1.405186666000134
+),
+koordinate(
+    -66.901725626999905,
+    1.394463806000132
+),
+koordinate(
+    -66.891183634999919,
+    1.374542542000114
+),
+koordinate(
+    -66.88353552199996,
+    1.349944560000125
+),
+koordinate(
+    -66.882501994999956,
+    1.326018372000135
+),
+koordinate(
+    -66.900898803999979,
+    1.288966370000154
+),
+koordinate(
+    -66.895886189999914,
+    1.265298564000048
+),
+koordinate(
+    -66.87506058799994,
+    1.222510478000103
+),
+koordinate(
+    -66.913404500999974,
+    1.214862366000133
+),
+koordinate(
+    -66.978206746999973,
+    1.196827291000133
+),
+koordinate(
+    -67.065229858999913,
+    1.172694397000072
+),
+koordinate(
+    -67.086107137,
+    1.176001689000159
+),
+koordinate(
+    -67.094478718999966,
+    1.201219788000117
+),
+koordinate(
+    -67.098199421999965,
+    1.25336130800018
+),
+koordinate(
+    -67.073601440999909,
+    1.541199035000105
+),
+koordinate(
+    -67.082954874999928,
+    1.604631856000125
+),
+koordinate(
+    -67.117164673999923,
+    1.709793396000023
+),
+koordinate(
+    -67.155715291999911,
+    1.788083191000169
+),
+koordinate(
+    -67.264752563999934,
+    1.932544657000122
+),
+koordinate(
+    -67.288627075999926,
+    1.974893494000128
+),
+koordinate(
+    -67.320408081999943,
+    2.053079936000088
+),
+koordinate(
+    -67.340613565999945,
+    2.090106100000142
+),
+koordinate(
+    -67.36577998899989,
+    2.114962464000101
+),
+koordinate(
+    -67.381748005999924,
+    2.122739767000113
+),
+koordinate(
+    -67.424639445999873,
+    2.138113505000092
+),
+koordinate(
+    -67.439728962999965,
+    2.139560445000086
+),
+koordinate(
+    -67.449134073999943,
+    2.134134420000109
+),
+koordinate(
+    -67.466083943999934,
+    2.116357727000164
+),
+koordinate(
+    -67.475334024999938,
+    2.111861877000152
+),
+koordinate(
+    -67.510267293999931,
+    2.107417705000145
+),
+koordinate(
+    -67.527320515999889,
+    2.096591492000101
+),
+koordinate(
+    -67.554398966999941,
+    2.073130392000124
+),
+koordinate(
+    -67.592949585999918,
+    2.054811096000151
+),
+koordinate(
+    -67.669740762999965,
+    1.97334320100012
+),
+koordinate(
+    -67.790456909999961,
+    1.812577820000129
+),
+koordinate(
+    -67.820842651999925,
+    1.784000753000072
+),
+koordinate(
+    -67.86053015199991,
+    1.761521505000161
+),
+koordinate(
+    -67.893189656999965,
+    1.749713440000065
+),
+koordinate(
+    -67.928846394999965,
+    1.741290181000153
+),
+koordinate(
+    -67.964864868999967,
+    1.740153300000145
+),
+koordinate(
+    -67.998247842999916,
+    1.749971823000038
+),
+koordinate(
+    -68.031785848999931,
+    1.777515361000113
+),
+koordinate(
+    -68.058657592999936,
+    1.816401876000072
+),
+koordinate(
+    -68.079224812999939,
+    1.859965109000115
+),
+koordinate(
+    -68.101238972999909,
+    1.924121399000143
+),
+koordinate(
+    -68.111109172,
+    1.942414856000198
+),
+koordinate(
+    -68.126147013999883,
+    1.956212463000071
+),
+koordinate(
+    -68.149143026999923,
+    1.96554006000018
+),
+koordinate(
+    -68.169761921999935,
+    1.969725851000135
+),
+koordinate(
+    -68.177099975999937,
+    1.973188172000164
+),
+koordinate(
+    -68.185161499999907,
+    1.980758769000133
+),
+koordinate(
+    -68.187280232999882,
+    1.988200175000145
+),
+koordinate(
+    -68.187435262999941,
+    2.008250631000095
+),
+koordinate(
+    -68.192189493999933,
+    2.01489105200011
+),
+koordinate(
+    -68.20081945799987,
+    2.007837219000095
+),
+koordinate(
+    -68.260815796999879,
+    1.858208110000135
+),
+koordinate(
+    -68.280246134999942,
+    1.829398499000192
+),
+koordinate(
+    -68.273683227999953,
+    1.825264385000168
+),
+koordinate(
+    -68.24831009899998,
+    1.822112121000117
+),
+koordinate(
+    -68.238956664999932,
+    1.810252380000108
+),
+koordinate(
+    -68.241127075999913,
+    1.788341573000139
+),
+koordinate(
+    -68.238956664999932,
+    1.770280660000054
+),
+koordinate(
+    -68.201542927999952,
+    1.768678691000105
+),
+koordinate(
+    -68.193533081999902,
+    1.763743592000154
+),
+koordinate(
+    -68.190742554999929,
+    1.7550102740001
+),
+koordinate(
+    -68.191724405999906,
+    1.742427063000164
+),
+koordinate(
+    -68.188778849999977,
+    1.735838318000091
+),
+koordinate(
+    -68.180407267999925,
+    1.729688823000117
+),
+koordinate(
+    -68.163302367999876,
+    1.721291402000134
+),
+koordinate(
+    -68.238594929999906,
+    1.72118804900019
+),
+koordinate(
+    -68.286447306999946,
+    1.721136373000178
+),
+koordinate(
+    -68.412641154999932,
+    1.721033021000153
+),
+koordinate(
+    -68.591028198999908,
+    1.720877991000123
+),
+koordinate(
+    -68.795486002999951,
+    1.720671285000151
+),
+koordinate(
+    -68.999995483999925,
+    1.720464580000112
+),
+koordinate(
+    -69.178382527999986,
+    1.720309550000152
+),
+koordinate(
+    -69.304524699999945,
+    1.720206197000138
+),
+koordinate(
+    -69.352402913999953,
+    1.720206197000138
+),
+koordinate(
+    -69.393382324999976,
+    1.725270488000206
+),
+koordinate(
+    -69.469191650999903,
+    1.757387390000133
+),
+koordinate(
+    -69.541952066999869,
+    1.7727094520001
+),
+koordinate(
+    -69.580295979999875,
+    1.770228983000123
+),
+koordinate(
+    -69.649051472999957,
+    1.738938904000122
+),
+koordinate(
+    -69.690082560999912,
+    1.735476583000093
+),
+koordinate(
+    -69.71145076499991,
+    1.738525493000111
+),
+koordinate(
+    -69.729149942999925,
+    1.738990581000053
+),
+koordinate(
+    -69.746358194999914,
+    1.735166525000096
+),
+koordinate(
+    -69.789197957999932,
+    1.712790629000125
+),
+koordinate(
+    -69.807543090999928,
+    1.707364603000059
+),
+koordinate(
+    -69.841184587999891,
+    1.707579109000122
+),
+koordinate(
+    -69.85617061399995,
+    1.707674663000134
+),
+koordinate(
+    -69.848806722999939,
+    1.6688915000001
+),
+koordinate(
+    -69.849245971999949,
+    1.600187684000119
+),
+koordinate(
+    -69.849607706999876,
+    1.531483866000158
+),
+koordinate(
+    -69.849995279999945,
+    1.462805888000105
+),
+koordinate(
+    -69.850357014999958,
+    1.394050395000122
+),
+koordinate(
+    -69.850770425999968,
+    1.325346578000151
+),
+koordinate(
+    -69.851106323999971,
+    1.256616923000166
+),
+koordinate(
+    -69.851545573999971,
+    1.187990621000125
+),
+koordinate(
+    -69.85193314599988,
+    1.119260966000155
+),
+koordinate(
+    -69.852191528999953,
+    1.059419657000191
+),
+koordinate(
+    -69.829350545999944,
+    1.057249248000105
+),
+koordinate(
+    -69.787673502999922,
+    1.084224345000138
+),
+koordinate(
+    -69.762558756999908,
+    1.091097310000109
+),
+koordinate(
+    -69.749665486999902,
+    1.090528870000142
+),
+koordinate(
+    -69.736823892999922,
+    1.088358459000148
+),
+koordinate(
+    -69.728064737999944,
+    1.082984111000187
+),
+koordinate(
+    -69.726514445999925,
+    1.061021627000045
+),
+koordinate(
+    -69.716024128999948,
+    1.058592835000169
+),
+koordinate(
+    -69.619905965999948,
+    1.072752177000112
+),
+koordinate(
+    -69.596754923999953,
+    1.071925354000101
+),
+koordinate(
+    -69.553295043999952,
+    1.05683583600009
+),
+koordinate(
+    -69.542959756999949,
+    1.05559560100015
+),
+koordinate(
+    -69.510093546999911,
+    1.056112366000193
+),
+koordinate(
+    -69.478260864999953,
+    1.060659892000047
+),
+koordinate(
+    -69.468726562999876,
+    1.059419657000191
+),
+koordinate(
+    -69.459760700999936,
+    1.055182190000139
+),
+koordinate(
+    -69.455419881999944,
+    1.050738017000128
+),
+koordinate(
+    -69.452370971999926,
+    1.046242167000031
+),
+koordinate(
+    -69.447280843999948,
+    1.041694641000078
+),
+koordinate(
+    -69.428418945999908,
+    1.030480855000135
+),
+koordinate(
+    -69.41816117299993,
+    1.028620504000131
+),
+koordinate(
+    -69.370851399999964,
+    1.062985332000068
+),
+koordinate(
+    -69.354960897999945,
+    1.067067770000165
+),
+koordinate(
+    -69.338786173999949,
+    1.064122213000161
+),
+koordinate(
+    -69.288815063999976,
+    1.038439026000091
+),
+koordinate(
+    -69.274268147999919,
+    1.02820709300012
+),
+koordinate(
+    -69.257189086999887,
+    1.006916402000044
+),
+koordinate(
+    -69.240239216999981,
+    0.995650941000079
+),
+koordinate(
+    -69.232849487999971,
+    0.98836456300009
+),
+koordinate(
+    -69.230162313999955,
+    0.979114482000085
+),
+koordinate(
+    -69.229128784999972,
+    0.967435608000102
+),
+koordinate(
+    -69.226183227999883,
+    0.957203675000116
+),
+koordinate(
+    -69.204324096999926,
+    0.943664449000138
+),
+koordinate(
+    -69.209982665999974,
+    0.907542623000126
+),
+koordinate(
+    -69.193885456999908,
+    0.892091370000045
+),
+koordinate(
+    -69.170734415999902,
+    0.883151347000108
+),
+koordinate(
+    -69.158926351999895,
+    0.876175028000191
+),
+koordinate(
+    -69.152389282999906,
+    0.867803446000124
+),
+koordinate(
+    -69.152337605999918,
+    0.854264221000065
+),
+koordinate(
+    -69.159753173999917,
+    0.849613342000097
+),
+koordinate(
+    -69.169313313999908,
+    0.84806304900016
+),
+koordinate(
+    -69.17538529499987,
+    0.844445699000175
+),
+koordinate(
+    -69.177607380999888,
+    0.823568421000118
+),
+koordinate(
+    -69.167763021999889,
+    0.778971659000192
+),
+koordinate(
+    -69.167763021999889,
+    0.756027323000154
+),
+koordinate(
+    -69.174558471999944,
+    0.745433655000085
+),
+koordinate(
+    -69.185022949999876,
+    0.737682190000086
+),
+koordinate(
+    -69.192257649999959,
+    0.728948873000192
+),
+koordinate(
+    -69.189260416999929,
+    0.715151266000149
+),
+koordinate(
+    -69.181198893999948,
+    0.707503154000079
+),
+koordinate(
+    -69.159494791999947,
+    0.697322897000106
+),
+koordinate(
+    -69.15207922399992,
+    0.690553283000071
+),
+koordinate(
+    -69.141201334999977,
+    0.668177388000089
+),
+koordinate(
+    -69.13745479399995,
+    0.650142314000092
+),
+koordinate(
+    -69.143655965999955,
+    0.637533265000158
+),
+koordinate(
+    -69.162336995999908,
+    0.631435445000108
+),
+koordinate(
+    -69.171406208999969,
+    0.632779033000162
+),
+koordinate(
+    -69.190138916999871,
+    0.639703674000145
+),
+koordinate(
+    -69.200603393999927,
+    0.639496969000106
+),
+koordinate(
+    -69.208354857999922,
+    0.634639384000167
+),
+koordinate(
+    -69.219051879999938,
+    0.61954986600017
+),
+koordinate(
+    -69.226183227999883,
+    0.614795634000174
+),
+koordinate(
+    -69.242383788999888,
+    0.613762106000195
+),
+koordinate(
+    -69.278996541999931,
+    0.619239807000014
+),
+koordinate(
+    -69.29705745499993,
+    0.618102925000173
+),
+koordinate(
+    -69.292819986999888,
+    0.645594788000068
+),
+koordinate(
+    -69.302147584000011,
+    0.656550191000136
+),
+koordinate(
+    -69.320260172999923,
+    0.656343486000168
+),
+koordinate(
+    -69.342326008999919,
+    0.650245667000206
+),
+koordinate(
+    -69.362557331999909,
+    0.6409439090001
+),
+koordinate(
+    -69.368939371999943,
+    0.644406230000129
+),
+koordinate(
+    -69.439710245999976,
+    0.715771382000128
+),
+koordinate(
+    -69.457874511999933,
+    0.728070374000154
+),
+koordinate(
+    -69.478079996999924,
+    0.73282460600015
+),
+koordinate(
+    -69.503711507999981,
+    0.729620667000177
+),
+koordinate(
+    -69.523426065999928,
+    0.720939026000124
+),
+koordinate(
+    -69.555646321999888,
+    0.700165100000092
+),
+koordinate(
+    -69.574224,
+    0.697943014000089
+),
+koordinate(
+    -69.594119425999935,
+    0.689313049000049
+),
+koordinate(
+    -69.604583902999963,
+    0.667402242000179
+),
+koordinate(
+    -69.619156656999934,
+    0.650659078000047
+),
+koordinate(
+    -69.651273559999964,
+    0.657377014000147
+),
+koordinate(
+    -69.679488891999938,
+    0.670037740000097
+),
+koordinate(
+    -69.694681762999949,
+    0.668745829000059
+),
+koordinate(
+    -69.732870645999924,
+    0.638980205000152
+),
+koordinate(
+    -69.767545532999947,
+    0.620686748000097
+),
+koordinate(
+    -69.805321004999911,
+    0.606940816000147
+),
+koordinate(
+    -69.845912841999962,
+    0.598672587000024
+),
+koordinate(
+    -69.914461629999977,
+    0.594538473000085
+),
+koordinate(
+    -69.93389196799987,
+    0.588957418000078
+),
+koordinate(
+    -69.952857217999906,
+    0.585753480000093
+),
+koordinate(
+    -69.976499185999927,
+    0.590404358000072
+),
+koordinate(
+    -69.999236816999911,
+    0.589784241000189
+),
+koordinate(
+    -70.020656697999925,
+    0.579862366000015
+),
+koordinate(
+    -70.039415242999922,
+    0.574591369000075
+),
+koordinate(
+    -70.054246378999949,
+    0.588130595000138
+),
+koordinate(
+    -70.056106730999971,
+    0.518574117000057
+),
+koordinate(
+    -70.056830200999968,
+    0.493045960000103
+),
+koordinate(
+    -70.058690551999973,
+    0.425866598000155
+),
+koordinate(
+    -70.061377725999904,
+    0.33088531500006
+),
+koordinate(
+    -70.064271606999881,
+    0.221951396000151
+),
+koordinate(
+    -70.067268839999912,
+    0.113017477000142
+),
+koordinate(
+    -70.069956014999917,
+    0.018036194000146
+),
+koordinate(
+    -70.071816365999922,
+    -0.049143167999901
+),
+koordinate(
+    -70.072488159999921,
+    -0.074671324999855
+),
+koordinate(
+    -70.073805907999969,
+    -0.124900817999887
+),
+koordinate(
+    -70.068043985999907,
+    -0.160144144999876
+),
+koordinate(
+    -70.056365112999941,
+    -0.181021422999848
+),
+koordinate(
+    -70.01755611199988,
+    -0.225669859999869
+),
+koordinate(
+    -69.966654825999967,
+    -0.272282002999845
+),
+koordinate(
+    -69.944356445999915,
+    -0.305458272999857
+),
+koordinate(
+    -69.9336335859999,
+    -0.314346618999863
+),
+koordinate(
+    -69.914978393999917,
+    -0.321684671999947
+),
+koordinate(
+    -69.875239217999933,
+    -0.330573017999882
+),
+koordinate(
+    -69.85810848099996,
+    -0.341425068999826
+),
+koordinate(
+    -69.85167476399991,
+    -0.350830179999875
+),
+koordinate(
+    -69.842295491999977,
+    -0.373154398999844
+),
+koordinate(
+    -69.834776570999935,
+    -0.383179625999873
+),
+koordinate(
+    -69.824777180999916,
+    -0.390207620999874
+),
+koordinate(
+    -69.801755330999953,
+    -0.400956318999903
+),
+koordinate(
+    -69.791445881999948,
+    -0.408191019999862
+),
+koordinate(
+    -69.761576904999941,
+    -0.440850524999846
+),
+koordinate(
+    -69.746461547999928,
+    -0.453046162999939
+),
+koordinate(
+    -69.666492269999907,
+    -0.482915140999864
+),
+koordinate(
+    -69.649516560999899,
+    -0.492010192999928
+),
+koordinate(
+    -69.632075764999939,
+    -0.506893005999885
+),
+koordinate(
+    -69.619750935999917,
+    -0.524566344999968
+),
+koordinate(
+    -69.611715250999907,
+    -0.544616800999933
+),
+koordinate(
+    -69.60706437199994,
+    -0.566837665999955
+),
+koordinate(
+    -69.606573445999913,
+    -0.596499938999926
+),
+koordinate(
+    -69.604532226999964,
+    -0.606318460999901
+),
+koordinate(
+    -69.599261230999929,
+    -0.616447040999859
+),
+koordinate(
+    -69.59269832399994,
+    -0.624095153999917
+),
+koordinate(
+    -69.586962239999906,
+    -0.632466735999813
+),
+koordinate(
+    -69.584223388999959,
+    -0.644559020999793
+),
+koordinate(
+    -69.59076045799992,
+    -0.668226827
+),
+koordinate(
+    -69.621973021999906,
+    -0.715355732999825
+),
+koordinate(
+    -69.628380900999957,
+    -0.733442483999838
+),
+koordinate(
+    -69.618355671999922,
+    -0.756903584999904
+),
+koordinate(
+    -69.580683553999904,
+    -0.799381611999863
+),
+koordinate(
+    -69.57272538299992,
+    -0.813540954999894
+),
+koordinate(
+    -69.575670938999934,
+    -0.839172464999862
+),
+koordinate(
+    -69.573242147999878,
+    -0.84919769199989
+),
+koordinate(
+    -69.564198771999912,
+    -0.86346038799995
+),
+koordinate(
+    -69.557506673999882,
+    -0.869454853999798
+),
+koordinate(
+    -69.550246134999924,
+    -0.873175556999897
+),
+koordinate(
+    -69.543295653999934,
+    -0.878653258999805
+),
+koordinate(
+    -69.537327026999918,
+    -0.889505309999848
+),
+koordinate(
+    -69.53621598299992,
+    -0.901184183999817
+),
+koordinate(
+    -69.538618937999871,
+    -0.910589293999877
+),
+koordinate(
+    -69.539239053999921,
+    -0.920614521999894
+),
+koordinate(
+    -69.532598632999935,
+    -0.934050394999844
+),
+koordinate(
+    -69.524278727999871,
+    -0.940975036999916
+),
+koordinate(
+    -69.50247127399993,
+    -0.950276793999862
+),
+koordinate(
+    -69.493143676999892,
+    -0.956167906999852
+),
+koordinate(
+    -69.471232869999938,
+    -0.988000589999984
+),
+koordinate(
+    -69.465135050999976,
+    -0.993064879999793
+),
+koordinate(
+    -69.455083984999959,
+    -0.9946151729999
+),
+koordinate(
+    -69.449968017999964,
+    -0.996785582999891
+),
+koordinate(
+    -69.446919107999946,
+    -1.00081634499989
+),
+koordinate(
+    -69.442862508999951,
+    -1.008361103999931
+),
+koordinate(
+    -69.445032918999942,
+    -1.010738219999965
+),
+koordinate(
+    -69.439761922,
+    -1.04866872099997
+),
+koordinate(
+    -69.441932332999897,
+    -1.059830830999829
+),
+koordinate(
+    -69.448288533999914,
+    -1.080398050999818
+),
+koordinate(
+    -69.448159342999986,
+    -1.092076924999887
+),
+koordinate(
+    -69.410461385999923,
+    -1.152745055999873
+),
+koordinate(
+    -69.399454304999949,
+    -1.182717386999812
+),
+koordinate(
+    -69.421106729999934,
+    -1.238631285999901
+),
+koordinate(
+    -69.421065071999948,
+    -1.239310156999849
+),
+koordinate(
+    -69.418316202999875,
+    -1.284106546999865
+),
+koordinate(
+    -69.43469763199991,
+    -1.376400654999841
+),
+koordinate(
+    -69.433948323999914,
+    -1.422185973999959
+),
+koordinate(
+    -69.452267618999912,
+    -1.490502216999843
+),
+koordinate(
+    -69.451931722999916,
+    -1.510862731999865
+),
+koordinate(
+    -69.466426960999939,
+    -1.561092223999907
+),
+koordinate(
+    -69.477614909999971,
+    -1.622483825999979
+),
+koordinate(
+    -69.506967122999953,
+    -1.783610940999878
+),
+koordinate(
+    -69.536319335999934,
+    -1.944841409999967
+),
+koordinate(
+    -69.565697387999904,
+    -2.10596852599987
+),
+koordinate(
+    -69.594997924999888,
+    -2.26709564199993
+),
+koordinate(
+    -69.624350137999869,
+    -2.428326110999848
+),
+koordinate(
+    -69.653702351999925,
+    -2.589453226999837
+),
+koordinate(
+    -69.683080403999924,
+    -2.750683694999836
+),
+koordinate(
+    -69.712406778999963,
+    -2.911810811
+),
+koordinate(
+    -69.741733154999935,
+    -3.072937926999899
+),
+koordinate(
+    -69.771162882999931,
+    -3.234168395999816
+),
+koordinate(
+    -69.800463419999915,
+    -3.395295511999876
+),
+koordinate(
+    -69.829815633999971,
+    -3.556525980999894
+),
+koordinate(
+    -69.859167846999952,
+    -3.717653095999864
+),
+koordinate(
+    -69.888520060999923,
+    -3.878780211999853
+),
+koordinate(
+    -69.917846435999905,
+    -4.040010680999941
+),
+koordinate(
+    -69.947198648999887,
+    -4.201137796999845
+),
+koordinate(
+    -69.948335530999969,
+    -4.20341155999985
+),
+koordinate(
+    -69.949420735999894,
+    -4.205581969999841
+),
+koordinate(
+    -69.950557617999976,
+    -4.207752379999832
+),
+koordinate(
+    -69.951694498999899,
+    -4.209922790999912
+),
+koordinate(
+    -69.95277970399988,
+    -4.212093199999814
+),
+koordinate(
+    -69.953916585999906,
+    -4.214366962999918
+),
+koordinate(
+    -69.955079305999902,
+    -4.216640725999852
+),
+koordinate(
+    -69.956112833999981,
+    -4.218811136999847
+),
+koordinate(
+    -69.957198038999906,
+    -4.220878193999809
+),
+koordinate(
+    -69.958334920999903,
+    -4.223151956999828
+),
+koordinate(
+    -69.95942012499998,
+    -4.225425719999834
+),
+koordinate(
+    -69.960505330999894,
+    -4.227596129999824
+),
+koordinate(
+    -69.961642212999976,
+    -4.229766539999915
+),
+koordinate(
+    -69.962727417,
+    -4.232040303999838
+),
+koordinate(
+    -69.963864298999908,
+    -4.234314066999858
+),
+koordinate(
+    -69.964949503999975,
+    -4.236484476999848
+),
+koordinate(
+    -69.992751423999948,
+    -4.180880634999838
+),
+koordinate(
+    -70.010218058999982,
+    -4.155145771999926
+),
+koordinate(
+    -70.030501058999903,
+    -4.131581318999835
+),
+koordinate(
+    -70.060499226999951,
+    -4.107190042999989
+),
+koordinate(
+    -70.161707519999965,
+    -4.05561696399981
+),
+koordinate(
+    -70.188398396999901,
+    -4.028951923999856
+),
+koordinate(
+    -70.198940388999887,
+    -3.995982360999975
+),
+koordinate(
+    -70.204573120999981,
+    -3.960118915999857
+),
+koordinate(
+    -70.216975463999887,
+    -3.9249789429999
+),
+koordinate(
+    -70.240875814999953,
+    -3.890872496999833
+),
+koordinate(
+    -70.273561156999932,
+    -3.856559345999813
+),
+koordinate(
+    -70.311104084999954,
+    -3.829274189999808
+),
+koordinate(
+    -70.349577189999906,
+    -3.815838317999933
+),
+koordinate(
+    -70.37768916899995,
+    -3.818835550999864
+),
+koordinate(
+    -70.399212402999893,
+    -3.831858011999898
+),
+koordinate(
+    -70.438512328999963,
+    -3.867721455999842
+),
+koordinate(
+    -70.464247192999949,
+    -3.878780211999853
+),
+koordinate(
+    -70.490886393999887,
+    -3.878470153999871
+),
+koordinate(
+    -70.5442939859999,
+    -3.865240986999865
+),
+koordinate(
+    -70.554965169999917,
+    -3.857902933999881
+),
+koordinate(
+    -70.690641642999964,
+    -3.786796162999863
+),
+koordinate(
+    -70.734127359999974,
+    -3.782041930999867
+),
+koordinate(
+    -70.700563517999882,
+    -3.729642027999915
+),
+koordinate(
+    -70.622118693999937,
+    -3.607272236999961
+),
+koordinate(
+    -70.543725544999944,
+    -3.485005797999861
+),
+koordinate(
+    -70.465280720999942,
+    -3.362532653999963
+),
+koordinate(
+    -70.386835896999912,
+    -3.24016286199992
+),
+koordinate(
+    -70.30836523399999,
+    -3.117793069999877
+),
+koordinate(
+    -70.229946248999909,
+    -2.995319925999809
+),
+koordinate(
+    -70.151501423999974,
+    -2.873053486999879
+),
+koordinate(
+    -70.073056599999887,
+    -2.750683694999836
+),
+koordinate(
+    -70.050629027999975,
+    -2.715130309999879
+),
+koordinate(
+    -70.050448160999935,
+    -2.714303486999938
+),
+koordinate(
+    -70.056003377999929,
+    -2.712443135999934
+),
+koordinate(
+    -70.067475544999951,
+    -2.703451435999895
+),
+koordinate(
+    -70.075795450999919,
+    -2.69135915099983
+),
+koordinate(
+    -70.082125813999937,
+    -2.676579690999816
+),
+koordinate(
+    -70.094967406999928,
+    -2.632551370999849
+),
+koordinate(
+    -70.105793619999957,
+    -2.625213316999933
+),
+koordinate(
+    -70.12620581099992,
+    -2.638752542999924
+),
+koordinate(
+    -70.131941894999869,
+    -2.647950948
+),
+koordinate(
+    -70.136437743999892,
+    -2.658596292999917
+),
+koordinate(
+    -70.141837931999959,
+    -2.666967874999884
+),
+koordinate(
+    -70.150467895999981,
+    -2.669241637999988
+),
+koordinate(
+    -70.159717976999929,
+    -2.663970641999882
+),
+koordinate(
+    -70.161474975999909,
+    -2.655185647999971
+),
+koordinate(
+    -70.16113907899998,
+    -2.645057067999844
+),
+koordinate(
+    -70.164084635999899,
+    -2.635031838999822
+),
+koordinate(
+    -70.183876709999964,
+    -2.619528910999804
+),
+koordinate(
+    -70.20090409399999,
+    -2.624386494999911
+),
+koordinate(
+    -70.217518066999929,
+    -2.632137959999838
+),
+koordinate(
+    -70.236069905999869,
+    -2.625109964999908
+),
+koordinate(
+    -70.247309529999896,
+    -2.607229918999863
+),
+koordinate(
+    -70.261391357999941,
+    -2.564751891999919
+),
+koordinate(
+    -70.273948730999962,
+    -2.546251728999891
+),
+koordinate(
+    -70.295885376999905,
+    -2.535399678999852
+),
+koordinate(
+    -70.315083170999941,
+    -2.541807555999966
+),
+koordinate(
+    -70.335107788999977,
+    -2.55400319399989
+),
+koordinate(
+    -70.359602416999934,
+    -2.560617777999894
+),
+koordinate(
+    -70.364615030999886,
+    -2.557620543999875
+),
+koordinate(
+    -70.370919555999905,
+    -2.550282490999891
+),
+koordinate(
+    -70.375725464999903,
+    -2.54108408599997
+),
+koordinate(
+    -70.376345580999981,
+    -2.532609150999889
+),
+koordinate(
+    -70.371565510999886,
+    -2.527958271999822
+),
+koordinate(
+    -70.35453812699987,
+    -2.521550393999874
+),
+koordinate(
+    -70.349628865999904,
+    -2.518346455999989
+),
+koordinate(
+    -70.344926310999938,
+    -2.496642353999903
+),
+koordinate(
+    -70.357535360999947,
+    -2.486927184999956
+),
+koordinate(
+    -70.378774373999931,
+    -2.484653421999852
+),
+koordinate(
+    -70.400245931999876,
+    -2.484860127999824
+),
+koordinate(
+    -70.411330525999887,
+    -2.487443948999911
+),
+koordinate(
+    -70.434843302999951,
+    -2.497675882999886
+),
+koordinate(
+    -70.445256103999981,
+    -2.498502706
+),
+koordinate(
+    -70.45698665399999,
+    -2.492714944999932
+),
+koordinate(
+    -70.462593546999898,
+    -2.484240009999851
+),
+koordinate(
+    -70.466107543999954,
+    -2.474008076999866
+),
+koordinate(
+    -70.471921142999946,
+    -2.463156025999822
+),
+koordinate(
+    -70.48445267799994,
+    -2.452510680999822
+),
+koordinate(
+    -70.501996826999914,
+    -2.443829039999869
+),
+koordinate(
+    -70.520910400999952,
+    -2.438041279999894
+),
+koordinate(
+    -70.537731078999911,
+    -2.435870869999803
+),
+koordinate(
+    -70.553208170999937,
+    -2.428119404999976
+),
+koordinate(
+    -70.565533000999977,
+    -2.413753356999891
+),
+koordinate(
+    -70.578607137999938,
+    -2.405485127999853
+),
+koordinate(
+    -70.59607377099988,
+    -2.416543883999935
+),
+koordinate(
+    -70.598580077999941,
+    -2.425845641999871
+),
+koordinate(
+    -70.59775325499993,
+    -2.437111103999925
+),
+koordinate(
+    -70.598631754999957,
+    -2.446619567999917
+),
+koordinate(
+    -70.606357380999953,
+    -2.450753682999931
+),
+koordinate(
+    -70.647595174999964,
+    -2.450753682999931
+),
+koordinate(
+    -70.654468139999949,
+    -2.445379332999877
+),
+koordinate(
+    -70.656250976999928,
+    -2.43308034199984
+),
+koordinate(
+    -70.656225138999929,
+    -2.419231058999884
+),
+koordinate(
+    -70.657542887999881,
+    -2.409102477999838
+),
+koordinate(
+    -70.663718221999943,
+    -2.39825042699988
+),
+koordinate(
+    -70.695240844999915,
+    -2.372102151999869
+),
+koordinate(
+    -70.699039062999958,
+    -2.37013844799985
+),
+koordinate(
+    -70.699064900999957,
+    -2.341096292999936
+),
+koordinate(
+    -70.70144201699992,
+    -2.333241474999824
+),
+koordinate(
+    -70.706583821999914,
+    -2.328280537999873
+),
+koordinate(
+    -70.732473714999941,
+    -2.324973245999871
+),
+koordinate(
+    -70.75105139199988,
+    -2.320529072999946
+),
+koordinate(
+    -70.787870849999905,
+    -2.307403258999898
+),
+koordinate(
+    -70.82236486799988,
+    -2.284768981999932
+),
+koordinate(
+    -70.874196329999933,
+    -2.229578551999936
+),
+koordinate(
+    -70.904556233999898,
+    -2.211078388999823
+),
+koordinate(
+    -70.925252644999915,
+    -2.220276794999919
+),
+koordinate(
+    -70.950315714999931,
+    -2.215419208999904
+),
+koordinate(
+    -70.992716227999949,
+    -2.197435811999824
+),
+koordinate(
+    -71.021448323999948,
+    -2.196712340999909
+),
+koordinate(
+    -71.031990315999906,
+    -2.210768330999926
+),
+koordinate(
+    -71.029794067999916,
+    -2.233505960999906
+),
+koordinate(
+    -71.020621500999937,
+    -2.258930765999835
+),
+koordinate(
+    -71.029690714999902,
+    -2.263995055999899
+),
+koordinate(
+    -71.041421264999968,
+    -2.26533864299995
+),
+koordinate(
+    -71.053926961999963,
+    -2.262651468999835
+),
+koordinate(
+    -71.079119221999917,
+    -2.247561949999835
+),
+koordinate(
+    -71.092219197999981,
+    -2.247251891999937
+),
+koordinate(
+    -71.119969441999928,
+    -2.252109476999877
+),
+koordinate(
+    -71.142810424999936,
+    -2.262858174999806
+),
+koordinate(
+    -71.161930705999936,
+    -2.310193785999857
+),
+koordinate(
+    -71.190249389999906,
+    -2.32455983499986
+),
+koordinate(
+    -71.209059611999919,
+    -2.339235940999842
+),
+koordinate(
+    -71.219859985999875,
+    -2.341509703999947
+),
+koordinate(
+    -71.230453653999945,
+    -2.337995706999905
+),
+koordinate(
+    -71.242442585999896,
+    -2.329107360999885
+),
+koordinate(
+    -71.25334631399997,
+    -2.326626891999908
+),
+koordinate(
+    -71.26817745,
+    -2.332414652999972
+),
+koordinate(
+    -71.289054728999957,
+    -2.34337005599987
+),
+koordinate(
+    -71.307606567999898,
+    -2.34781422899988
+),
+koordinate(
+    -71.315461384999935,
+    -2.334068297999849
+),
+koordinate(
+    -71.386981567999953,
+    -2.368898213999984
+),
+koordinate(
+    -71.420829630999975,
+    -2.376029561999928
+),
+koordinate(
+    -71.432146768999928,
+    -2.355152281999864
+),
+koordinate(
+    -71.428167683999874,
+    -2.347504170999883
+),
+koordinate(
+    -71.414370076999916,
+    -2.335101826999917
+),
+koordinate(
+    -71.411631225999969,
+    -2.326626891999908
+),
+koordinate(
+    -71.415248576999943,
+    -2.316291604999989
+),
+koordinate(
+    -71.438968058999905,
+    -2.286215921999926
+),
+koordinate(
+    -71.456486368999947,
+    -2.25510670899989
+),
+koordinate(
+    -71.46666662699991,
+    -2.251489358999905
+),
+koordinate(
+    -71.480567586999911,
+    -2.265752054999879
+),
+koordinate(
+    -71.490437785999887,
+    -2.303269143999955
+),
+koordinate(
+    -71.49813757299998,
+    -2.315051370999868
+),
+koordinate(
+    -71.514053914999892,
+    -2.307403258999898
+),
+koordinate(
+    -71.52097855599996,
+    -2.292107034999845
+),
+koordinate(
+    -71.522270467999931,
+    -2.250352476999893
+),
+koordinate(
+    -71.527128051999938,
+    -2.231542256999887
+),
+koordinate(
+    -71.538393513999921,
+    -2.222963968999849
+),
+koordinate(
+    -71.595961059999951,
+    -2.211078388999823
+),
+koordinate(
+    -71.616631632999969,
+    -2.199916279999883
+),
+koordinate(
+    -71.635235148999925,
+    -2.185550231999798
+),
+koordinate(
+    -71.654923868999873,
+    -2.173768004999886
+),
+koordinate(
+    -71.67853999899998,
+    -2.169530536999929
+),
+koordinate(
+    -71.712026326999904,
+    -2.186790465999835
+),
+koordinate(
+    -71.731404988999941,
+    -2.18989105199995
+),
+koordinate(
+    -71.73998327699988,
+    -2.172941181999946
+),
+koordinate(
+    -71.738484659999983,
+    -2.137697854999885
+),
+koordinate(
+    -71.746132772999943,
+    -2.132323506999825
+),
+koordinate(
+    -71.767940226999968,
+    -2.142245381999828
+),
+koordinate(
+    -71.826127888999906,
+    -2.179039000999907
+),
+koordinate(
+    -71.83620479399994,
+    -2.179762470999904
+),
+koordinate(
+    -71.841062378999936,
+    -2.190097756999833
+),
+koordinate(
+    -71.877184203999946,
+    -2.245288186999829
+),
+koordinate(
+    -71.924416463,
+    -2.281875101999944
+),
+koordinate(
+    -71.931754516999973,
+    -2.289626565999868
+),
+koordinate(
+    -71.936353719999943,
+    -2.311847431999894
+),
+koordinate(
+    -71.948652709999891,
+    -2.324146423999849
+),
+koordinate(
+    -71.96627437399988,
+    -2.328487242999913
+),
+koordinate(
+    -72.028957885999915,
+    -2.319598896999906
+),
+koordinate(
+    -72.061514038999945,
+    -2.320012307999917
+),
+koordinate(
+    -72.089419311999933,
+    -2.33096771199989
+),
+koordinate(
+    -72.117376260999919,
+    -2.355152281999864
+),
+koordinate(
+    -72.161456258999891,
+    -2.405691832999892
+),
+koordinate(
+    -72.176390746999942,
+    -2.41034271199986
+),
+koordinate(
+    -72.240934611,
+    -2.395459899999821
+),
+koordinate(
+    -72.250959839999922,
+    -2.396286721999843
+),
+koordinate(
+    -72.276694701999901,
+    -2.401557718999882
+),
+koordinate(
+    -72.281862344999922,
+    -2.405691832999892
+),
+koordinate(
+    -72.280983845999884,
+    -2.426155699999868
+),
+koordinate(
+    -72.283826049999959,
+    -2.433183694999954
+),
+koordinate(
+    -72.292404337999898,
+    -2.435870869999803
+),
+koordinate(
+    -72.315658731999889,
+    -2.438351337999876
+),
+koordinate(
+    -72.355604614999947,
+    -2.448893330999837
+),
+koordinate(
+    -72.378032186999945,
+    -2.450753682999931
+),
+koordinate(
+    -72.396584025999886,
+    -2.446516214999804
+),
+koordinate(
+    -72.414257364999884,
+    -2.437111103999925
+),
+koordinate(
+    -72.427538208999891,
+    -2.42501881899986
+),
+koordinate(
+    -72.432654174999897,
+    -2.412926533999951
+),
+koordinate(
+    -72.441594197999905,
+    -2.405175068999867
+),
+koordinate(
+    -72.544120238999966,
+    -2.389052021999873
+),
+koordinate(
+    -72.56298213799991,
+    -2.383057555999855
+),
+koordinate(
+    -72.608405721999929,
+    -2.346367288999886
+),
+koordinate(
+    -72.625975707999913,
+    -2.336858824999808
+),
+koordinate(
+    -72.6443208419999,
+    -2.334068297999849
+),
+koordinate(
+    -72.656826537999905,
+    -2.350191344999828
+),
+koordinate(
+    -72.683181518999874,
+    -2.404761657999856
+),
+koordinate(
+    -72.695842244999909,
+    -2.416543883999935
+),
+koordinate(
+    -72.712430378999898,
+    -2.422124938999872
+),
+koordinate(
+    -72.718321492999905,
+    -2.419851175999852
+),
+koordinate(
+    -72.721732136999918,
+    -2.393702900999841
+),
+koordinate(
+    -72.724574340999908,
+    -2.38347096799987
+),
+koordinate(
+    -72.728760131999934,
+    -2.374685973999959
+),
+koordinate(
+    -72.733721069999973,
+    -2.367554626999848
+),
+koordinate(
+    -72.746071736999937,
+    -2.373445739999838
+),
+koordinate(
+    -72.754184936999934,
+    -2.380680440999896
+),
+koordinate(
+    -72.759042520999884,
+    -2.389982197999842
+),
+koordinate(
+    -72.761678019999891,
+    -2.402281187999876
+),
+koordinate(
+    -72.787981323999929,
+    -2.383574319999894
+),
+koordinate(
+    -72.804672810999961,
+    -2.377786559999919
+),
+koordinate(
+    -72.829477498999921,
+    -2.390188902999881
+),
+koordinate(
+    -72.858054565999879,
+    -2.400317484999846
+),
+koordinate(
+    -72.869991821999918,
+    -2.411789651999854
+),
+koordinate(
+    -72.88378943,
+    -2.416750588999904
+),
+koordinate(
+    -72.92616410399998,
+    -2.425225523999899
+),
+koordinate(
+    -72.9354141849999,
+    -2.425328877999931
+),
+koordinate(
+    -72.943269001999937,
+    -2.419024352999912
+),
+koordinate(
+    -72.952777465999901,
+    -2.402281187999876
+),
+koordinate(
+    -72.969779012999936,
+    -2.356082457999918
+),
+koordinate(
+    -72.984300089999891,
+    -2.34337005599987
+),
+koordinate(
+    -72.987555705999966,
+    -2.337685648999823
+),
+koordinate(
+    -73.05644038899996,
+    -2.299858499999843
+),
+koordinate(
+    -73.058869181999938,
+    -2.310607197999872
+),
+koordinate(
+    -73.070703084999934,
+    -2.333241474999824
+),
+koordinate(
+    -73.083828898999911,
+    -2.34512705499985
+),
+koordinate(
+    -73.0899783939999,
+    -2.323836363999945
+),
+koordinate(
+    -73.09886674,
+    -2.314948017999853
+),
+koordinate(
+    -73.142481648999961,
+    -2.30409596699981
+),
+koordinate(
+    -73.158914754999927,
+    -2.293037210999884
+),
+koordinate(
+    -73.161395223999904,
+    -2.285389098999815
+),
+koordinate(
+    -73.166304483999937,
+    -2.25552012099989
+),
+koordinate(
+    -73.169456745999895,
+    -2.250145771999925
+),
+koordinate(
+    -73.183099324999972,
+    -2.239707132999811
+),
+koordinate(
+    -73.18625158699993,
+    -2.234746195999861
+),
+koordinate(
+    -73.188318644999896,
+    -2.228751729999914
+),
+koordinate(
+    -73.197775431999872,
+    -2.2135588579999
+),
+koordinate(
+    -73.199842488999934,
+    -2.203740335999925
+),
+koordinate(
+    -73.198550577999896,
+    -2.193818460999921
+),
+koordinate(
+    -73.195294962999895,
+    -2.187203877999835
+),
+koordinate(
+    -73.18625158699993,
+    -2.176351826999792
+),
+koordinate(
+    -73.14992305499996,
+    -2.143588968999879
+),
+koordinate(
+    -73.140517943999924,
+    -2.121884866999892
+),
+koordinate(
+    -73.111062377999929,
+    -2.07341237399983
+),
+koordinate(
+    -73.12454992699989,
+    -2.060803323999892
+),
+koordinate(
+    -73.13235306899989,
+    -2.039822692999806
+),
+koordinate(
+    -73.13783077,
+    -2.016878356999854
+),
+koordinate(
+    -73.144600382999926,
+    -1.998171487999869
+),
+koordinate(
+    -73.161963663999956,
+    -1.972436624999887
+),
+koordinate(
+    -73.168733276999973,
+    -1.959310810999824
+),
+koordinate(
+    -73.172557332999929,
+    -1.943601175999845
+),
+koordinate(
+    -73.171162068999934,
+    -1.929545185999828
+),
+koordinate(
+    -73.161136840999916,
+    -1.904430440999903
+),
+koordinate(
+    -73.158914754999927,
+    -1.895232034999907
+),
+koordinate(
+    -73.164702515999892,
+    -1.87848887099986
+),
+koordinate(
+    -73.188318644999896,
+    -1.850686950999901
+),
+koordinate(
+    -73.193641317999948,
+    -1.836837666999927
+),
+koordinate(
+    -73.18625158699993,
+    -1.799630635999918
+),
+koordinate(
+    -73.19302119999989,
+    -1.788675231999861
+),
+koordinate(
+    -73.201392781999942,
+    -1.783300882999896
+),
+koordinate(
+    -73.210694539999878,
+    -1.779270120999811
+),
+koordinate(
+    -73.220306356999913,
+    -1.772345478999824
+),
+koordinate(
+    -73.247023070999944,
+    -1.742373147999956
+),
+koordinate(
+    -73.257255005999923,
+    -1.742373147999956
+),
+koordinate(
+    -73.261337443999935,
+    -1.768831481999868
+),
+koordinate(
+    -73.267693643999877,
+    -1.772242125999881
+),
+koordinate(
+    -73.301231648999902,
+    -1.763560485999918
+),
+koordinate(
+    -73.316579549999943,
+    -1.765420836999923
+),
+koordinate(
+    -73.332702595999933,
+    -1.781130471999816
+),
+koordinate(
+    -73.340299031999905,
+    -1.792189228999817
+),
+koordinate(
+    -73.35053096599998,
+    -1.79063893599988
+),
+koordinate(
+    -73.374560506999899,
+    -1.768831481999868
+),
+koordinate(
+    -73.387066202999904,
+    -1.760873311999902
+),
+koordinate(
+    -73.399158487999898,
+    -1.759219664999847
+),
+koordinate(
+    -73.410217244999899,
+    -1.75973642999989
+),
+koordinate(
+    -73.424428263999943,
+    -1.758082783999839
+),
+koordinate(
+    -73.435435343999956,
+    -1.759529723999833
+),
+koordinate(
+    -73.440086221999906,
+    -1.758702900999907
+),
+koordinate(
+    -73.441533162999917,
+    -1.755292256999965
+),
+koordinate(
+    -73.444840453999916,
+    -1.741856383999931
+),
+koordinate(
+    -73.446287394999899,
+    -1.738135680999918
+),
+koordinate(
+    -73.510934611999971,
+    -1.698551533999861
+),
+koordinate(
+    -73.530985066999904,
+    -1.673746845999915
+),
+koordinate(
+    -73.528814656999913,
+    -1.635092874999913
+),
+koordinate(
+    -73.517420002999927,
+    -1.602019958999932
+),
+koordinate(
+    -73.508815876999904,
+    -1.586827086999989
+),
+koordinate(
+    -73.484527953999901,
+    -1.572461038999904
+),
+koordinate(
+    -73.483546101999934,
+    -1.553340758999823
+),
+koordinate(
+    -73.494062255999978,
+    -1.511586201999862
+),
+koordinate(
+    -73.495457519999945,
+    -1.498460387999899
+),
+koordinate(
+    -73.495276651999916,
+    -1.487918395999841
+),
+koordinate(
+    -73.497162841999909,
+    -1.477996520999838
+),
+koordinate(
+    -73.504888468999923,
+    -1.467247822999909
+),
+koordinate(
+    -73.525972453999941,
+    -1.451744892999898
+),
+koordinate(
+    -73.537134562999967,
+    -1.434278258999868
+),
+koordinate(
+    -73.574212402999962,
+    -1.416914977999852
+),
+koordinate(
+    -73.583436645999967,
+    -1.401722106999912
+),
+koordinate(
+    -73.567752848999902,
+    -1.382705179999846
+),
+koordinate(
+    -73.562921102999979,
+    -1.372163186999885
+),
+koordinate(
+    -73.578579060999942,
+    -1.36492848699983
+),
+koordinate(
+    -73.584263468999978,
+    -1.358313903999829
+),
+koordinate(
+    -73.588966023999973,
+    -1.35025237999983
+),
+koordinate(
+    -73.590878051999965,
+    -1.343431090999872
+),
+koordinate(
+    -73.592066609999904,
+    -1.321726988999885
+),
+koordinate(
+    -73.593978637999925,
+    -1.313355406999904
+),
+koordinate(
+    -73.597130899999883,
+    -1.306120706999849
+),
+koordinate(
+    -73.600877441999899,
+    -1.305190531999969
+),
+koordinate(
+    -73.614184122999916,
+    -1.307050882999974
+),
+koordinate(
+    -73.618214884999901,
+    -1.306120706999849
+),
+koordinate(
+    -73.620023559999908,
+    -1.301573180999895
+),
+koordinate(
+    -73.621548014999917,
+    -1.290617777999927
+),
+koordinate(
+    -73.628808553999903,
+    -1.275114847999816
+),
+koordinate(
+    -73.631392374999905,
+    -1.264056090999901
+),
+koordinate(
+    -73.636560017999898,
+    -1.255167744999895
+),
+koordinate(
+    -73.660072794999877,
+    -1.248346454999847
+),
+koordinate(
+    -73.679115559999872,
+    -1.234290465999919
+),
+koordinate(
+    -73.690200154999872,
+    -1.23108652699986
+),
+koordinate(
+    -73.713402873999968,
+    -1.227159118999879
+),
+koordinate(
+    -73.732368123999919,
+    -1.216513772999804
+),
+koordinate(
+    -73.746372436999934,
+    -1.201320901999949
+),
+koordinate(
+    -73.754718180999902,
+    -1.18333750399988
+),
+koordinate(
+    -73.769781860999899,
+    -1.188918557999898
+),
+koordinate(
+    -73.78585323199988,
+    -1.21424000999987
+),
+koordinate(
+    -73.802544718999911,
+    -1.223645120999919
+),
+koordinate(
+    -73.814481973999932,
+    -1.223335062999851
+),
+koordinate(
+    -73.830475830999973,
+    -1.21992441799992
+),
+koordinate(
+    -73.857166707999937,
+    -1.210519306999871
+),
+koordinate(
+    -73.871015990999894,
+    -1.201424255999896
+),
+koordinate(
+    -73.880756998999942,
+    -1.190985615999864
+),
+koordinate(
+    -73.898766235999943,
+    -1.16277028399989
+),
+koordinate(
+    -73.91411413599991,
+    -1.123082783999905
+),
+koordinate(
+    -73.919901896999988,
+    -1.113781025999884
+),
+koordinate(
+    -73.936412516999951,
+    -1.107786559999937
+),
+koordinate(
+    -73.967625081999955,
+    -1.114814554999867
+),
+koordinate(
+    -73.981293497999872,
+    -1.107476501999869
+),
+koordinate(
+    -73.982688760999935,
+    -1.099208271999828
+),
+koordinate(
+    -73.973335326999916,
+    -1.081638284999855
+),
+koordinate(
+    -73.974472208999913,
+    -1.073370055999902
+),
+koordinate(
+    -73.982792113999977,
+    -1.066238707999858
+),
+koordinate(
+    -73.987830566999946,
+    -1.068925882999807
+),
+koordinate(
+    -73.991344563999888,
+    -1.075333759999921
+),
+koordinate(
+    -73.994961914999891,
+    -1.07967458099999
+),
+koordinate(
+    -74.005891479999946,
+    -1.084842223999914
+),
+koordinate(
+    -74.011110799999955,
+    -1.090009866999822
+),
+koordinate(
+    -74.016795206999916,
+    -1.091560159999929
+),
+koordinate(
+    -74.029094197999939,
+    -1.086392516999837
+),
+koordinate(
+    -74.037207397999964,
+    -1.07967458099999
+),
+koordinate(
+    -74.042039143999972,
+    -1.071096292999883
+),
+koordinate(
+    -74.065448567999937,
+    -1.001436462999862
+),
+koordinate(
+    -74.076894897999949,
+    -0.990894469999972
+),
+koordinate(
+    -74.092371988999929,
+    -1.020143330999844
+),
+koordinate(
+    -74.119631306999935,
+    -1.020970153999869
+),
+koordinate(
+    -74.180531982999895,
+    -0.997715758999931
+),
+koordinate(
+    -74.2401924239999,
+    -0.986863708999806
+),
+koordinate(
+    -74.266754109999937,
+    -0.972290954999835
+),
+koordinate(
+    -74.289130005999908,
+    -0.943042093999793
+),
+koordinate(
+    -74.303392699999876,
+    -0.897773538999971
+),
+koordinate(
+    -74.313366251999895,
+    -0.884441019999869
+),
+koordinate(
+    -74.338325968999953,
+    -0.867697855999907
+),
+koordinate(
+    -74.344423787999915,
+    -0.858602802999854
+),
+koordinate(
+    -74.337550821999969,
+    -0.846820575999843
+),
+koordinate(
+    -74.325148478999978,
+    -0.844546813999926
+),
+koordinate(
+    -74.309051269999912,
+    -0.847337340999886
+),
+koordinate(
+    -74.295124471999941,
+    -0.847337340999886
+),
+koordinate(
+    -74.289130005999908,
+    -0.836278584999874
+),
+koordinate(
+    -74.294607706999898,
+    -0.823669534999851
+),
+koordinate(
+    -74.304839640999973,
+    -0.813127542999894
+),
+koordinate(
+    -74.310601562999949,
+    -0.801448668999825
+),
+koordinate(
+    -74.30279842199991,
+    -0.785428975999949
+),
+koordinate(
+    -74.310575724999921,
+    -0.782018330999932
+),
+koordinate(
+    -74.327861490999936,
+    -0.781501565999889
+),
+koordinate(
+    -74.337550821999969,
+    -0.778607685999901
+),
+koordinate(
+    -74.344320434999901,
+    -0.774060159999877
+),
+koordinate(
+    -74.378194336999911,
+    -0.736543069999883
+),
+koordinate(
+    -74.385144815999894,
+    -0.721970315999911
+),
+koordinate(
+    -74.3847572439999,
+    -0.702850035999916
+),
+koordinate(
+    -74.380132201999942,
+    -0.694271748999896
+),
+koordinate(
+    -74.367264770999924,
+    -0.683212991999895
+),
+koordinate(
+    -74.364887654999904,
+    -0.676184996999964
+),
+koordinate(
+    -74.412662516999973,
+    -0.573142191999878
+),
+koordinate(
+    -74.414677897999923,
+    -0.56415049199984
+),
+koordinate(
+    -74.414716936999952,
+    -0.56375655599993
+),
+koordinate(
+    -74.41581477899993,
+    -0.552678324999832
+),
+koordinate(
+    -74.417959350999922,
+    -0.54265309599981
+),
+koordinate(
+    -74.422920288999961,
+    -0.538312275999829
+),
+koordinate(
+    -74.436537028999965,
+    -0.537795511999875
+),
+koordinate(
+    -74.441885538999912,
+    -0.535521747999866
+),
+koordinate(
+    -74.450567178999876,
+    -0.521569111999867
+),
+koordinate(
+    -74.463770508999943,
+    -0.506789651999853
+),
+koordinate(
+    -74.475630249999966,
+    -0.496454365999853
+),
+koordinate(
+    -74.536350057999982,
+    -0.459970804999841
+),
+koordinate(
+    -74.562394978999947,
+    -0.439403584999852
+),
+koordinate(
+    -74.604459594999895,
+    -0.394961852999955
+),
+koordinate(
+    -74.63272660399997,
+    -0.347419534999858
+),
+koordinate(
+    -74.64231258199996,
+    -0.339771422999959
+),
+koordinate(
+    -74.653087117999888,
+    -0.341941833999869
+),
+koordinate(
+    -74.661407022999953,
+    -0.34679941799989
+),
+koordinate(
+    -74.667711547999971,
+    -0.351553649999872
+),
+koordinate(
+    -74.67275000099994,
+    -0.354034118999849
+),
+koordinate(
+    -74.686573445999898,
+    -0.353414000999877
+),
+koordinate(
+    -74.692516235999904,
+    -0.349693297999877
+),
+koordinate(
+    -74.695642659999947,
+    -0.344629007999799
+),
+koordinate(
+    -74.700732787999925,
+    -0.339771422999959
+),
+koordinate(
+    -74.707657429999927,
+    -0.334603779999867
+),
+koordinate(
+    -74.711843220999953,
+    -0.330262959999885
+),
+koordinate(
+    -74.718121907999972,
+    -0.327265726999883
+),
+koordinate(
+    -74.743004109999902,
+    -0.324888610999921
+),
+koordinate(
+    -74.762692830999981,
+    -0.319824319999853
+),
+koordinate(
+    -74.773002278999883,
+    -0.318687437999856
+),
+koordinate(
+    -74.790701456999898,
+    -0.312589618999894
+),
+koordinate(
+    -74.782846638999871,
+    -0.299153746999849
+),
+koordinate(
+    -74.75532893899998,
+    -0.278276468999863
+),
+koordinate(
+    -74.789461221999943,
+    -0.209030049999939
+),
+koordinate(
+    -74.803698079999918,
+    -0.188979593999903
+),
+koordinate(
+    -74.824652872999906,
+    -0.170479430999961
+),
+koordinate(
+    -74.836538452999946,
+    -0.173269957999835
+),
+koordinate(
+    -74.861472330999902,
+    -0.213164163999878
+),
+koordinate(
+    -74.872711954999971,
+    -0.22194915699987
+),
+koordinate(
+    -74.882711344999876,
+    -0.22277598099997
+),
+koordinate(
+    -74.89932531799991,
+    -0.216781513999862
+),
+koordinate(
+    -74.933457601999891,
+    -0.20944346099995
+),
+koordinate(
+    -74.954877481999887,
+    -0.2000383499999
+),
+koordinate(
+    -74.968210001999921,
+    -0.1897030639999
+),
+koordinate(
+    -75.009111897999929,
+    -0.145261332
+),
+koordinate(
+    -75.015364745999932,
+    -0.140507100999841
+),
+koordinate(
+    -75.02469234299997,
+    -0.137716572999878
+),
+koordinate(
+    -75.042236490999926,
+    -0.137303160999949
+),
+koordinate(
+    -75.050737263999935,
+    -0.134305928999936
+),
+koordinate(
+    -75.062312785999978,
+    -0.123143818999907
+),
+koordinate(
+    -75.101638549999876,
+    -0.069090269999919
+),
+koordinate(
+    -75.120655477999946,
+    -0.054104104999865
+),
+koordinate(
+    -75.141687785999949,
+    -0.04345876
+),
+koordinate(
+    -75.186697956999893,
+    -0.031263121999856
+),
+koordinate(
+    -75.206748413999918,
+    -0.029092711999866
+),
+koordinate(
+    -75.222096313999913,
+    -0.032400003999868
+),
+koordinate(
+    -75.231708129999902,
+    -0.042631937999928
+),
+koordinate(
+    -75.235118774999933,
+    -0.061958923999896
+),
+koordinate(
+    -75.240131388999913,
+    -0.074774677999869
+),
+koordinate(
+    -75.25253373299995,
+    -0.089554137999883
+),
+koordinate(
+    -75.268346720999972,
+    -0.101749775999807
+),
+koordinate(
+    -75.283487914999881,
+    -0.107020771999842
+),
+koordinate(
+    -75.301962239999909,
+    -0.096065368999945
+),
+koordinate(
+    -75.365446736999957,
+    -0.07281097399985
+),
+koordinate(
+    -75.421412312999962,
+    -0.062165628999935
+),
+koordinate(
+    -75.440894328999946,
+    -0.048109638999918
+),
+koordinate(
+    -75.464923868999875,
+    -0.039738056999852
+),
+koordinate(
+    -75.523111531999888,
+    -0.003977965999837
+),
+koordinate(
+    -75.570137084999971,
+    0.037983297000068
+),
+koordinate(
+    -75.587965454999903,
+    0.043874410000157
+),
+koordinate(
+    -75.598249065,
+    0.050385641000048
+),
+koordinate(
+    -75.610961466999953,
+    0.064648336000104
+),
+koordinate(
+    -75.626774454999946,
+    0.078911031000175
+),
+koordinate(
+    -75.646669880999951,
+    0.085422262000066
+),
+koordinate(
+    -75.665505940999964,
+    0.083148499000131
+),
+koordinate(
+    -75.708629923999894,
+    0.073329977000157
+),
+koordinate(
+    -75.731625935999944,
+    0.07115956700008
+),
+koordinate(
+    -75.75384680199997,
+    0.073019918000085
+),
+koordinate(
+    -75.77322546399995,
+    0.077774149000078
+),
+koordinate(
+    -75.789710245999913,
+    0.084388733000083
+),
+koordinate(
+    -75.817873901999889,
+    0.100098369000136
+),
+koordinate(
+    -75.85797481299997,
+    0.129760640000185
+),
+koordinate(
+    -75.866346394999937,
+    0.143506572000049
+),
+koordinate(
+    -75.927117878999951,
+    0.181023662000044
+),
+koordinate(
+    -75.951974243999899,
+    0.203967997000163
+),
+koordinate(
+    -75.962981323999912,
+    0.220091044000057
+),
+koordinate(
+    -75.967528849999923,
+    0.239314677000067
+),
+koordinate(
+    -75.972489786999887,
+    0.25192372700019
+),
+koordinate(
+    -76.039514119999893,
+    0.336673076000125
+),
+koordinate(
+    -76.043854939999875,
+    0.348558655000062
+),
+koordinate(
+    -76.053466756999882,
+    0.363544820000115
+),
+koordinate(
+    -76.075997680999905,
+    0.360754293000156
+),
+koordinate(
+    -76.101319132999976,
+    0.352692769000072
+),
+koordinate(
+    -76.119560913999948,
+    0.351762594000206
+),
+koordinate(
+    -76.124676880999942,
+    0.359617411000144
+),
+koordinate(
+    -76.130309610999973,
+    0.386075745000056
+),
+koordinate(
+    -76.13630407799991,
+    0.396721090000128
+),
+koordinate(
+    -76.144675659999876,
+    0.400441793000141
+),
+koordinate(
+    -76.155837768999902,
+    0.401268616000081
+),
+koordinate(
+    -76.177593546999901,
+    0.400131735000073
+),
+koordinate(
+    -76.202088175999876,
+    0.401785380000206
+),
+koordinate(
+    -76.223740600999946,
+    0.40674631800016
+),
+koordinate(
+    -76.243687703999882,
+    0.415427958000123
+),
+koordinate(
+    -76.262911336999906,
+    0.428037008000146
+),
+koordinate(
+    -76.290506551999897,
+    0.457182516000074
+),
+koordinate(
+    -76.300480102999899,
+    0.46162668900017
+),
+koordinate(
+    -76.311590535999926,
+    0.458526103000125
+),
+koordinate(
+    -76.329728963999941,
+    0.444780172000179
+),
+koordinate(
+    -76.33494828399995,
+    0.441679586000063
+),
+koordinate(
+    -76.340529337999897,
+    0.436615296000085
+),
+koordinate(
+    -76.365385701999941,
+    0.406953023000113
+),
+koordinate(
+    -76.374687459999876,
+    0.403542378000097
+),
+koordinate(
+    -76.385332804999877,
+    0.401475322000124
+),
+koordinate(
+    -76.40693355399992,
+    0.400131735000073
+),
+koordinate(
+    -76.416390339999907,
+    0.401888733000135
+),
+koordinate(
+    -76.415873576999871,
+    0.395377503000162
+),
+koordinate(
+    -76.418354044999916,
+    0.320860087000128
+),
+koordinate(
+    -76.408018757999912,
+    0.254507548000092
+),
+koordinate(
+    -76.425692098999917,
+    0.242725322000183
+),
+koordinate(
+    -76.524910847999962,
+    0.231253154000086
+),
+koordinate(
+    -76.550800740999904,
+    0.217920635000155
+),
+koordinate(
+    -76.565425171999976,
+    0.216060283000061
+),
+koordinate(
+    -76.58433874499994,
+    0.222571513000034
+),
+koordinate(
+    -76.611055460999893,
+    0.247479553000176
+),
+koordinate(
+    -76.626868448999886,
+    0.258538310000091
+),
+koordinate(
+    -76.641234496999886,
+    0.262775778000133
+),
+koordinate(
+    -76.689965372999922,
+    0.268150126000108
+),
+koordinate(
+    -76.724536905999912,
+    0.277555237000158
+),
+koordinate(
+    -76.736887573999894,
+    0.272904358000091
+),
+koordinate(
+    -76.734355427999901,
+    0.233113505000091
+),
+koordinate(
+    -76.749599975999928,
+    0.23270009400008
+),
+koordinate(
+    -76.785256713999928,
+    0.248719788000116
+),
+koordinate(
+    -76.797865763999937,
+    0.249960022000153
+),
+koordinate(
+    -76.867318888999904,
+    0.23952138200012
+),
+koordinate(
+    -76.882460082999927,
+    0.240141500000092
+),
+koordinate(
+    -76.896826131999944,
+    0.245309143000014
+),
+koordinate(
+    -76.913879353999874,
+    0.257814840000179
+),
+koordinate(
+    -76.9356868079999,
+    0.279829000000163
+),
+koordinate(
+    -76.945867065999948,
+    0.287063701000136
+),
+koordinate(
+    -76.962455200999869,
+    0.292851461000112
+),
+koordinate(
+    -76.974909219999944,
+    0.294918518000173
+),
+koordinate(
+    -77.014906779999905,
+    0.29564198800017
+),
+koordinate(
+    -77.044620727999899,
+    0.305667216000103
+),
+koordinate(
+    -77.082861287999975,
+    0.34886871300013
+),
+koordinate(
+    -77.1038560799999,
+    0.354140948000179
+),
+koordinate(
+    -77.117432820999881,
+    0.357550354000182
+),
+koordinate(
+    -77.134796102,
+    0.354346416000126
+),
+koordinate(
+    -77.185180623999969,
+    0.335432841000085
+),
+koordinate(
+    -77.206936402,
+    0.334192607000148
+),
+koordinate(
+    -77.222542684999922,
+    0.338843486000115
+),
+koordinate(
+    -77.237270466999945,
+    0.346388245000071
+),
+koordinate(
+    -77.256132365999946,
+    0.3532095340002
+),
+koordinate(
+    -77.362534138999962,
+    0.374810283
+),
+koordinate(
+    -77.39746740699988,
+    0.387626038000164
+),
+koordinate(
+    -77.424390828999975,
+    0.408296610000178
+),
+koordinate(
+    -77.434726115999894,
+    0.433824769000111
+),
+koordinate(
+    -77.439118611999874,
+    0.463693746000047
+),
+koordinate(
+    -77.448161987999924,
+    0.49728342700007
+),
+koordinate(
+    -77.454569864999968,
+    0.602393290000123
+),
+koordinate(
+    -77.468057413999929,
+    0.650865784000175
+),
+koordinate(
+    -77.509346883999967,
+    0.661201070000104
+),
+koordinate(
+    -77.514137794999868,
+    0.660531216000095
+),
+koordinate(
+    -77.543349976,
+    0.656446838000193
+),
+koordinate(
+    -77.579833536999899,
+    0.67091623900005
+),
+koordinate(
+    -77.645565959999971,
+    0.716288147000157
+),
+koordinate(
+    -77.666804972999927,
+    0.747707418000019
+),
+koordinate(
+    -77.673316202999899,
+    0.819641012000147
+),
+koordinate(
+    -77.703185180999924,
+    0.843102112000125
+),
+koordinate(
+    -77.727886514999938,
+    0.843308818000168
+),
+koordinate(
+    -77.80762325099991,
+    0.813026428000143
+),
+koordinate(
+    -77.827725382999972,
+    0.808892314000119
+),
+koordinate(
+    -77.847982543999962,
+    0.809254048000128
+),
+koordinate(
+    -77.86932491099995,
+    0.814059957000126
+),
+koordinate(
+    -77.892630981999901,
+    0.82305165600016
+),
+koordinate(
+    -77.903224649999885,
+    0.832095032000126
+),
+koordinate(
+    -77.905291707999936,
+    0.842895406000153
+),
+koordinate(
+    -77.90498164899995,
+    0.85400584000017
+),
+koordinate(
+    -77.908547322999937,
+    0.86418609600014
+),
+koordinate(
+    -77.918262491999968,
+    0.874418030000044
+),
+koordinate(
+    -77.923068400999881,
+    0.875038147000097
+),
+koordinate(
+    -77.928184366999943,
+    0.872350972000078
+),
+koordinate(
+    -77.939036417999915,
+    0.872557678000121
+),
+koordinate(
+    -78.007042602999974,
+    0.898189189
+),
+koordinate(
+    -78.077942667999935,
+    0.900773011000098
+),
+koordinate(
+    -78.120007283999968,
+    0.921236878000144
+),
+koordinate(
+    -78.250154378999952,
+    1.019628804000092
+),
+koordinate(
+    -78.270618245999913,
+    1.030480855000135
+),
+koordinate(
+    -78.330071980999946,
+    1.046500550000175
+),
+koordinate(
+    -78.349218099999945,
+    1.055802307000107
+),
+koordinate(
+    -78.37280839099995,
+    1.073785705000105
+),
+koordinate(
+    -78.466911173999932,
+    1.178378805000122
+),
+koordinate(
+    -78.47812265099995,
+    1.187119956000117
+),
+koordinate(
+    -78.485204630999903,
+    1.192641500000178
+),
+koordinate(
+    -78.540601766999941,
+    1.205353902000141
+),
+koordinate(
+    -78.555613769999923,
+    1.204113668000105
+),
+koordinate(
+    -78.57005733299988,
+    1.195845439000067
+),
+koordinate(
+    -78.5756900639999,
+    1.211968486000146
+),
+koordinate(
+    -78.596619018999974,
+    1.234085998000154
+),
+koordinate(
+    -78.60044307499993,
+    1.244421285000072
+),
+koordinate(
+    -78.602148396999979,
+    1.263644918000182
+),
+koordinate(
+    -78.61152766899994,
+    1.266435445000056
+),
+koordinate(
+    -78.625557820999944,
+    1.261991272000131
+),
+koordinate(
+    -78.641267455999923,
+    1.259407450000126
+),
+koordinate(
+    -78.664676879999973,
+    1.266642151000099
+),
+koordinate(
+    -78.684288086999914,
+    1.281886698000136
+),
+koordinate(
+    -78.699351765999978,
+    1.302040507000115
+),
+koordinate(
+    -78.709196125999966,
+    1.324158020000041
+),
+koordinate(
+    -78.719479735999954,
+    1.341056214000034
+),
+koordinate(
+    -78.748986978999966,
+    1.364853210000092
+),
+koordinate(
+    -78.769967610999885,
+    1.394102072000123
+),
+koordinate(
+    -78.828654448432161,
+    1.434326243234594
+),
+koordinate(
+    -78.812855597999913,
+    1.441799221000082
+),
+koordinate(
+    -78.819569464999859,
+    1.459702867000132
+),
+koordinate(
+    -78.831939256999902,
+    1.470363674000154
+),
+koordinate(
+    -78.845204230999911,
+    1.478827216000099
+),
+koordinate(
+    -78.85448157499988,
+    1.490179755000085
+),
+koordinate(
+    -78.855620897999927,
+    1.505438544000057
+),
+koordinate(
+    -78.853505011999914,
+    1.524400132000068
+),
+koordinate(
+    -78.853342251999948,
+    1.543361721000068
+),
+koordinate(
+    -78.860707160999937,
+    1.558498440000065
+),
+koordinate(
+    -78.867095506999959,
+    1.560288804000052
+),
+koordinate(
+    -78.879994269999969,
+    1.55414459799999
+),
+koordinate(
+    -78.899599346999935,
+    1.545328417000079
+),
+koordinate(
+    -78.907931750999865,
+    1.555049163000135
+),
+koordinate(
+    -78.91811527899992,
+    1.564306070000086
+),
+koordinate(
+    -78.931078676999874,
+    1.566157600000082
+),
+koordinate(
+    -78.940800743999944,
+    1.574951140000067
+),
+koordinate(
+    -78.962570989999904,
+    1.586986923
+),
+koordinate(
+    -78.97151291499992,
+    1.591281121000108
+),
+koordinate(
+    -78.997980076999909,
+    1.607936954000124
+),
+koordinate(
+    -79.012686311999914,
+    1.623613374000101
+),
+koordinate(
+    -79.02151154699996,
+    1.638310358000126
+),
+koordinate(
+    -79.016611533999878,
+    1.654964673000023
+),
+koordinate(
+    -79.008769753999871,
+    1.66476014600012
+),
+koordinate(
+    -78.99308465999988,
+    1.670634053000129
+),
+koordinate(
+    -78.973479631999936,
+    1.6755266320001
+),
+koordinate(
+    -78.955839935999876,
+    1.692179301000039
+),
+koordinate(
+    -78.940163269999857,
+    1.722558300000145
+),
+koordinate(
+    -78.926442726999881,
+    1.741178241000128
+),
+koordinate(
+    -78.900958475999943,
+    1.766663027000135
+),
+koordinate(
+    -78.880371744999934,
+    1.790193196000132
+),
+koordinate(
+    -78.866645050999892,
+    1.804905033000068
+),
+koordinate(
+    -78.846051955999911,
+    1.821585486000075
+),
+koordinate(
+    -78.799387173999918,
+    1.832017320000077
+),
+koordinate(
+    -78.776844855999855,
+    1.828436591000013
+),
+koordinate(
+    -78.759447805999883,
+    1.830547266000124
+),
+koordinate(
+    -78.73760027599991,
+    1.82580073400014
+),
+koordinate(
+    -78.718604441999929,
+    1.817256321000073
+),
+koordinate(
+    -78.697255011999857,
+    1.812079169000171
+),
+koordinate(
+    -78.663726365999935,
+    1.809759833000115
+),
+koordinate(
+    -78.641590949999852,
+    1.804877020000149
+),
+koordinate(
+    -78.612635846999865,
+    1.801310645000029
+),
+koordinate(
+    -78.607538320999907,
+    1.798764066000089
+),
+koordinate(
+    -78.600527358999869,
+    1.790488726000163
+),
+koordinate(
+    -78.59097341999987,
+    1.783484927000032
+),
+koordinate(
+    -78.580788148999915,
+    1.780299772000191
+),
+koordinate(
+    -78.571230417999942,
+    1.782207066000083
+),
+koordinate(
+    -78.571848618999923,
+    1.796212322000159
+),
+koordinate(
+    -78.570563935999957,
+    1.803852028000065
+),
+koordinate(
+    -78.566726717999899,
+    1.819768385000174
+),
+koordinate(
+    -78.553327551999956,
+    1.834412355000083
+),
+koordinate(
+    -78.546295612999899,
+    1.859884284000088
+),
+koordinate(
+    -78.554066535999908,
+    1.876206773000135
+),
+koordinate(
+    -78.552845831999889,
+    1.891180731000162
+),
+koordinate(
+    -78.551177537999877,
+    1.894476630000028
+),
+koordinate(
+    -78.547840949999852,
+    1.899318752000099
+),
+koordinate(
+    -78.545155402999882,
+    1.905910549000069
+),
+koordinate(
+    -78.545399542999917,
+    1.914740302000126
+),
+koordinate(
+    -78.548350346999911,
+    1.920613375000144
+),
+koordinate(
+    -78.552299571999896,
+    1.916645812000127
+),
+koordinate(
+    -78.558482814999905,
+    1.904170269000147
+),
+koordinate(
+    -78.571496680999957,
+    1.896806241000135
+),
+koordinate(
+    -78.59136712399993,
+    1.89684264100012
+),
+koordinate(
+    -78.597630306999889,
+    1.909884940000026
+),
+koordinate(
+    -78.598209060999892,
+    1.928567313000116
+),
+koordinate(
+    -78.593820766999897,
+    1.948879299000126
+),
+koordinate(
+    -78.592518683999913,
+    1.964056708000115
+),
+koordinate(
+    -78.587473110999952,
+    1.988470770000063
+),
+koordinate(
+    -78.586333787999934,
+    2.000392971000096
+),
+koordinate(
+    -78.58958899599989,
+    2.009100653000175
+),
+koordinate(
+    -78.597727016999897,
+    2.019354559000107
+),
+koordinate(
+    -78.60802161399991,
+    2.027980861000032
+),
+koordinate(
+    -78.617990688999896,
+    2.03143952000012
+),
+koordinate(
+    -78.629017706999946,
+    2.025336005000042
+),
+koordinate(
+    -78.63719641799986,
+    2.012355861000046
+),
+koordinate(
+    -78.647474133999907,
+    1.980641280000086
+),
+koordinate(
+    -78.658243585999855,
+    1.974992279000134
+),
+koordinate(
+    -78.6656057779999,
+    1.982915292000129
+),
+koordinate(
+    -78.66734778599988,
+    2.003648179000052
+),
+koordinate(
+    -78.670683594999844,
+    2.030994482000068
+),
+koordinate(
+    -78.682986919999877,
+    2.065041284000159
+),
+koordinate(
+    -78.691768766999871,
+    2.112479953000133
+),
+koordinate(
+    -78.70054843799997,
+    2.146743957000084
+),
+koordinate(
+    -78.703158746999947,
+    2.189805173000138
+),
+koordinate(
+    -78.691705933999913,
+    2.214419156000034
+),
+koordinate(
+    -78.679361092999926,
+    2.241683269000163
+),
+koordinate(
+    -78.672298278999875,
+    2.267190010000107
+),
+koordinate(
+    -78.645375128999973,
+    2.27826569200009
+),
+koordinate(
+    -78.63695227799991,
+    2.306586005000142
+),
+koordinate(
+    -78.607411261999857,
+    2.359808661000116
+),
+koordinate(
+    -78.58568274599989,
+    2.403143622000101
+),
+koordinate(
+    -78.574086066999968,
+    2.433172919000057
+),
+koordinate(
+    -78.558990037999962,
+    2.449164130000057
+),
+koordinate(
+    -78.565297003999916,
+    2.432562567
+),
+koordinate(
+    -78.566273566999882,
+    2.415513414000046
+),
+koordinate(
+    -78.563588019999912,
+    2.398342190000022
+),
+koordinate(
+    -78.558990037999962,
+    2.381537177000013
+),
+koordinate(
+    -78.544911261999914,
+    2.426743882000125
+),
+koordinate(
+    -78.536202907999979,
+    2.475151515000064
+),
+koordinate(
+    -78.525045132999935,
+    2.495506662000182
+),
+koordinate(
+    -78.506457944999909,
+    2.49087127900016
+),
+koordinate(
+    -78.481388476999911,
+    2.522313629000152
+),
+koordinate(
+    -78.456333373999939,
+    2.551898515000104
+),
+koordinate(
+    -78.432215845999906,
+    2.58702825200011
+),
+koordinate(
+    -78.410887103999897,
+    2.595331203000086
+),
+koordinate(
+    -78.393276487999913,
+    2.611963180000174
+),
+koordinate(
+    -78.371963267999945,
+    2.632291167000076
+),
+koordinate(
+    -78.346018238999875,
+    2.647985921000071
+),
+koordinate(
+    -78.333972983999871,
+    2.647045418000147
+),
+koordinate(
+    -78.324706692999939,
+    2.623909973000025
+),
+koordinate(
+    -78.313595149999912,
+    2.597081555000145
+),
+koordinate(
+    -78.297860032999978,
+    2.571180762000012
+),
+koordinate(
+    -78.277503605999925,
+    2.542509370000133
+),
+koordinate(
+    -78.254750128999973,
+    2.541896877000085
+),
+koordinate(
+    -78.26546333399989,
+    2.575777132
+),
+koordinate(
+    -78.271009391999939,
+    2.604440755000113
+),
+koordinate(
+    -78.270076330999927,
+    2.634952070000153
+),
+koordinate(
+    -78.261743374999952,
+    2.649741391000092
+),
+koordinate(
+    -78.24693074399994,
+    2.663600774000187
+),
+koordinate(
+    -78.2358255769999,
+    2.646015167000158
+),
+koordinate(
+    -78.228431269999874,
+    2.615495700000068
+),
+koordinate(
+    -78.234917469999914,
+    2.593315008000062
+),
+koordinate(
+    -78.224744655999928,
+    2.576667705000133
+),
+koordinate(
+    -78.215501059999923,
+    2.555402443000119
+),
+koordinate(
+    -78.207753058999856,
+    2.53733958500014
+),
+koordinate(
+    -78.193104620999947,
+    2.521429755000114
+),
+koordinate(
+    -78.184396938999953,
+    2.515204169000072
+),
+koordinate(
+    -78.148793097999885,
+    2.49754466400006
+),
+koordinate(
+    -78.132476365999963,
+    2.492743231000148
+),
+koordinate(
+    -78.122954881999874,
+    2.493638414000145
+),
+koordinate(
+    -78.106556769999969,
+    2.504380601000165
+),
+koordinate(
+    -78.086659308999884,
+    2.51056549700013
+),
+koordinate(
+    -78.085275844999899,
+    2.516058661000074
+),
+koordinate(
+    -78.085072394999941,
+    2.523586330000114
+),
+koordinate(
+    -78.085764126999976,
+    2.529852606000162
+),
+koordinate(
+    -78.086659308999884,
+    2.531683661000059
+),
+koordinate(
+    -78.083119269999884,
+    2.537543036000088
+),
+koordinate(
+    -78.081654425999915,
+    2.541489976000165
+),
+koordinate(
+    -78.081361245999915,
+    2.577489655000107
+),
+koordinate(
+    -78.085049305999888,
+    2.592281302000075
+),
+koordinate(
+    -78.089662756999871,
+    2.607996460000052
+),
+koordinate(
+    -78.099826973999939,
+    2.624637143000143
+),
+koordinate(
+    -78.105364943999945,
+    2.64220430800016
+),
+koordinate(
+    -78.096104901999894,
+    2.65145139000019
+),
+koordinate(
+    -78.073901624999905,
+    2.64682026300008
+),
+koordinate(
+    -78.063717986999904,
+    2.654210089000088
+),
+koordinate(
+    -78.039656069999864,
+    2.655126742000078
+),
+koordinate(
+    -78.021146997999921,
+    2.654194966000176
+),
+koordinate(
+    -78.004485389999871,
+    2.65511360800015
+),
+koordinate(
+    -77.99151711399989,
+    2.663432042000082
+),
+koordinate(
+    -77.969283354999845,
+    2.676372319000066
+),
+koordinate(
+    -77.949840129999956,
+    2.674518088000042
+),
+koordinate(
+    -77.93586178299995,
+    2.662054755000085
+),
+koordinate(
+    -77.925445115999878,
+    2.643215236000131
+),
+koordinate(
+    -77.917591925999886,
+    2.632269598000079
+),
+koordinate(
+    -77.906890428999873,
+    2.629461981000034
+),
+koordinate(
+    -77.888050910999937,
+    2.634711005000099
+),
+koordinate(
+    -77.897043423999946,
+    2.619086005000114
+),
+koordinate(
+    -77.905425584999904,
+    2.598211981000063
+),
+koordinate(
+    -77.904286261999886,
+    2.579982815000079
+),
+koordinate(
+    -77.884348110999895,
+    2.572088934000092
+),
+koordinate(
+    -77.872547980999911,
+    2.570786851000193
+),
+koordinate(
+    -77.852365688999896,
+    2.566107489000089
+),
+koordinate(
+    -77.839670376999919,
+    2.56586334800005
+),
+koordinate(
+    -77.813832160999908,
+    2.57123444200009
+),
+koordinate(
+    -77.802398240999963,
+    2.572088934000092
+),
+koordinate(
+    -77.77794348899991,
+    2.577704169000015
+),
+koordinate(
+    -77.760406053999873,
+    2.591620184000163
+),
+koordinate(
+    -77.751210089999915,
+    2.609605210000112
+),
+koordinate(
+    -77.751535610999923,
+    2.627264716000042
+),
+koordinate(
+    -77.757639126999919,
+    2.63996002800009
+),
+koordinate(
+    -77.768910285999908,
+    2.657171942000105
+),
+koordinate(
+    -77.78335527299987,
+    2.671372789000117
+),
+koordinate(
+    -77.798695441999911,
+    2.675726630000028
+),
+koordinate(
+    -77.798695441999911,
+    2.681870835000098
+),
+koordinate(
+    -77.778187628999945,
+    2.681870835000098
+),
+koordinate(
+    -77.778187628999945,
+    2.689398505000142
+),
+koordinate(
+    -77.791330532999922,
+    2.691961981000148
+),
+koordinate(
+    -77.797596808999884,
+    2.698716539000188
+),
+koordinate(
+    -77.797759568999936,
+    2.707668361000117
+),
+koordinate(
+    -77.792469855999855,
+    2.716701565000122
+),
+koordinate(
+    -77.802886522999927,
+    2.719387111000103
+),
+koordinate(
+    -77.806304490999935,
+    2.725531317
+),
+koordinate(
+    -77.80443274599989,
+    2.734076239000103
+),
+koordinate(
+    -77.798695441999911,
+    2.743963934000036
+),
+koordinate(
+    -77.807525193999965,
+    2.745794989000103
+),
+koordinate(
+    -77.811756964999887,
+    2.748480536000074
+),
+koordinate(
+    -77.812855597999942,
+    2.754095770000077
+),
+koordinate(
+    -77.812367316999939,
+    2.764471747000172
+),
+koordinate(
+    -77.794789191999911,
+    2.757269598000136
+),
+koordinate(
+    -77.780913865999935,
+    2.763169664000174
+),
+koordinate(
+    -77.768299933999856,
+    2.773342190000037
+),
+koordinate(
+    -77.754628058999913,
+    2.778753973000079
+),
+koordinate(
+    -77.748199022999898,
+    2.779527085000098
+),
+koordinate(
+    -77.73924719999988,
+    2.782049872000101
+),
+koordinate(
+    -77.733550584999904,
+    2.786118882000068
+),
+koordinate(
+    -77.737212693999936,
+    2.791734117000075
+),
+koordinate(
+    -77.745513475999928,
+    2.793158270000049
+),
+koordinate(
+    -77.76195227799991,
+    2.785589911000088
+),
+koordinate(
+    -77.770741339999887,
+    2.785589911000088
+),
+koordinate(
+    -77.78575598899991,
+    2.79482656500015
+),
+koordinate(
+    -77.78184973899991,
+    2.802150783000144
+),
+koordinate(
+    -77.77082271999987,
+    2.808742580000043
+),
+koordinate(
+    -77.764556443999908,
+    2.815659898000121
+),
+koordinate(
+    -77.757639126999919,
+    2.813299872000172
+),
+koordinate(
+    -77.741566535999937,
+    2.810044664000131
+),
+koordinate(
+    -77.723215298999975,
+    2.808742580000043
+),
+koordinate(
+    -77.709339972999885,
+    2.812241929000123
+),
+koordinate(
+    -77.705189581999946,
+    2.805650132000139
+),
+koordinate(
+    -77.698475714999915,
+    2.797512111000131
+),
+koordinate(
+    -77.696278449999909,
+    2.791734117000075
+),
+koordinate(
+    -77.688832160999937,
+    2.791734117000075
+),
+koordinate(
+    -77.69859778599988,
+    2.813137111000117
+),
+koordinate(
+    -77.735422329999949,
+    2.82249583500014
+),
+koordinate(
+    -77.723540818999908,
+    2.84015534100007
+),
+koordinate(
+    -77.708159959999961,
+    2.84845612200013
+),
+koordinate(
+    -77.693592902999939,
+    2.850165106000134
+),
+koordinate(
+    -77.680246548999918,
+    2.853664455000128
+),
+koordinate(
+    -77.668324347999885,
+    2.867499091000127
+),
+koordinate(
+    -77.658599412999934,
+    2.863470770000063
+),
+koordinate(
+    -77.65070553299995,
+    2.859116929000081
+),
+koordinate(
+    -77.644886847999913,
+    2.853745835000112
+),
+koordinate(
+    -77.641713019999941,
+    2.846380927000112
+),
+koordinate(
+    -77.63605709499987,
+    2.869614976000136
+),
+koordinate(
+    -77.65770423099994,
+    2.876898505000057
+),
+koordinate(
+    -77.688221808999884,
+    2.87250397299999
+),
+koordinate(
+    -77.709339972999885,
+    2.860663153000118
+),
+koordinate(
+    -77.714914516999897,
+    2.875677802000141
+),
+koordinate(
+    -77.715687628999916,
+    2.897528387000179
+),
+koordinate(
+    -77.710072394999912,
+    2.918117580000114
+),
+koordinate(
+    -77.696278449999909,
+    2.928941148000106
+),
+koordinate(
+    -77.68260657499988,
+    2.927313544000086
+),
+koordinate(
+    -77.673451300999886,
+    2.919175523000163
+),
+koordinate(
+    -77.665191209999904,
+    2.909247137000079
+),
+koordinate(
+    -77.654652472999942,
+    2.901597398000135
+),
+koordinate(
+    -77.643381313999953,
+    2.898138739000132
+),
+koordinate(
+    -77.640126105999911,
+    2.900051174000097
+),
+koordinate(
+    -77.639068162999962,
+    2.906154690000093
+),
+koordinate(
+    -77.6341853509999,
+    2.915350653000147
+),
+koordinate(
+    -77.625070766999897,
+    2.92446523600006
+),
+koordinate(
+    -77.620716925999915,
+    2.927679755000099
+),
+koordinate(
+    -77.619699673999946,
+    2.931586005000099
+),
+koordinate(
+    -77.620513475999957,
+    2.942613023000149
+),
+koordinate(
+    -77.623931443999965,
+    2.947984117000104
+),
+koordinate(
+    -77.63768469999988,
+    2.951727606000134
+),
+koordinate(
+    -77.641713019999941,
+    2.956244208000101
+),
+koordinate(
+    -77.641468878999888,
+    2.96133047100011
+),
+koordinate(
+    -77.635894334999904,
+    2.964829820000105
+),
+koordinate(
+    -77.63109290299991,
+    2.977972723000065
+),
+koordinate(
+    -77.625884568999908,
+    2.979681708000072
+),
+koordinate(
+    -77.623158331999946,
+    2.981838283000073
+),
+koordinate(
+    -77.627349412999962,
+    2.991034247000144
+),
+koordinate(
+    -77.633900519999941,
+    2.994859117000146
+),
+koordinate(
+    -77.642160610999923,
+    2.994289455000086
+),
+koordinate(
+    -77.64976966099988,
+    2.995550848000093
+),
+koordinate(
+    -77.654652472999942,
+    3.004706122000087
+),
+koordinate(
+    -77.656117316999911,
+    2.997503973000136
+),
+koordinate(
+    -77.65754146999987,
+    2.995835679000123
+),
+koordinate(
+    -77.65754146999987,
+    2.995184637000179
+),
+koordinate(
+    -77.654652472999942,
+    2.991034247000144
+),
+koordinate(
+    -77.665435350999957,
+    2.984564520000134
+),
+koordinate(
+    -77.676625128999945,
+    2.98232656500015
+),
+koordinate(
+    -77.685414191999939,
+    2.985907294000043
+),
+koordinate(
+    -77.688832160999937,
+    2.997259833000101
+),
+koordinate(
+    -77.713937954999921,
+    2.974758205000114
+),
+koordinate(
+    -77.723540818999908,
+    2.969916083000044
+),
+koordinate(
+    -77.721791144999912,
+    2.982001044000128
+),
+koordinate(
+    -77.685023287999911,
+    3.025839156000174
+),
+koordinate(
+    -77.662256366999912,
+    3.058458759000047
+),
+koordinate(
+    -77.647706847999899,
+    3.073852830000021
+),
+koordinate(
+    -77.571428684999944,
+    3.138075139000094
+),
+koordinate(
+    -77.551437010999877,
+    3.17514888000008
+),
+koordinate(
+    -77.539628839999949,
+    3.196844681000101
+),
+koordinate(
+    -77.525120717999897,
+    3.201353588000131
+),
+koordinate(
+    -77.508656378999945,
+    3.194566148000135
+),
+koordinate(
+    -77.505523240999963,
+    3.204575914000117
+),
+koordinate(
+    -77.50450598899991,
+    3.213202216000042
+),
+koordinate(
+    -77.501820441999911,
+    3.223374742000161
+),
+koordinate(
+    -77.494862433999913,
+    3.22361888200011
+),
+koordinate(
+    -77.485747850999928,
+    3.221380927000126
+),
+koordinate(
+    -77.479683974999944,
+    3.227463768000092
+),
+koordinate(
+    -77.485436416999931,
+    3.237703861000128
+),
+koordinate(
+    -77.500799921999942,
+    3.244758117000089
+),
+koordinate(
+    -77.516177240999866,
+    3.239661555000026
+),
+koordinate(
+    -77.53860164799994,
+    3.237124141000123
+),
+koordinate(
+    -77.541794518999893,
+    3.246080663000015
+),
+koordinate(
+    -77.529603721999933,
+    3.26141701600001
+),
+koordinate(
+    -77.505238630999941,
+    3.282491318000112
+),
+koordinate(
+    -77.488572764999901,
+    3.292702895000019
+),
+koordinate(
+    -77.464864340999981,
+    3.301625682000122
+),
+koordinate(
+    -77.47765840399984,
+    3.31315325700011
+),
+koordinate(
+    -77.476551886999857,
+    3.333644924000154
+),
+koordinate(
+    -77.468658006999902,
+    3.344671942000019
+),
+koordinate(
+    -77.457386847999913,
+    3.356146552000141
+),
+koordinate(
+    -77.445464647999955,
+    3.363226630000114
+),
+koordinate(
+    -77.435617641999841,
+    3.360988674000041
+),
+koordinate(
+    -77.419056769999969,
+    3.365220445000148
+),
+koordinate(
+    -77.404855923999946,
+    3.36717357000019
+),
+koordinate(
+    -77.400461391999869,
+    3.370021877000127
+),
+koordinate(
+    -77.380970831999889,
+    3.387640692000062
+),
+koordinate(
+    -77.358509894999884,
+    3.34577057500006
+),
+koordinate(
+    -77.343739386999914,
+    3.329413153000047
+),
+koordinate(
+    -77.318918423999946,
+    3.319973049000112
+),
+koordinate(
+    -77.323475714999887,
+    3.331122137000051
+),
+koordinate(
+    -77.356760219999899,
+    3.370917059000121
+),
+koordinate(
+    -77.365630662999934,
+    3.385646877000113
+),
+koordinate(
+    -77.367054816999911,
+    3.402085679000109
+),
+koordinate(
+    -77.362456834999875,
+    3.417792059000178
+),
+koordinate(
+    -77.353016730999855,
+    3.4298363300001
+),
+koordinate(
+    -77.349436001999976,
+    3.421332098000065
+),
+koordinate(
+    -77.342681443999936,
+    3.412054755000114
+),
+koordinate(
+    -77.33608964799987,
+    3.407171942000133
+),
+koordinate(
+    -77.333159959999932,
+    3.411810614000075
+),
+koordinate(
+    -77.335194464999887,
+    3.419256903000132
+),
+koordinate(
+    -77.344146287999905,
+    3.432033596000082
+),
+koordinate(
+    -77.346180792999945,
+    3.43602122600015
+),
+koordinate(
+    -77.341135219999899,
+    3.456244208
+),
+koordinate(
+    -77.331695115999878,
+    3.473334052000041
+),
+koordinate(
+    -77.326283331999946,
+    3.490668036000031
+),
+koordinate(
+    -77.333159959999932,
+    3.511786200000131
+),
+koordinate(
+    -77.32290605399993,
+    3.512396552000084
+),
+koordinate(
+    -77.312733527999882,
+    3.511786200000131
+),
+koordinate(
+    -77.315825975999957,
+    3.506903387000151
+),
+koordinate(
+    -77.317738410999908,
+    3.501776434000135
+),
+koordinate(
+    -77.318674282999893,
+    3.495550848000093
+),
+koordinate(
+    -77.318918423999946,
+    3.487616278000118
+),
+koordinate(
+    -77.31615149599989,
+    3.480373440000093
+),
+koordinate(
+    -77.309803839999859,
+    3.480210679000138
+),
+koordinate(
+    -77.300282355999855,
+    3.486558335000069
+),
+koordinate(
+    -77.282826300999886,
+    3.485174872000087
+),
+koordinate(
+    -77.278187628999973,
+    3.482611395000077
+),
+koordinate(
+    -77.269154425999943,
+    3.473944403000175
+),
+koordinate(
+    -77.264271613999881,
+    3.4708519550001
+),
+koordinate(
+    -77.265492316999911,
+    3.480414130000085
+),
+koordinate(
+    -77.269439256999902,
+    3.48794179900014
+),
+koordinate(
+    -77.275868292999917,
+    3.493475653000076
+),
+koordinate(
+    -77.284779425999943,
+    3.497503973000136
+),
+koordinate(
+    -77.280506964999944,
+    3.499701239000117
+),
+koordinate(
+    -77.275868292999917,
+    3.502997137000151
+),
+koordinate(
+    -77.271717902999882,
+    3.504950262000108
+),
+koordinate(
+    -77.290516730999911,
+    3.511542059000092
+),
+koordinate(
+    -77.298980272999955,
+    3.511786200000131
+),
+koordinate(
+    -77.294789191999939,
+    3.521144924000154
+),
+koordinate(
+    -77.291005011999914,
+    3.52366771
+),
+koordinate(
+    -77.285959438999953,
+    3.521918036
+),
+koordinate(
+    -77.277943488999938,
+    3.517971096000096
+),
+koordinate(
+    -77.27489173099994,
+    3.532782294000157
+),
+koordinate(
+    -77.289051886999857,
+    3.538072007000139
+),
+koordinate(
+    -77.309559699999909,
+    3.536851304000123
+),
+koordinate(
+    -77.325754360999952,
+    3.532212632000096
+),
+koordinate(
+    -77.321766730999883,
+    3.547837632000082
+),
+koordinate(
+    -77.310536261999886,
+    3.55019765800013
+),
+koordinate(
+    -77.294992641999897,
+    3.547023830000072
+),
+koordinate(
+    -77.277943488999938,
+    3.545884507000139
+),
+koordinate(
+    -77.283192511999914,
+    3.548570054000109
+),
+koordinate(
+    -77.29356848899991,
+    3.555894273000035
+),
+koordinate(
+    -77.298980272999955,
+    3.55898672100011
+),
+koordinate(
+    -77.293283657999979,
+    3.561183986000103
+),
+koordinate(
+    -77.289906378999945,
+    3.563421942000076
+),
+koordinate(
+    -77.285878058999884,
+    3.565334377000127
+),
+koordinate(
+    -77.277943488999938,
+    3.566392320000176
+),
+koordinate(
+    -77.280995245999918,
+    3.570461330000143
+),
+koordinate(
+    -77.284779425999943,
+    3.580633856000091
+),
+koordinate(
+    -77.264759894999884,
+    3.585028387000165
+),
+koordinate(
+    -77.243763800999943,
+    3.586900132000139
+),
+koordinate(
+    -77.243763800999943,
+    3.580633856000091
+),
+koordinate(
+    -77.248605923999918,
+    3.571519273000192
+),
+koordinate(
+    -77.238840298999975,
+    3.571682033000158
+),
+koordinate(
+    -77.20962480399993,
+    3.580633856000091
+),
+koordinate(
+    -77.223866339999944,
+    3.584214585000069
+),
+koordinate(
+    -77.227162238999881,
+    3.591009833000101
+),
+koordinate(
+    -77.222645636999914,
+    3.600165106000162
+),
+koordinate(
+    -77.204904751999919,
+    3.621242580000015
+),
+koordinate(
+    -77.198638475999871,
+    3.633530992000146
+),
+koordinate(
+    -77.189198370999861,
+    3.662583726000122
+),
+koordinate(
+    -77.177723761999914,
+    3.654445705000029
+),
+koordinate(
+    -77.169545050999915,
+    3.652248440000037
+),
+koordinate(
+    -77.16185462099989,
+    3.655951239000075
+),
+koordinate(
+    -77.151275193999936,
+    3.665716864000103
+),
+koordinate(
+    -77.140288865999878,
+    3.669826565000065
+),
+koordinate(
+    -77.124867316999939,
+    3.67373281500015
+),
+koordinate(
+    -77.118275519999884,
+    3.678045966000141
+),
+koordinate(
+    -77.133941209999961,
+    3.683050848000093
+),
+koordinate(
+    -77.147206183999884,
+    3.681097723000136
+),
+koordinate(
+    -77.160552537999905,
+    3.676214911000074
+),
+koordinate(
+    -77.170806443999908,
+    3.67719147300015
+),
+koordinate(
+    -77.174916144999969,
+    3.692694403000161
+),
+koordinate(
+    -77.167876756999902,
+    3.694973049000126
+),
+koordinate(
+    -77.152211066999911,
+    3.697943427000141
+),
+koordinate(
+    -77.135731574999937,
+    3.704413153000061
+),
+koordinate(
+    -77.126454230999883,
+    3.717230536
+),
+koordinate(
+    -77.143666144999912,
+    3.715073960000083
+),
+koordinate(
+    -77.185414191999939,
+    3.703599351000051
+),
+koordinate(
+    -77.198719855999855,
+    3.710028387000151
+),
+koordinate(
+    -77.202951626999976,
+    3.72549062700007
+),
+koordinate(
+    -77.200795050999886,
+    3.743475653000104
+),
+koordinate(
+    -77.195423956999917,
+    3.758205471000096
+),
+koordinate(
+    -77.1673884759999,
+    3.737941799000097
+),
+koordinate(
+    -77.152333136999886,
+    3.733099677000027
+),
+koordinate(
+    -77.130197719999927,
+    3.731512762000165
+),
+koordinate(
+    -77.125640428999873,
+    3.733547268000024
+),
+koordinate(
+    -77.12824459499987,
+    3.737982489000089
+),
+koordinate(
+    -77.13536536399991,
+    3.742499091000127
+),
+koordinate(
+    -77.144439256999931,
+    3.744533596000068
+),
+koordinate(
+    -77.155262824999909,
+    3.744452216000084
+),
+koordinate(
+    -77.163441535999937,
+    3.745347398000163
+),
+koordinate(
+    -77.169789191999939,
+    3.749253648000163
+),
+koordinate(
+    -77.174916144999969,
+    3.758205471000096
+),
+koordinate(
+    -77.158436652999882,
+    3.756903387000108
+),
+koordinate(
+    -77.144439256999931,
+    3.759588934000178
+),
+koordinate(
+    -77.133656378999916,
+    3.766750393000038
+),
+koordinate(
+    -77.126454230999883,
+    3.778713283000144
+),
+koordinate(
+    -77.1419978509999,
+    3.788478908000101
+),
+koordinate(
+    -77.151478644999884,
+    3.800441799000126
+),
+koordinate(
+    -77.150380011999857,
+    3.813666083000072
+),
+koordinate(
+    -77.133941209999961,
+    3.827093817000062
+),
+koordinate(
+    -77.126128709999961,
+    3.821600653000132
+),
+koordinate(
+    -77.121490037999934,
+    3.816351630000142
+),
+koordinate(
+    -77.119699673999946,
+    3.809515692000133
+),
+koordinate(
+    -77.120269334999904,
+    3.799139716000127
+),
+koordinate(
+    -77.105620897999898,
+    3.81346263200011
+),
+koordinate(
+    -77.111887173999946,
+    3.834051825000145
+),
+koordinate(
+    -77.114491339999859,
+    3.852606512000151
+),
+koordinate(
+    -77.068592902999882,
+    3.867743231000148
+),
+koordinate(
+    -77.056304490999906,
+    3.884344794000114
+),
+koordinate(
+    -77.046009894999912,
+    3.902777411000145
+),
+koordinate(
+    -77.03156490799995,
+    3.915838934000121
+),
+koordinate(
+    -77.03156490799995,
+    3.922064520000092
+),
+koordinate(
+    -77.093006964999915,
+    3.909002997000101
+),
+koordinate(
+    -77.093006964999915,
+    3.915838934000121
+),
+koordinate(
+    -77.086008266999841,
+    3.918158270000092
+),
+koordinate(
+    -77.079335089999887,
+    3.922064520000092
+),
+koordinate(
+    -77.104644334999932,
+    3.92177969000015
+),
+koordinate(
+    -77.116078253999888,
+    3.923814195000176
+),
+koordinate(
+    -77.126454230999883,
+    3.929510809000149
+),
+koordinate(
+    -77.123036261999886,
+    3.886135158000101
+),
+koordinate(
+    -77.18114173099994,
+    3.852972723000079
+),
+koordinate(
+    -77.253163214999859,
+    3.840806382000096
+),
+koordinate(
+    -77.291615363999966,
+    3.860581773000106
+),
+koordinate(
+    -77.289540167999945,
+    3.869818427000084
+),
+koordinate(
+    -77.275217251999948,
+    3.87775299700013
+),
+koordinate(
+    -77.271717902999882,
+    3.88540273600016
+),
+koordinate(
+    -77.275257941999939,
+    3.889227606000176
+),
+koordinate(
+    -77.292632615999935,
+    3.897772528000104
+),
+koordinate(
+    -77.304798956999917,
+    3.905829169000143
+),
+koordinate(
+    -77.309152798999918,
+    3.905951239000117
+),
+koordinate(
+    -77.311756964999915,
+    3.90843333500014
+),
+koordinate(
+    -77.312733527999882,
+    3.919012762000179
+),
+koordinate(
+    -77.311634894999941,
+    3.927557684000107
+),
+koordinate(
+    -77.309152798999918,
+    3.934800523000135
+),
+koordinate(
+    -77.305246548999918,
+    3.943182684000092
+),
+koordinate(
+    -77.300200975999871,
+    3.969142971000096
+),
+koordinate(
+    -77.29507402299987,
+    3.977972723000136
+),
+koordinate(
+    -77.284779425999943,
+    3.984076239000132
+),
+koordinate(
+    -77.270415818999965,
+    3.986395575000103
+),
+koordinate(
+    -77.260894334999875,
+    3.983140367000146
+),
+koordinate(
+    -77.259999152999882,
+    3.97540924700013
+),
+koordinate(
+    -77.271717902999882,
+    3.964260158000116
+),
+koordinate(
+    -77.223988410999908,
+    3.971991278000132
+),
+koordinate(
+    -77.20962480399993,
+    3.977280992000189
+),
+koordinate(
+    -77.20962480399993,
+    3.984076239000132
+),
+koordinate(
+    -77.243763800999943,
+    3.977280992000189
+),
+koordinate(
+    -77.23924719999988,
+    3.989935614000075
+),
+koordinate(
+    -77.232289191999882,
+    4.001206773000163
+),
+koordinate(
+    -77.205393032999922,
+    4.032619533000101
+),
+koordinate(
+    -77.189198370999861,
+    4.067328192000076
+),
+koordinate(
+    -77.19981848899991,
+    4.066880601000165
+),
+koordinate(
+    -77.204741990999963,
+    4.068101304000095
+),
+koordinate(
+    -77.206939256999959,
+    4.072170315000136
+),
+koordinate(
+    -77.20962480399993,
+    4.080308335000069
+),
+koordinate(
+    -77.224924282999893,
+    4.07697174700013
+),
+koordinate(
+    -77.23668372299997,
+    4.085353908000101
+),
+koordinate(
+    -77.248605923999918,
+    4.098211981000119
+),
+koordinate(
+    -77.264271613999881,
+    4.108221747000101
+),
+koordinate(
+    -77.259999152999882,
+    4.098537502000141
+),
+koordinate(
+    -77.258534308999913,
+    4.087632554000066
+),
+koordinate(
+    -77.259999152999882,
+    4.076890367000146
+),
+koordinate(
+    -77.264271613999881,
+    4.067328192000076
+),
+koordinate(
+    -77.272938605999883,
+    4.072088934000163
+),
+koordinate(
+    -77.281605597999885,
+    4.073553778000118
+),
+koordinate(
+    -77.290394660999937,
+    4.071844794000114
+),
+koordinate(
+    -77.298980272999955,
+    4.067328192000076
+),
+koordinate(
+    -77.298980272999955,
+    4.059881903000175
+),
+koordinate(
+    -77.294097459999904,
+    4.055487372000101
+),
+koordinate(
+    -77.293771938999953,
+    4.054999091000113
+),
+koordinate(
+    -77.296009894999941,
+    4.053371486000103
+),
+koordinate(
+    -77.298980272999955,
+    4.045599677000098
+),
+koordinate(
+    -77.303456183999913,
+    4.049790757000125
+),
+koordinate(
+    -77.306507941999911,
+    4.050970770000149
+),
+koordinate(
+    -77.310699022999955,
+    4.051255601000179
+),
+koordinate(
+    -77.318918423999946,
+    4.05304596600017
+),
+koordinate(
+    -77.315825975999957,
+    4.034247137000122
+),
+koordinate(
+    -77.318918423999946,
+    4.006537177000126
+),
+koordinate(
+    -77.326324022999927,
+    3.981390692000147
+),
+koordinate(
+    -77.336537238999966,
+    3.970445054000095
+),
+koordinate(
+    -77.339711066999939,
+    3.964422919000171
+),
+koordinate(
+    -77.343251105999911,
+    3.936957098000136
+),
+koordinate(
+    -77.346180792999945,
+    3.929510809000149
+),
+koordinate(
+    -77.362131313999953,
+    3.928045966000099
+),
+koordinate(
+    -77.374663865999935,
+    3.936428127000156
+),
+koordinate(
+    -77.379790818999965,
+    3.950018622000115
+),
+koordinate(
+    -77.373524542999917,
+    3.964260158000116
+),
+koordinate(
+    -77.425038214999887,
+    4.004584052000084
+),
+koordinate(
+    -77.430775519999941,
+    4.012640692000119
+),
+koordinate(
+    -77.435170050999943,
+    4.029364325000145
+),
+koordinate(
+    -77.430409308999941,
+    4.044012762000151
+),
+koordinate(
+    -77.408273891999869,
+    4.045599677000098
+),
+koordinate(
+    -77.419829881999902,
+    4.060207424000112
+),
+koordinate(
+    -77.423980272999927,
+    4.067328192000076
+),
+koordinate(
+    -77.431141730999883,
+    4.094387111000103
+),
+koordinate(
+    -77.435047980999883,
+    4.124904690000136
+),
+koordinate(
+    -77.435170050999943,
+    4.155218817000119
+),
+koordinate(
+    -77.432850714999887,
+    4.169012762000136
+),
+koordinate(
+    -77.426665818999908,
+    4.180365302000112
+),
+koordinate(
+    -77.415109829999977,
+    4.190171617000132
+),
+koordinate(
+    -77.401193813999896,
+    4.193304755000114
+),
+koordinate(
+    -77.387766079999921,
+    4.19171784100017
+),
+koordinate(
+    -77.377552863999881,
+    4.19358958500014
+),
+koordinate(
+    -77.373524542999917,
+    4.20693594000015
+),
+koordinate(
+    -77.369618292999917,
+    4.213934637000136
+),
+koordinate(
+    -77.360096808999913,
+    4.221136786000074
+),
+koordinate(
+    -77.348052537999905,
+    4.224676825000145
+),
+koordinate(
+    -77.336537238999966,
+    4.220607815000093
+),
+koordinate(
+    -77.31981360599994,
+    4.200832424000069
+),
+koordinate(
+    -77.313099738999881,
+    4.198879299000126
+),
+koordinate(
+    -77.298980272999955,
+    4.203192450000117
+),
+koordinate(
+    -77.280995245999918,
+    4.213771877000085
+),
+koordinate(
+    -77.264963344999842,
+    4.228745835000112
+),
+koordinate(
+    -77.236317511999857,
+    4.265326239000146
+),
+koordinate(
+    -77.320912238999881,
+    4.266343492000104
+),
+koordinate(
+    -77.336537238999966,
+    4.268744208000143
+),
+koordinate(
+    -77.350331183999884,
+    4.285793361000103
+),
+koordinate(
+    -77.387196417999945,
+    4.347235419000086
+),
+koordinate(
+    -77.358998175999972,
+    4.387193101000136
+),
+koordinate(
+    -77.353016730999855,
+    4.4024925800001
+),
+koordinate(
+    -77.34508216099988,
+    4.44554271000014
+),
+koordinate(
+    -77.335113084999904,
+    4.460923570000176
+),
+koordinate(
+    -77.312733527999882,
+    4.47138092700007
+),
+koordinate(
+    -77.312733527999882,
+    4.478176174000083
+),
+koordinate(
+    -77.333159959999932,
+    4.47138092700007
+),
+koordinate(
+    -77.330433722999885,
+    4.499660549000112
+),
+koordinate(
+    -77.319569464999887,
+    4.546616929000138
+),
+koordinate(
+    -77.318918423999946,
+    4.683661200000131
+),
+koordinate(
+    -77.315663214999887,
+    4.674383856000176
+),
+koordinate(
+    -77.311675584999932,
+    4.667181708000143
+),
+koordinate(
+    -77.306304490999963,
+    4.661200262000122
+),
+koordinate(
+    -77.298980272999955,
+    4.655707098000107
+),
+koordinate(
+    -77.294422980999911,
+    4.665716864000089
+),
+koordinate(
+    -77.291615363999966,
+    4.682074286000102
+),
+koordinate(
+    -77.294992641999897,
+    4.697333075000159
+),
+koordinate(
+    -77.31883704299986,
+    4.709662177000112
+),
+koordinate(
+    -77.322132941999911,
+    4.722845770000063
+),
+koordinate(
+    -77.323109503999973,
+    4.738755601000179
+),
+koordinate(
+    -77.325754360999952,
+    4.752508856000105
+),
+koordinate(
+    -77.303334113999938,
+    4.749212958000072
+),
+koordinate(
+    -77.285796678999901,
+    4.737005927000084
+),
+koordinate(
+    -77.272938605999883,
+    4.720607815000079
+),
+koordinate(
+    -77.264271613999881,
+    4.70408763200011
+),
+koordinate(
+    -77.258046027999939,
+    4.70408763200011
+),
+koordinate(
+    -77.26976477799991,
+    4.736070054000109
+),
+koordinate(
+    -77.312163865999906,
+    4.787176825000174
+),
+koordinate(
+    -77.318918423999946,
+    4.820868231000176
+),
+koordinate(
+    -77.323597785999965,
+    4.818793036000059
+),
+koordinate(
+    -77.335357225999928,
+    4.815497137000122
+),
+koordinate(
+    -77.33999589799987,
+    4.813381252000113
+),
+koordinate(
+    -77.34862219999988,
+    4.85419342700007
+),
+koordinate(
+    -77.360503709999932,
+    4.982489325000174
+),
+koordinate(
+    -77.366688605999883,
+    4.99892812700007
+),
+koordinate(
+    -77.372873501999948,
+    5.149155992000189
+),
+koordinate(
+    -77.367909308999913,
+    5.183254299000112
+),
+koordinate(
+    -77.358998175999972,
+    5.215643622000115
+),
+koordinate(
+    -77.346180792999945,
+    5.244777736000074
+),
+koordinate(
+    -77.360585089999915,
+    5.253485419000157
+),
+koordinate(
+    -77.361561652999882,
+    5.275213934000135
+),
+koordinate(
+    -77.359201626999919,
+    5.297308661000116
+),
+koordinate(
+    -77.363596157999893,
+    5.307440497000172
+),
+koordinate(
+    -77.373036261999914,
+    5.315659898000163
+),
+koordinate(
+    -77.378244594999927,
+    5.335191148000149
+),
+koordinate(
+    -77.380970831999889,
+    5.375067450000117
+),
+koordinate(
+    -77.395741339999859,
+    5.370347398000121
+),
+koordinate(
+    -77.404652472999913,
+    5.374701239000103
+),
+koordinate(
+    -77.408558722999913,
+    5.38617584800015
+),
+koordinate(
+    -77.408273891999869,
+    5.403021552000055
+),
+koordinate(
+    -77.401478644999941,
+    5.403021552000055
+),
+koordinate(
+    -77.396962042999888,
+    5.398423570000119
+),
+koordinate(
+    -77.393422003999916,
+    5.395941473000093
+),
+koordinate(
+    -77.388783331999974,
+    5.397040106000134
+),
+koordinate(
+    -77.380970831999889,
+    5.403021552000055
+),
+koordinate(
+    -77.391265428999901,
+    5.40957265800013
+),
+koordinate(
+    -77.395334438999953,
+    5.418687242000132
+),
+koordinate(
+    -77.402577277999882,
+    5.449652411000074
+),
+koordinate(
+    -77.401600714999915,
+    5.453111070000162
+),
+koordinate(
+    -77.402251756999959,
+    5.457220770000106
+),
+koordinate(
+    -77.408273891999869,
+    5.464504299000126
+),
+koordinate(
+    -77.412912563999896,
+    5.46621328300013
+),
+koordinate(
+    -77.429310675999886,
+    5.468939520000106
+),
+koordinate(
+    -77.435617641999841,
+    5.471340236000145
+),
+koordinate(
+    -77.446888800999915,
+    5.482082424000154
+),
+koordinate(
+    -77.453968878999888,
+    5.492621161000116
+),
+koordinate(
+    -77.462147589999887,
+    5.501044012000165
+),
+koordinate(
+    -77.476551886999857,
+    5.505438544000143
+),
+koordinate(
+    -77.490874803999958,
+    5.505438544000143
+),
+koordinate(
+    -77.501332160999937,
+    5.50242747600015
+),
+koordinate(
+    -77.507923956999917,
+    5.495754299000097
+),
+koordinate(
+    -77.510650193999879,
+    5.484930731000105
+),
+koordinate(
+    -77.522694464999887,
+    5.495550848000136
+),
+koordinate(
+    -77.534535285999937,
+    5.494940497000172
+),
+koordinate(
+    -77.544789191999968,
+    5.491115627000156
+),
+koordinate(
+    -77.552235480999855,
+    5.491848049000097
+),
+koordinate(
+    -77.559193488999938,
+    5.503078518000095
+),
+koordinate(
+    -77.556874152999882,
+    5.511908270000149
+),
+koordinate(
+    -77.54784094999988,
+    5.517645575000131
+),
+koordinate(
+    -77.534901495999861,
+    5.519720770000149
+),
+koordinate(
+    -77.526234503999973,
+    5.530178127000127
+),
+koordinate(
+    -77.502756313999896,
+    5.579250393000081
+),
+koordinate(
+    -77.490834113999966,
+    5.594794012000165
+),
+koordinate(
+    -77.481841600999928,
+    5.597601630000128
+),
+koordinate(
+    -77.459543423999889,
+    5.599025783000101
+),
+koordinate(
+    -77.449818488999938,
+    5.601629950000088
+),
+koordinate(
+    -77.437896287999905,
+    5.610174872000115
+),
+koordinate(
+    -77.429107225999928,
+    5.618963934000178
+),
+koordinate(
+    -77.419504360999952,
+    5.625677802000126
+),
+koordinate(
+    -77.404855923999946,
+    5.628363348000107
+),
+koordinate(
+    -77.387196417999945,
+    5.6231957050001
+),
+koordinate(
+    -77.372181769999912,
+    5.613470770000149
+),
+koordinate(
+    -77.355620897999955,
+    5.607896226000136
+),
+koordinate(
+    -77.333159959999932,
+    5.615301825000131
+),
+koordinate(
+    -77.326771613999938,
+    5.621283270000134
+),
+koordinate(
+    -77.324452277999882,
+    5.62738678600013
+),
+koordinate(
+    -77.322987433999913,
+    5.634426174000097
+),
+koordinate(
+    -77.318918423999946,
+    5.642564195000119
+),
+koordinate(
+    -77.317941860999952,
+    5.647040106000176
+),
+koordinate(
+    -77.319732225999957,
+    5.658514716000127
+),
+koordinate(
+    -77.318918423999946,
+    5.66303131700009
+),
+koordinate(
+    -77.314442511999886,
+    5.664292710000098
+),
+koordinate(
+    -77.307850714999915,
+    5.66303131700009
+),
+koordinate(
+    -77.301665818999936,
+    5.662543036000102
+),
+koordinate(
+    -77.298980272999955,
+    5.666164455000157
+),
+koordinate(
+    -77.294300910999937,
+    5.676947333000072
+),
+koordinate(
+    -77.283273891999897,
+    5.685777085000112
+),
+koordinate(
+    -77.270619269999912,
+    5.69354889500012
+),
+koordinate(
+    -77.261138475999928,
+    5.700913804000109
+),
+koordinate(
+    -77.254505988999938,
+    5.71092357000019
+),
+koordinate(
+    -77.249419725999928,
+    5.722316799000154
+),
+koordinate(
+    -77.245920376999948,
+    5.734198309000107
+),
+koordinate(
+    -77.243763800999943,
+    5.745672919000157
+),
+koordinate(
+    -77.246449347999913,
+    5.787339585000112
+),
+koordinate(
+    -77.261586066999911,
+    5.822495835000083
+),
+koordinate(
+    -77.302398240999963,
+    5.888251044000157
+),
+koordinate(
+    -77.305897589999859,
+    5.891506252000113
+),
+koordinate(
+    -77.312733527999882,
+    5.896429755000071
+),
+koordinate(
+    -77.313465949999909,
+    5.918402411000088
+),
+koordinate(
+    -77.353016730999855,
+    6.02619049700013
+),
+koordinate(
+    -77.360463019999941,
+    6.02619049700013
+),
+koordinate(
+    -77.360463019999941,
+    5.998928127000141
+),
+koordinate(
+    -77.366688605999883,
+    5.998928127000141
+),
+koordinate(
+    -77.382801886999857,
+    6.042629299000126
+),
+koordinate(
+    -77.408436652999939,
+    6.081976630000128
+),
+koordinate(
+    -77.469715949999852,
+    6.156480210000083
+),
+koordinate(
+    -77.480620897999927,
+    6.174058335000112
+),
+koordinate(
+    -77.484364386999857,
+    6.188788153000104
+),
+koordinate(
+    -77.48338782499988,
+    6.228501695000119
+),
+koordinate(
+    -77.476551886999857,
+    6.264064846000096
+),
+koordinate(
+    -77.475697394999969,
+    6.281561591000141
+),
+koordinate(
+    -77.48338782499988,
+    6.294338283000087
+),
+koordinate(
+    -77.476551886999857,
+    6.300523179000052
+),
+koordinate(
+    -77.439035610999952,
+    6.269476630000128
+),
+koordinate(
+    -77.415109829999977,
+    6.239081122000158
+),
+koordinate(
+    -77.405018683999913,
+    6.246242580000114
+),
+koordinate(
+    -77.39488684799997,
+    6.263576565000108
+),
+koordinate(
+    -77.380970831999889,
+    6.300523179000052
+),
+koordinate(
+    -77.377593553999873,
+    6.319240627000113
+),
+koordinate(
+    -77.37669837099989,
+    6.336859442000133
+),
+koordinate(
+    -77.37791907499988,
+    6.351792710000083
+),
+koordinate(
+    -77.380970831999889,
+    6.362616278000175
+),
+koordinate(
+    -77.399281378999945,
+    6.38764069200009
+),
+koordinate(
+    -77.396473761999886,
+    6.395819403000104
+),
+koordinate(
+    -77.373524542999917,
+    6.40420156500015
+),
+koordinate(
+    -77.370838995999918,
+    6.397935289000102
+),
+koordinate(
+    -77.36766516799986,
+    6.395086981000162
+),
+koordinate(
+    -77.364125128999888,
+    6.393133856000119
+),
+koordinate(
+    -77.360463019999941,
+    6.389878648000163
+),
+koordinate(
+    -77.356312628999888,
+    6.405178127000127
+),
+koordinate(
+    -77.359934048999946,
+    6.419175523000178
+),
+koordinate(
+    -77.368804490999906,
+    6.430487372000172
+),
+koordinate(
+    -77.380970831999889,
+    6.437689520000106
+),
+koordinate(
+    -77.380970831999889,
+    6.444525458000129
+),
+koordinate(
+    -77.365793423999889,
+    6.470038153000118
+),
+koordinate(
+    -77.360829230999855,
+    6.486070054000109
+),
+koordinate(
+    -77.360463019999941,
+    6.506577867000161
+),
+koordinate(
+    -77.347523566999911,
+    6.521551825000103
+),
+koordinate(
+    -77.343006964999887,
+    6.543768622000158
+),
+koordinate(
+    -77.345366990999935,
+    6.566107489000089
+),
+koordinate(
+    -77.353016730999855,
+    6.581732489000075
+),
+koordinate(
+    -77.387196417999945,
+    6.609035549000154
+),
+koordinate(
+    -77.394154425999943,
+    6.616685289000174
+),
+koordinate(
+    -77.398833787999934,
+    6.62368398600016
+),
+koordinate(
+    -77.404693162999905,
+    6.630113023000163
+),
+koordinate(
+    -77.415109829999977,
+    6.636297919000143
+),
+koordinate(
+    -77.414662238999881,
+    6.647447007000068
+),
+koordinate(
+    -77.40953528599988,
+    6.668280341000141
+),
+koordinate(
+    -77.408273891999869,
+    6.681057033000087
+),
+koordinate(
+    -77.411244269999884,
+    6.69379303600013
+),
+koordinate(
+    -77.418690558999856,
+    6.698716539000188
+),
+koordinate(
+    -77.428700324999937,
+    6.701564846000139
+),
+koordinate(
+    -77.46263587099989,
+    6.720689195000119
+),
+koordinate(
+    -77.486154751999948,
+    6.715073960000112
+),
+koordinate(
+    -77.505686001999919,
+    6.700140692000076
+),
+koordinate(
+    -77.517486131999902,
+    6.684759833000129
+),
+koordinate(
+    -77.513335740999935,
+    6.677923895000106
+),
+koordinate(
+    -77.510650193999879,
+    6.671087958000101
+),
+koordinate(
+    -77.518706834999904,
+    6.66958242400014
+),
+koordinate(
+    -77.524281378999916,
+    6.667466539000131
+),
+koordinate(
+    -77.531809048999975,
+    6.663641669000114
+),
+koordinate(
+    -77.537993943999936,
+    6.663641669000114
+),
+koordinate(
+    -77.538197394999912,
+    6.688910223000079
+),
+koordinate(
+    -77.536488410999908,
+    6.700832424000112
+),
+koordinate(
+    -77.531809048999975,
+    6.712062893000109
+),
+koordinate(
+    -77.573353644999969,
+    6.801011460000126
+),
+koordinate(
+    -77.593251105999855,
+    6.828111070000148
+),
+koordinate(
+    -77.621815558999856,
+    6.855943101000108
+),
+koordinate(
+    -77.636219855999911,
+    6.86542389500012
+),
+koordinate(
+    -77.662505662999934,
+    6.871771552000141
+),
+koordinate(
+    -77.666737433999856,
+    6.876857815000079
+),
+koordinate(
+    -77.671050584999961,
+    6.879706122000115
+),
+koordinate(
+    -77.68260657499988,
+    6.87592194200009
+),
+koordinate(
+    -77.686024542999888,
+    6.870184637000122
+),
+koordinate(
+    -77.68569902299987,
+    6.861883856000134
+),
+koordinate(
+    -77.687367316999882,
+    6.853989976000165
+),
+koordinate(
+    -77.696278449999909,
+    6.849188544000171
+),
+koordinate(
+    -77.701324022999955,
+    6.918361721000068
+),
+koordinate(
+    -77.692209438999953,
+    6.947251695000176
+),
+koordinate(
+    -77.664662238999938,
+    6.959051825000145
+),
+koordinate(
+    -77.652740037999905,
+    6.976629950000174
+),
+koordinate(
+    -77.665028449999852,
+    7.015570380000071
+),
+koordinate(
+    -77.696278449999909,
+    7.074530341000127
+),
+koordinate(
+    -77.703114386999943,
+    7.074530341000127
+),
+koordinate(
+    -77.696766730999911,
+    7.062689520000077
+),
+koordinate(
+    -77.693714972999913,
+    7.058742580000086
+),
+koordinate(
+    -77.688832160999937,
+    7.054632880000128
+),
+koordinate(
+    -77.688832160999937,
+    7.047186591000155
+),
+koordinate(
+    -77.696278449999909,
+    7.047186591000155
+),
+koordinate(
+    -77.713246222999885,
+    7.070502020000149
+),
+koordinate(
+    -77.786936001999919,
+    7.148871161000116
+),
+koordinate(
+    -77.797678188999953,
+    7.154933986000117
+),
+koordinate(
+    -77.815785285999965,
+    7.15704987200013
+),
+koordinate(
+    -77.8255916009999,
+    7.162787177000098
+),
+koordinate(
+    -77.831857876999948,
+    7.175238348000121
+),
+koordinate(
+    -77.839588995999947,
+    7.187241929000138
+),
+koordinate(
+    -77.853911912999934,
+    7.191839911000088
+),
+koordinate(
+    -77.847075975999928,
+    7.19806549700013
+),
+koordinate(
+    -77.85985266799986,
+    7.20184967700007
+),
+koordinate(
+    -77.871408657999979,
+    7.21112702000012
+),
+koordinate(
+    -77.888050910999937,
+    7.232814846000096
+),
+koordinate(
+    -77.895822719999842,
+    7.235093492000161
+),
+koordinate(
+    -77.895839150798338,
+    7.235098056351106
+),
+koordinate(
+    -77.855010538999892,
+    7.365391337000162
+),
+koordinate(
+    -77.820180623999903,
+    7.476547343000163
+),
+koordinate(
+    -77.79630611199994,
+    7.471276347000142
+),
+koordinate(
+    -77.774240274999926,
+    7.474738668000086
+),
+koordinate(
+    -77.755119994999944,
+    7.486107483000168
+),
+koordinate(
+    -77.740237182999891,
+    7.504607645000192
+),
+koordinate(
+    -77.731245483999942,
+    7.530342509000178
+),
+koordinate(
+    -77.734242716999972,
+    7.55178822800012
+),
+koordinate(
+    -77.756825317999898,
+    7.595558167000206
+),
+koordinate(
+    -77.765817016999932,
+    7.626460674000114
+),
+koordinate(
+    -77.770519571999927,
+    7.668990377000156
+),
+koordinate(
+    -77.764215047999897,
+    7.705732320000138
+),
+koordinate(
+    -77.740237182999891,
+    7.718858134000115
+),
+koordinate(
+    -77.72990189699999,
+    7.713328756000109
+),
+koordinate(
+    -77.679930786999904,
+    7.670954081000105
+),
+koordinate(
+    -77.670215617999958,
+    7.659947001000191
+),
+koordinate(
+    -77.670629028999969,
+    7.657311504000177
+),
+koordinate(
+    -77.674763143,
+    7.648423157000167
+),
+koordinate(
+    -77.674814819999909,
+    7.644650778000141
+),
+koordinate(
+    -77.671869262999905,
+    7.641963603000122
+),
+koordinate(
+    -77.663394327999924,
+    7.639948222000072
+),
+koordinate(
+    -77.660758829999907,
+    7.638036194000151
+),
+koordinate(
+    -77.633060261999873,
+    7.600674134000187
+),
+koordinate(
+    -77.625463826999919,
+    7.58744496700011
+),
+koordinate(
+    -77.613319865999898,
+    7.537473857000123
+),
+koordinate(
+    -77.602674519999908,
+    7.526053365000124
+),
+koordinate(
+    -77.579988566999958,
+    7.528378805000159
+),
+koordinate(
+    -77.554925496999942,
+    7.548480937000122
+),
+koordinate(
+    -77.509346883999967,
+    7.594111227000113
+),
+koordinate(
+    -77.369097045999951,
+    7.680772603000065
+),
+koordinate(
+    -77.339744832999969,
+    7.707230937000148
+),
+koordinate(
+    -77.345997680999886,
+    7.725731099000171
+),
+koordinate(
+    -77.366513224999949,
+    7.745109762000141
+),
+koordinate(
+    -77.379897420999981,
+    7.77441029900011
+),
+koordinate(
+    -77.376641805999981,
+    7.786605937000118
+),
+koordinate(
+    -77.34718623899991,
+    7.823812968000127
+),
+koordinate(
+    -77.321606404999869,
+    7.881018779000073
+),
+koordinate(
+    -77.300419068,
+    7.902102763000187
+),
+koordinate(
+    -77.269723266999961,
+    7.918122457000152
+),
+koordinate(
+    -77.236133585999937,
+    7.92923289000008
+),
+koordinate(
+    -77.206057902999959,
+    7.935485738000168
+),
+koordinate(
+    -77.169005899999974,
+    7.935072326000153
+),
+koordinate(
+    -77.163269815999939,
+    7.939258117000094
+),
+koordinate(
+    -77.171072957999939,
+    7.954916077000149
+),
+koordinate(
+    -77.180839803999902,
+    7.965148010000135
+),
+koordinate(
+    -77.191536824999901,
+    7.972847799000121
+),
+koordinate(
+    -77.201200317999934,
+    7.981994527000111
+),
+koordinate(
+    -77.207763223999905,
+    7.996567281000168
+),
+koordinate(
+    -77.209623575999927,
+    8.02070017500013
+),
+koordinate(
+    -77.231069294999941,
+    8.09873158800012
+),
+koordinate(
+    -77.260111449999926,
+    8.154025371000145
+),
+koordinate(
+    -77.269434250999922,
+    8.167700643000103
+),
+koordinate(
+    -77.295199747999874,
+    8.205495097000139
+),
+koordinate(
+    -77.316903849999875,
+    8.250841166000157
+),
+koordinate(
+    -77.324345255999901,
+    8.26120229100016
+),
+koordinate(
+    -77.337161010999893,
+    8.266628316000137
+),
+koordinate(
+    -77.350493530999898,
+    8.26740346300015
+),
+koordinate(
+    -77.363205932999961,
+    8.272080180000131
+),
+koordinate(
+    -77.374368042999976,
+    8.289314270000204
+),
+koordinate(
+    -77.382998005999923,
+    8.324945171000181
+),
+koordinate(
+    -77.391266235999893,
+    8.393545634000134
+),
+koordinate(
+    -77.405787313999923,
+    8.428453064000109
+),
+koordinate(
+    -77.422323770999924,
+    8.456410014000198
+),
+koordinate(
+    -77.432710734999944,
+    8.465065816000163
+),
+koordinate(
+    -77.449608927999918,
+    8.470646871000085
+),
+koordinate(
+    -77.479684610999897,
+    8.467856343000122
+),
+koordinate(
+    -77.488727986999947,
+    8.473644104000186
+),
+koordinate(
+    -77.488676309999931,
+    8.496536764000112
+),
+koordinate(
+    -77.480356404999981,
+    8.526199036000079
+),
+koordinate(
+    -77.469373300999933,
+    8.537811606000162
+),
+koordinate(
+    -77.441133992999937,
+    8.56766937200014
+),
+koordinate(
+    -77.429093384999959,
+    8.592629090000116
+),
+koordinate(
+    -77.430230264999949,
+    8.610457459000159
+),
+koordinate(
+    -77.435036173999976,
+    8.620637716000132
+),
+koordinate(
+    -77.434002644999879,
+    8.628259989000099
+),
+koordinate(
+    -77.417672892999946,
+    8.638466085000175
+),
+koordinate(
+    -77.401549845999881,
+    8.642031759000147
+),
+koordinate(
+    -77.385375121999886,
+    8.643633728000168
+),
+koordinate(
+    -77.374936483999932,
+    8.650945944000156
+),
+koordinate(
+    -77.373524542999917,
+    8.664740302000112
+),
+koordinate(
+    -77.373158331999889,
+    8.669338283000144
+),
+koordinate(
+    -77.371449347999885,
+    8.672186591000099
+),
+koordinate(
+    -77.368967251999948,
+    8.674750067000105
+),
+koordinate(
+    -77.366688605999883,
+    8.678412177000141
+),
+koordinate(
+    -77.351673956999946,
+    8.669338283000144
+),
+koordinate(
+    -77.341379360999952,
+    8.632473049000083
+),
+koordinate(
+    -77.329457160999908,
+    8.613511460000069
+),
+koordinate(
+    -77.317128058999856,
+    8.601385809000163
+),
+koordinate(
+    -77.307118292999888,
+    8.589016018000137
+),
+koordinate(
+    -77.298817511999886,
+    8.574286200000145
+),
+koordinate(
+    -77.291615363999966,
+    8.555487372000101
+),
+koordinate(
+    -77.283192511999914,
+    8.516791083000143
+),
+koordinate(
+    -77.27472896999987,
+    8.495794989000117
+),
+koordinate(
+    -77.20962480399993,
+    8.451849677000084
+),
+koordinate(
+    -77.159169074999909,
+    8.431708075000145
+),
+koordinate(
+    -77.144439256999931,
+    8.421087958000101
+),
+koordinate(
+    -77.133615688999924,
+    8.408392645000134
+),
+koordinate(
+    -77.052805141999841,
+    8.276312567000105
+),
+koordinate(
+    -77.03156490799995,
+    8.259995835000083
+),
+koordinate(
+    -77.017730272999955,
+    8.257635809000121
+),
+koordinate(
+    -76.989857550999886,
+    8.257269598000107
+),
+koordinate(
+    -76.985422329999921,
+    8.256170966000155
+),
+koordinate(
+    -76.976307745999918,
+    8.253851630000099
+),
+koordinate(
+    -76.970122850999871,
+    8.266750393000123
+),
+koordinate(
+    -76.962025519999941,
+    8.266546942000076
+),
+koordinate(
+    -76.956125454999892,
+    8.256537177000084
+),
+koordinate(
+    -76.956410285999937,
+    8.240179755000071
+),
+koordinate(
+    -76.96263587099989,
+    8.240179755000071
+),
+koordinate(
+    -76.965972459999932,
+    8.243353583000129
+),
+koordinate(
+    -76.97008216099988,
+    8.246405341000127
+),
+koordinate(
+    -76.970122850999871,
+    8.221340236000131
+),
+koordinate(
+    -76.963124152999882,
+    8.203680731000119
+),
+koordinate(
+    -76.950835740999935,
+    8.197088934000135
+),
+koordinate(
+    -76.935292120999918,
+    8.205389716000113
+),
+koordinate(
+    -76.935292120999918,
+    8.184963283000144
+),
+koordinate(
+    -76.921701626999976,
+    8.199204820000148
+),
+koordinate(
+    -76.917591925999915,
+    8.188950914000117
+),
+koordinate(
+    -76.927113410999908,
+    8.17275625200007
+),
+koordinate(
+    -76.928537563999981,
+    8.157660223000065
+),
+koordinate(
+    -76.933013475999957,
+    8.159613348000107
+),
+koordinate(
+    -76.944447394999912,
+    8.16254303600013
+),
+koordinate(
+    -76.948963995999861,
+    8.164496161000088
+),
+koordinate(
+    -76.942534959999932,
+    8.128851630000128
+),
+koordinate(
+    -76.918324347999942,
+    8.113918361000088
+),
+koordinate(
+    -76.895741339999887,
+    8.117254950000117
+),
+koordinate(
+    -76.893706834999932,
+    8.136542059000149
+),
+koordinate(
+    -76.832264777999882,
+    8.136542059000149
+),
+koordinate(
+    -76.83836829299986,
+    8.127875067000147
+),
+koordinate(
+    -76.843617316999939,
+    8.117987372000144
+),
+koordinate(
+    -76.846750454999921,
+    8.107123114000061
+),
+koordinate(
+    -76.846547003999945,
+    8.095526434000135
+),
+koordinate(
+    -76.839100714999887,
+    8.095526434000135
+),
+koordinate(
+    -76.835601365999906,
+    8.098334052000098
+),
+koordinate(
+    -76.825428839999859,
+    8.103013414000117
+),
+koordinate(
+    -76.825428839999859,
+    8.095526434000135
+),
+koordinate(
+    -76.860218878999888,
+    8.082505601000065
+),
+koordinate(
+    -76.860218878999888,
+    8.075669664000131
+),
+koordinate(
+    -76.851226365999878,
+    8.074164130000085
+),
+koordinate(
+    -76.845285610999952,
+    8.071519273000192
+),
+koordinate(
+    -76.837066209999961,
+    8.062486070000176
+),
+koordinate(
+    -76.838246222999885,
+    8.060777085000083
+),
+koordinate(
+    -76.83812415299991,
+    8.057928778000147
+),
+koordinate(
+    -76.839100714999887,
+    8.054632880000113
+),
+koordinate(
+    -76.843413865999878,
+    8.059393622000101
+),
+koordinate(
+    -76.849232550999943,
+    8.062323309000121
+),
+koordinate(
+    -76.85680091099988,
+    8.063177802000126
+),
+koordinate(
+    -76.866444464999859,
+    8.061997789000188
+),
+koordinate(
+    -76.858265753999945,
+    8.053290106000119
+),
+koordinate(
+    -76.848378058999941,
+    8.047023830000157
+),
+koordinate(
+    -76.838978644999912,
+    8.039618231000176
+),
+koordinate(
+    -76.832264777999882,
+    8.027289130000128
+),
+koordinate(
+    -76.857289191999882,
+    8.039007880000128
+),
+koordinate(
+    -76.884388800999915,
+    8.046332098000121
+),
+koordinate(
+    -76.907704230999911,
+    8.044094143000137
+),
+koordinate(
+    -76.921701626999976,
+    8.027289130000128
+),
+koordinate(
+    -76.922027147999898,
+    8.023016669000128
+),
+koordinate(
+    -76.920765753999888,
+    8.021918036000088
+),
+koordinate(
+    -76.918324347999942,
+    8.021918036000088
+),
+koordinate(
+    -76.915394660999937,
+    8.021063544000171
+),
+koordinate(
+    -76.933705206999889,
+    7.964585679000138
+),
+koordinate(
+    -76.907053188999953,
+    7.929510809000163
+),
+koordinate(
+    -76.853586391999841,
+    7.912746486000145
+),
+koordinate(
+    -76.79133053299995,
+    7.911200262000108
+),
+koordinate(
+    -76.77961178299995,
+    7.913234768000123
+),
+koordinate(
+    -76.767648891999926,
+    7.91742584800015
+),
+koordinate(
+    -76.757232225999928,
+    7.923570054000138
+),
+koordinate(
+    -76.750355597999913,
+    7.931708075000145
+),
+koordinate(
+    -76.747141079999949,
+    7.940497137000122
+),
+koordinate(
+    -76.7474666009999,
+    7.946437893000137
+),
+koordinate(
+    -76.749256964999887,
+    7.952622789000117
+),
+koordinate(
+    -76.750355597999913,
+    7.962103583000115
+),
+koordinate(
+    -76.748199022999927,
+    7.970282294000128
+),
+koordinate(
+    -76.738840298999889,
+    7.980292059000107
+),
+koordinate(
+    -76.736683722999885,
+    7.989732164000131
+),
+koordinate(
+    -76.730620897999898,
+    8.051336981000162
+),
+koordinate(
+    -76.732004360999952,
+    8.079291083000101
+),
+koordinate(
+    -76.744130011999857,
+    8.103013414000117
+),
+koordinate(
+    -76.746652798999975,
+    8.095160223000121
+),
+koordinate(
+    -76.747670050999943,
+    8.089992580000128
+),
+koordinate(
+    -76.746937628999916,
+    8.084540106000176
+),
+koordinate(
+    -76.744130011999857,
+    8.075669664000131
+),
+koordinate(
+    -76.750355597999913,
+    8.075669664000131
+),
+koordinate(
+    -76.755482550999943,
+    8.091620184000149
+),
+koordinate(
+    -76.759185350999871,
+    8.114691473000107
+),
+koordinate(
+    -76.759388800999943,
+    8.137884833000143
+),
+koordinate(
+    -76.747914191999882,
+    8.171535549000154
+),
+koordinate(
+    -76.751779751999891,
+    8.1929385440001
+),
+koordinate(
+    -76.764637824999909,
+    8.225897528000161
+),
+koordinate(
+    -76.77017167899993,
+    8.258490302000126
+),
+koordinate(
+    -76.770090298999946,
+    8.398016669000143
+),
+koordinate(
+    -76.774810350999871,
+    8.416693427000112
+),
+koordinate(
+    -76.787912563999924,
+    8.424505927000112
+),
+koordinate(
+    -76.80207271999987,
+    8.430161851000108
+),
+koordinate(
+    -76.808420376999891,
+    8.444159247000158
+),
+koordinate(
+    -76.81224524599989,
+    8.461981512000136
+),
+koordinate(
+    -76.818592902999939,
+    8.47915273600016
+),
+koordinate(
+    -76.838612433999913,
+    8.50043366100013
+),
+koordinate(
+    -76.869984503999945,
+    8.521551825000145
+),
+koordinate(
+    -76.906483527999882,
+    8.5386416690001
+),
+koordinate(
+    -76.935292120999918,
+    8.541815497000158
+),
+koordinate(
+    -76.935292120999918,
+    8.534369208000086
+),
+koordinate(
+    -76.947173631999874,
+    8.545477606000119
+),
+koordinate(
+    -76.930816209999961,
+    8.570705471000082
+),
+koordinate(
+    -76.906361456999917,
+    8.599310614000146
+),
+koordinate(
+    -76.893706834999932,
+    8.620347398000177
+),
+koordinate(
+    -76.794748501999948,
+    8.651068427000084
+),
+koordinate(
+    -76.770619269999941,
+    8.652980861000131
+),
+koordinate(
+    -76.67320716099988,
+    8.680405992000175
+),
+koordinate(
+    -76.660227016999897,
+    8.687445380000071
+),
+koordinate(
+    -76.654774542999945,
+    8.69574616100013
+),
+koordinate(
+    -76.65453040299991,
+    8.706529039000145
+),
+koordinate(
+    -76.652943488999966,
+    8.718166408000144
+),
+koordinate(
+    -76.648752407999922,
+    8.728013414000159
+),
+koordinate(
+    -76.640492316999939,
+    8.733628648000163
+),
+koordinate(
+    -76.640492316999939,
+    8.739813544000143
+),
+koordinate(
+    -76.647328253999973,
+    8.739813544000143
+),
+koordinate(
+    -76.647328253999973,
+    8.747300523000192
+),
+koordinate(
+    -76.628244594999899,
+    8.750474351000079
+),
+koordinate(
+    -76.560454881999874,
+    8.775376695000105
+),
+koordinate(
+    -76.546864386999914,
+    8.784572658000087
+),
+koordinate(
+    -76.502797003999916,
+    8.828802802000141
+),
+koordinate(
+    -76.450998501999891,
+    8.864447333000101
+),
+koordinate(
+    -76.428212042999888,
+    8.884466864000075
+),
+koordinate(
+    -76.428212042999888,
+    8.890692450000117
+),
+koordinate(
+    -76.435536261999886,
+    8.902573960000083
+),
+koordinate(
+    -76.426869269999884,
+    8.910549221000124
+),
+koordinate(
+    -76.366118943999936,
+    8.925441799000083
+),
+koordinate(
+    -76.342518683999913,
+    8.939113674000112
+),
+koordinate(
+    -76.32396399599989,
+    8.941351630000099
+),
+koordinate(
+    -76.315541144999941,
+    8.947739976000122
+),
+koordinate(
+    -76.310373501999948,
+    8.957464911000073
+),
+koordinate(
+    -76.30125891799986,
+    8.969794012000122
+),
+koordinate(
+    -76.26427161399991,
+    8.996323960000083
+),
+koordinate(
+    -76.256255662999877,
+    9.007391669000114
+),
+koordinate(
+    -76.265004035999937,
+    9.042181708000072
+),
+koordinate(
+    -76.254953579999977,
+    9.070786851000136
+),
+koordinate(
+    -76.235463019999884,
+    9.093573309000163
+),
+koordinate(
+    -76.201812303999873,
+    9.123114325000131
+),
+koordinate(
+    -76.192616339999887,
+    9.1349144550001
+),
+koordinate(
+    -76.186512824999909,
+    9.149725653000175
+),
+koordinate(
+    -76.174875454999892,
+    9.23285553600013
+),
+koordinate(
+    -76.16812089799987,
+    9.24697500200007
+),
+koordinate(
+    -76.162505662999962,
+    9.248114325000103
+),
+koordinate(
+    -76.134429490999963,
+    9.258612372000172
+),
+koordinate(
+    -76.129994269999884,
+    9.261216539000173
+),
+koordinate(
+    -76.116932745999918,
+    9.265814520000106
+),
+koordinate(
+    -76.112538214999915,
+    9.276353257000082
+),
+koordinate(
+    -76.112904425999943,
+    9.294745184000121
+),
+koordinate(
+    -76.110829230999911,
+    9.312160549000083
+),
+koordinate(
+    -76.107045050999915,
+    9.321600653000104
+),
+koordinate(
+    -76.096099412999934,
+    9.333197333000115
+),
+koordinate(
+    -76.08657792899993,
+    9.339911200000159
+),
+koordinate(
+    -76.077992316999911,
+    9.343817450000159
+),
+koordinate(
+    -76.037505662999905,
+    9.356594143000109
+),
+koordinate(
+    -76.005285803999868,
+    9.366241125000087
+),
+koordinate(
+    -75.976925156999869,
+    9.382517238000133
+),
+koordinate(
+    -75.953284621999899,
+    9.402296152000176
+),
+koordinate(
+    -75.950900729999915,
+    9.426762639000117
+),
+koordinate(
+    -75.943798042999845,
+    9.440734321000178
+),
+koordinate(
+    -75.9213432869999,
+    9.438369571000095
+),
+koordinate(
+    -75.909982876999919,
+    9.42816803600013
+),
+koordinate(
+    -75.877430792999945,
+    9.429999091000113
+),
+koordinate(
+    -75.842884894999941,
+    9.43650950700011
+),
+koordinate(
+    -75.818674282999922,
+    9.446193752000156
+),
+koordinate(
+    -75.811024542999917,
+    9.443548895000077
+),
+koordinate(
+    -75.803293423999889,
+    9.438544012000136
+),
+koordinate(
+    -75.798085089999915,
+    9.430365302000126
+),
+koordinate(
+    -75.79820716099988,
+    9.41819896000014
+),
+koordinate(
+    -75.812001105999883,
+    9.424221096000153
+),
+koordinate(
+    -75.826730923999975,
+    9.42601146000014
+),
+koordinate(
+    -75.840809699999909,
+    9.422512111000145
+),
+koordinate(
+    -75.852853969999927,
+    9.412054755000071
+),
+koordinate(
+    -75.844878709999875,
+    9.406724351000108
+),
+koordinate(
+    -75.83885657499988,
+    9.404852606000134
+),
+koordinate(
+    -75.832753058999884,
+    9.406561591000141
+),
+koordinate(
+    -75.824859178999901,
+    9.412054755000071
+),
+koordinate(
+    -75.819081183999941,
+    9.406154690000136
+),
+koordinate(
+    -75.815256313999924,
+    9.403387762000165
+),
+koordinate(
+    -75.812896287999877,
+    9.399847723000093
+),
+koordinate(
+    -75.811879035999908,
+    9.391546942000119
+),
+koordinate(
+    -75.781117316999939,
+    9.41242096600017
+),
+koordinate(
+    -75.76203365799995,
+    9.421820380000113
+),
+koordinate(
+    -75.739247199999909,
+    9.425726630000099
+),
+koordinate(
+    -75.716786261999914,
+    9.422064520000148
+),
+koordinate(
+    -75.6982722649999,
+    9.416896877000141
+),
+koordinate(
+    -75.697377081999917,
+    9.416652736000103
+),
+koordinate(
+    -75.67260785199997,
+    9.409990145000137
+),
+koordinate(
+    -75.658643872999932,
+    9.419943330000137
+),
+koordinate(
+    -75.620632772999897,
+    9.452853128000129
+),
+koordinate(
+    -75.596576868999932,
+    9.49874942300012
+),
+koordinate(
+    -75.577167464999889,
+    9.562213509000159
+),
+koordinate(
+    -75.576366903999912,
+    9.621085904000068
+),
+koordinate(
+    -75.587213841999898,
+    9.648615712000066
+),
+koordinate(
+    -75.59961827099994,
+    9.663148619000111
+),
+koordinate(
+    -75.606678839999887,
+    9.669256903000147
+),
+koordinate(
+    -75.618031378999973,
+    9.689276434000107
+),
+koordinate(
+    -75.633741665999906,
+    9.689159259000093
+),
+koordinate(
+    -75.647368943999879,
+    9.699408270000077
+),
+koordinate(
+    -75.657794426999885,
+    9.705232142000099
+),
+koordinate(
+    -75.67797281199995,
+    9.704476967000147
+),
+koordinate(
+    -75.69116558099995,
+    9.699126972000073
+),
+koordinate(
+    -75.702806239999887,
+    9.690716519000162
+),
+koordinate(
+    -75.70513735399993,
+    9.700661772000132
+),
+koordinate(
+    -75.649251940999903,
+    9.756470368000123
+),
+koordinate(
+    -75.639945061999896,
+    9.783262609000118
+),
+koordinate(
+    -75.622862322999907,
+    9.838364154000132
+),
+koordinate(
+    -75.623639496999914,
+    9.861348866000128
+),
+koordinate(
+    -75.6174175619999,
+    9.882749292000128
+),
+koordinate(
+    -75.604675051999919,
+    9.910354199000139
+),
+koordinate(
+    -75.593666114999877,
+    9.943990109000168
+),
+koordinate(
+    -75.589515920999929,
+    9.964189339000171
+),
+koordinate(
+    -75.589955206999974,
+    9.984849351000108
+),
+koordinate(
+    -75.576191385999948,
+    10.041847120000071
+),
+koordinate(
+    -75.573848339999898,
+    10.073960264000149
+),
+koordinate(
+    -75.58859107299989,
+    10.108378036000119
+),
+koordinate(
+    -75.589360705999894,
+    10.128261433000191
+),
+koordinate(
+    -75.583920882999934,
+    10.135911362000144
+),
+koordinate(
+    -75.580067511999857,
+    10.139146226000108
+),
+koordinate(
+    -75.572336391999841,
+    10.14081452000012
+),
+koordinate(
+    -75.565500454999921,
+    10.144476630000071
+),
+koordinate(
+    -75.561634894999912,
+    10.1499697940001
+),
+koordinate(
+    -75.551136847999942,
+    10.172349351000122
+),
+koordinate(
+    -75.544016079999892,
+    10.182684637000122
+),
+koordinate(
+    -75.540882941999911,
+    10.188544012000165
+),
+koordinate(
+    -75.537505662999905,
+    10.199693101000094
+),
+koordinate(
+    -75.536203579999921,
+    10.211004950000159
+),
+koordinate(
+    -75.536366339999887,
+    10.221014716000155
+),
+koordinate(
+    -75.53551184799997,
+    10.230617580000128
+),
+koordinate(
+    -75.5306697259999,
+    10.240668036000102
+),
+koordinate(
+    -75.562854672999947,
+    10.223084992000111
+),
+koordinate(
+    -75.604002245999936,
+    10.196124838000088
+),
+koordinate(
+    -75.64378608699991,
+    10.154375703000142
+),
+koordinate(
+    -75.68488010799993,
+    10.131519625000124
+),
+koordinate(
+    -75.703576645999931,
+    10.134428033000162
+),
+koordinate(
+    -75.688922325999897,
+    10.167966257000103
+),
+koordinate(
+    -75.660149738999905,
+    10.184107151000134
+),
+koordinate(
+    -75.646442300999865,
+    10.193508987000186
+),
+koordinate(
+    -75.637684699999909,
+    10.203680731000162
+),
+koordinate(
+    -75.630848761999914,
+    10.213446356000105
+),
+koordinate(
+    -75.62535559799997,
+    10.225816148000135
+),
+koordinate(
+    -75.616322394999969,
+    10.237534898000135
+),
+koordinate(
+    -75.613636847999885,
+    10.248765367000132
+),
+koordinate(
+    -75.617746548999946,
+    10.261135158000158
+),
+koordinate(
+    -75.615101691999939,
+    10.269517320000134
+),
+koordinate(
+    -75.592152472999942,
+    10.268622137000136
+),
+koordinate(
+    -75.597523566999911,
+    10.277004299000097
+),
+koordinate(
+    -75.59935462099989,
+    10.285630601000108
+),
+koordinate(
+    -75.597523566999911,
+    10.294378973000079
+),
+koordinate(
+    -75.592152472999942,
+    10.302720445000148
+),
+koordinate(
+    -75.583811001999891,
+    10.282375393000152
+),
+koordinate(
+    -75.563384568999908,
+    10.287095445000162
+),
+koordinate(
+    -75.527251756999874,
+    10.309556382000068
+),
+koordinate(
+    -75.515695766999869,
+    10.318996486000088
+),
+koordinate(
+    -75.516428188999981,
+    10.341457424000083
+),
+koordinate(
+    -75.52179928299995,
+    10.368394273000149
+),
+koordinate(
+    -75.523833787999877,
+    10.391506252000099
+),
+koordinate(
+    -75.5306697259999,
+    10.391506252000099
+),
+koordinate(
+    -75.539173956999917,
+    10.3862979190001
+),
+koordinate(
+    -75.544300910999937,
+    10.393011786000145
+),
+koordinate(
+    -75.551136847999942,
+    10.419419664000131
+),
+koordinate(
+    -75.557972785999965,
+    10.419419664000131
+),
+koordinate(
+    -75.560943162999877,
+    10.409857489000146
+),
+koordinate(
+    -75.564198370999918,
+    10.403713283000073
+),
+koordinate(
+    -75.569406704999921,
+    10.400132554000109
+),
+koordinate(
+    -75.578480597999913,
+    10.398342190000122
+),
+koordinate(
+    -75.574696417999888,
+    10.406887111000131
+),
+koordinate(
+    -75.569406704999921,
+    10.425279039000173
+),
+koordinate(
+    -75.565500454999921,
+    10.433050848000093
+),
+koordinate(
+    -75.559315558999856,
+    10.438950914000117
+),
+koordinate(
+    -75.547108527999882,
+    10.444240627000099
+),
+koordinate(
+    -75.540598110999895,
+    10.449855861000103
+),
+koordinate(
+    -75.512115037999877,
+    10.481675523000135
+),
+koordinate(
+    -75.502756313999953,
+    10.487738348000121
+),
+koordinate(
+    -75.507964647999927,
+    10.470851955000128
+),
+koordinate(
+    -75.518666144999969,
+    10.450262762000108
+),
+koordinate(
+    -75.522206183999856,
+    10.432928778000118
+),
+koordinate(
+    -75.506499803999873,
+    10.425604559000107
+),
+koordinate(
+    -75.493275519999941,
+    10.434637762000122
+),
+koordinate(
+    -75.487131313999953,
+    10.455877997000101
+),
+koordinate(
+    -75.486317511999857,
+    10.480943101000108
+),
+koordinate(
+    -75.489125128999916,
+    10.501369533000073
+),
+koordinate(
+    -75.493275519999941,
+    10.505682684000163
+),
+koordinate(
+    -75.500355597999913,
+    10.507391669000171
+),
+koordinate(
+    -75.510243292999917,
+    10.508205471000096
+),
+koordinate(
+    -75.509632941999939,
+    10.51410553600013
+),
+koordinate(
+    -75.504139777999939,
+    10.526841539000173
+),
+koordinate(
+    -75.502756313999953,
+    10.529282945000119
+),
+koordinate(
+    -75.504383917999888,
+    10.540716864000075
+),
+koordinate(
+    -75.504465298999946,
+    10.551581122000144
+),
+koordinate(
+    -75.508127407999893,
+    10.559637762000179
+),
+koordinate(
+    -75.520497199999852,
+    10.562811591000155
+),
+koordinate(
+    -75.524525519999912,
+    10.56708405200007
+),
+koordinate(
+    -75.519602016999869,
+    10.576483466000099
+),
+koordinate(
+    -75.509836391999897,
+    10.585842190000122
+),
+koordinate(
+    -75.499623175999972,
+    10.59007396000014
+),
+koordinate(
+    -75.488026495999861,
+    10.591620184000178
+),
+koordinate(
+    -75.475493943999965,
+    10.59601471600017
+),
+koordinate(
+    -75.463856574999852,
+    10.602728583000115
+),
+koordinate(
+    -75.454945441999911,
+    10.61123281500015
+),
+koordinate(
+    -75.454823370999947,
+    10.616400458000143
+),
+koordinate(
+    -75.462513800999943,
+    10.626450914000131
+),
+koordinate(
+    -75.461822068999908,
+    10.631048895000063
+),
+koordinate(
+    -75.458648240999963,
+    10.633002020000106
+),
+koordinate(
+    -75.450998501999919,
+    10.635891018000137
+),
+koordinate(
+    -75.448109503999888,
+    10.637884833000086
+),
+koordinate(
+    -75.439564581999974,
+    10.642035223000121
+),
+koordinate(
+    -75.430897589999887,
+    10.641343492000175
+),
+koordinate(
+    -75.424183722999942,
+    10.643296617000132
+),
+koordinate(
+    -75.421457485999952,
+    10.655259507000068
+),
+koordinate(
+    -75.417713995999918,
+    10.65570709800015
+),
+koordinate(
+    -75.410023566999911,
+    10.664618231000091
+),
+koordinate(
+    -75.40367591099988,
+    10.675034898000177
+),
+koordinate(
+    -75.403797980999855,
+    10.680121161000102
+),
+koordinate(
+    -75.397572394999884,
+    10.681870835000097
+),
+koordinate(
+    -75.373036261999886,
+    10.693101304000109
+),
+koordinate(
+    -75.307281053999901,
+    10.709540106000105
+),
+koordinate(
+    -75.297352667999888,
+    10.717352606000176
+),
+koordinate(
+    -75.28746497299997,
+    10.73346588700015
+),
+koordinate(
+    -75.279611782999893,
+    10.742743231000119
+),
+koordinate(
+    -75.27375240799995,
+    10.744330145000148
+),
+koordinate(
+    -75.268788214999887,
+    10.741400458000129
+),
+koordinate(
+    -75.263050910999908,
+    10.7398135440001
+),
+koordinate(
+    -75.258290167999917,
+    10.737127997000115
+),
+koordinate(
+    -75.256337042999888,
+    10.731024481000119
+),
+koordinate(
+    -75.258452928999901,
+    10.727199611000117
+),
+koordinate(
+    -75.26203365799995,
+    10.724188544000114
+),
+koordinate(
+    -75.262766079999892,
+    10.720282294000114
+),
+koordinate(
+    -75.256337042999888,
+    10.713609117000146
+),
+koordinate(
+    -75.256337042999888,
+    10.709336656000147
+),
+koordinate(
+    -75.256337042999888,
+    10.706773179000137
+),
+koordinate(
+    -75.249501105999855,
+    10.706773179000137
+),
+koordinate(
+    -75.243763800999886,
+    10.714748440000093
+),
+koordinate(
+    -75.222238735999952,
+    10.73468659100017
+),
+koordinate(
+    -75.226389126999919,
+    10.742824611000103
+),
+koordinate(
+    -75.22866777299987,
+    10.750067450000117
+),
+koordinate(
+    -75.229725714999944,
+    10.758042710000083
+),
+koordinate(
+    -75.229644334999961,
+    10.768255927000112
+),
+koordinate(
+    -75.245187954999949,
+    10.754950262000179
+),
+koordinate(
+    -75.249501105999855,
+    10.747748114000146
+),
+koordinate(
+    -75.270008917999917,
+    10.759100653000132
+),
+koordinate(
+    -75.275542772999927,
+    10.777777411000102
+),
+koordinate(
+    -75.267404751999919,
+    10.795314846000139
+),
+koordinate(
+    -75.231678839999887,
+    10.80731842700007
+),
+koordinate(
+    -75.215687628999888,
+    10.826605536000102
+),
+koordinate(
+    -75.20482337099989,
+    10.830959377000099
+),
+koordinate(
+    -75.193430141999841,
+    10.831854559000178
+),
+koordinate(
+    -75.18224036399991,
+    10.834540106000162
+),
+koordinate(
+    -75.17137610599994,
+    10.83881256700009
+),
+koordinate(
+    -75.107980923999918,
+    10.880438544000143
+),
+koordinate(
+    -75.069894985999923,
+    10.889553127000141
+),
+koordinate(
+    -75.049549933999941,
+    10.901190497000144
+),
+koordinate(
+    -75.035959438999981,
+    10.91669342700007
+),
+koordinate(
+    -75.037220831999889,
+    10.93268463700015
+),
+koordinate(
+    -75.032826300999915,
+    10.942694403000132
+),
+koordinate(
+    -75.027740037999877,
+    10.96552155200007
+),
+koordinate(
+    -75.023589647999927,
+    10.974310614000117
+),
+koordinate(
+    -75.014149542999917,
+    10.980414130000113
+),
+koordinate(
+    -75.000396287999905,
+    10.986395575000131
+),
+koordinate(
+    -74.981971231999893,
+    10.987428285000135
+),
+koordinate(
+    -74.962809279999902,
+    10.994894226000142
+),
+koordinate(
+    -74.95001692999989,
+    11.009460454000177
+),
+koordinate(
+    -74.925717872999968,
+    11.028578244000144
+),
+koordinate(
+    -74.923570574999928,
+    11.045671746000139
+),
+koordinate(
+    -74.895502538999978,
+    11.045590797000102
+),
+koordinate(
+    -74.861510172999942,
+    11.048833740000106
+),
+koordinate(
+    -74.845338024999876,
+    11.062129538000107
+),
+koordinate(
+    -74.846992464999914,
+    11.08048096700017
+),
+koordinate(
+    -74.848224909999914,
+    11.098001480000136
+),
+koordinate(
+    -74.85033665099985,
+    11.1034305700001
+),
+koordinate(
+    -74.84437231499993,
+    11.109669657000111
+),
+koordinate(
+    -74.819335863999896,
+    11.097919317000091
+),
+koordinate(
+    -74.796750521999911,
+    11.09036515700015
+),
+koordinate(
+    -74.743173746999929,
+    11.072652528000106
+),
+koordinate(
+    -74.645424233999847,
+    11.033087540000125
+),
+koordinate(
+    -74.572299835999871,
+    11.008623930000155
+),
+koordinate(
+    -74.522950915999843,
+    10.99592434100019
+),
+koordinate(
+    -74.471262173999946,
+    10.989691473000065
+),
+koordinate(
+    -74.403472459999932,
+    10.982855536000145
+),
+koordinate(
+    -74.337269660999965,
+    10.986965236000103
+),
+koordinate(
+    -74.297829547999925,
+    10.991499283000081
+),
+koordinate(
+    -74.312408006999931,
+    10.980943101000094
+),
+koordinate(
+    -74.361805792999888,
+    10.971665757000139
+),
+koordinate(
+    -74.458159959999904,
+    10.974310614000117
+),
+koordinate(
+    -74.469838019999884,
+    10.976060289000117
+),
+koordinate(
+    -74.48078365799995,
+    10.978949286000145
+),
+koordinate(
+    -74.491566535999965,
+    10.979478257000125
+),
+koordinate(
+    -74.502837693999936,
+    10.974310614000117
+),
+koordinate(
+    -74.505767381999874,
+    10.965765692000105
+),
+koordinate(
+    -74.504505988999966,
+    10.954169012000179
+),
+koordinate(
+    -74.505034959999932,
+    10.943915106000148
+),
+koordinate(
+    -74.513417120999918,
+    10.939601955000157
+),
+koordinate(
+    -74.517445441999968,
+    10.926662502000141
+),
+koordinate(
+    -74.506337042999945,
+    10.897772528000132
+),
+koordinate(
+    -74.481760219999842,
+    10.850816148000192
+),
+koordinate(
+    -74.497141079999977,
+    10.858954169000114
+),
+koordinate(
+    -74.511708136999914,
+    10.874457098000136
+),
+koordinate(
+    -74.525013800999915,
+    10.883449611000145
+),
+koordinate(
+    -74.536366339999887,
+    10.87189362200013
+),
+koordinate(
+    -74.543365037999877,
+    10.881415106000119
+),
+koordinate(
+    -74.567209438999953,
+    10.881415106000119
+),
+koordinate(
+    -74.58136959499987,
+    10.888088283000087
+),
+koordinate(
+    -74.589222785999965,
+    10.884670315000079
+),
+koordinate(
+    -74.59699459499987,
+    10.86782461100016
+),
+koordinate(
+    -74.602894660999908,
+    10.84756094000015
+),
+koordinate(
+    -74.605213995999861,
+    10.834051825000174
+),
+koordinate(
+    -74.606353318999908,
+    10.803656317000119
+),
+koordinate(
+    -74.604603644999912,
+    10.789007880000113
+),
+koordinate(
+    -74.598459438999924,
+    10.781927802000141
+),
+koordinate(
+    -74.58462480399993,
+    10.786851304000109
+),
+koordinate(
+    -74.578724738999881,
+    10.802557684000163
+),
+koordinate(
+    -74.574208136999943,
+    10.820135809000107
+),
+koordinate(
+    -74.564279751999919,
+    10.830959377000099
+),
+koordinate(
+    -74.564320441999911,
+    10.82050202000012
+),
+koordinate(
+    -74.560902472999913,
+    10.813421942000147
+),
+koordinate(
+    -74.554025844999899,
+    10.809556382000054
+),
+koordinate(
+    -74.543812628999973,
+    10.809230861000131
+),
+koordinate(
+    -74.545521613999881,
+    10.799383856000105
+),
+koordinate(
+    -74.543812628999973,
+    10.762030341000141
+),
+koordinate(
+    -74.528553839999915,
+    10.755275783000116
+),
+koordinate(
+    -74.512318488999966,
+    10.756008205000143
+),
+koordinate(
+    -74.499663865999878,
+    10.764715887000122
+),
+koordinate(
+    -74.49543209499987,
+    10.781927802000141
+),
+koordinate(
+    -74.506743943999936,
+    10.775783596000068
+),
+koordinate(
+    -74.515614386999886,
+    10.778225002000099
+),
+koordinate(
+    -74.521311001999976,
+    10.787746486000103
+),
+koordinate(
+    -74.523304816999911,
+    10.802964585000083
+),
+koordinate(
+    -74.519276495999947,
+    10.81606679900014
+),
+koordinate(
+    -74.511463995999861,
+    10.825100002000156
+),
+koordinate(
+    -74.506174282999979,
+    10.833482164000117
+),
+koordinate(
+    -74.509632941999882,
+    10.844549872000144
+),
+koordinate(
+    -74.4896541009999,
+    10.841050523000163
+),
+koordinate(
+    -74.477121548999918,
+    10.827582098000079
+),
+koordinate(
+    -74.470570441999911,
+    10.807847398000149
+),
+koordinate(
+    -74.465687628999945,
+    10.759670315000093
+),
+koordinate(
+    -74.456613735999952,
+    10.748032945000176
+),
+koordinate(
+    -74.441477016999869,
+    10.745835679000095
+),
+koordinate(
+    -74.402088995999861,
+    10.748032945000176
+),
+koordinate(
+    -74.395090298999889,
+    10.749497789000145
+),
+koordinate(
+    -74.385568813999896,
+    10.754584052000084
+),
+koordinate(
+    -74.36656653599988,
+    10.772772528000161
+),
+koordinate(
+    -74.362172003999916,
+    10.775702216000084
+),
+koordinate(
+    -74.360015428999901,
+    10.784816799000083
+),
+koordinate(
+    -74.330922003999945,
+    10.837144273000163
+),
+koordinate(
+    -74.330067511999943,
+    10.844305731000105
+),
+koordinate(
+    -74.330922003999945,
+    10.87189362200013
+),
+koordinate(
+    -74.319650844999842,
+    10.893703518000081
+),
+koordinate(
+    -74.317860480999855,
+    10.902004299000154
+),
+koordinate(
+    -74.314605272999927,
+    10.907171942000062
+),
+koordinate(
+    -74.300607876999948,
+    10.923488674000083
+),
+koordinate(
+    -74.297352667999917,
+    10.929348049000126
+),
+koordinate(
+    -74.289906378999916,
+    10.967474677000112
+),
+koordinate(
+    -74.280425584999932,
+    10.989732164000145
+),
+koordinate(
+    -74.218129035999937,
+    11.079087632000082
+),
+koordinate(
+    -74.214914516999897,
+    11.08698151200015
+),
+koordinate(
+    -74.217844204999921,
+    11.098822333000115
+),
+koordinate(
+    -74.23180091099988,
+    11.115708726000108
+),
+koordinate(
+    -74.235951300999915,
+    11.125148830000114
+),
+koordinate(
+    -74.23570716099988,
+    11.135972398000106
+),
+koordinate(
+    -74.229969855999911,
+    11.15302155200007
+),
+koordinate(
+    -74.228505011999943,
+    11.162746486000117
+),
+koordinate(
+    -74.230376756999902,
+    11.172674872000115
+),
+koordinate(
+    -74.239328579999921,
+    11.190741278000132
+),
+koordinate(
+    -74.242176886999886,
+    11.200262762000136
+),
+koordinate(
+    -74.240345831999889,
+    11.204250393000109
+),
+koordinate(
+    -74.230702277999939,
+    11.212836005000128
+),
+koordinate(
+    -74.228505011999943,
+    11.217678127000099
+),
+koordinate(
+    -74.229644334999875,
+    11.223537502000141
+),
+koordinate(
+    -74.232248501999976,
+    11.226304429000109
+),
+koordinate(
+    -74.234771287999905,
+    11.228013414000117
+),
+koordinate(
+    -74.235951300999915,
+    11.230658270000106
+),
+koordinate(
+    -74.233631964999859,
+    11.241156317000076
+),
+koordinate(
+    -74.228138800999915,
+    11.250881252000113
+),
+koordinate(
+    -74.214914516999897,
+    11.2691104190001
+),
+koordinate(
+    -74.209624803999901,
+    11.274847723000079
+),
+koordinate(
+    -74.205067511999857,
+    11.277655341000127
+),
+koordinate(
+    -74.201771613999938,
+    11.282049872000101
+),
+koordinate(
+    -74.200550910999908,
+    11.292710679000137
+),
+koordinate(
+    -74.187489386999943,
+    11.316961981000119
+),
+koordinate(
+    -74.171864386999857,
+    11.318101304000066
+),
+koordinate(
+    -74.159006313999924,
+    11.315130927000141
+),
+koordinate(
+    -74.151844855999883,
+    11.319728908000087
+),
+koordinate(
+    -74.153391079999921,
+    11.34365469000015
+),
+koordinate(
+    -74.145904100999957,
+    11.34365469000015
+),
+koordinate(
+    -74.145334438999981,
+    11.337225653000132
+),
+koordinate(
+    -74.143666144999969,
+    11.332953192000119
+),
+koordinate(
+    -74.139068162999934,
+    11.323716539000159
+),
+koordinate(
+    -74.12848873599998,
+    11.337836005000099
+),
+koordinate(
+    -74.126088019999941,
+    11.34365469000015
+),
+koordinate(
+    -74.122710740999935,
+    11.341538804000137
+),
+koordinate(
+    -74.121490037999905,
+    11.341498114000146
+),
+koordinate(
+    -74.120716925999886,
+    11.341009833000072
+),
+koordinate(
+    -74.118641730999883,
+    11.337388414000188
+),
+koordinate(
+    -74.112416144999912,
+    11.337388414000188
+),
+koordinate(
+    -74.112416144999912,
+    11.357896226000065
+),
+koordinate(
+    -74.102447068999908,
+    11.349920966000099
+),
+koordinate(
+    -74.094878709999961,
+    11.334418036000088
+),
+koordinate(
+    -74.083851691999911,
+    11.330633856000162
+),
+koordinate(
+    -74.074126756999874,
+    11.33539459800015
+),
+koordinate(
+    -74.069569464999915,
+    11.345770575000159
+),
+koordinate(
+    -74.06541907499988,
+    11.351752020000077
+),
+koordinate(
+    -74.057199673999889,
+    11.34365469000015
+),
+koordinate(
+    -74.049712693999908,
+    11.34365469000015
+),
+koordinate(
+    -74.047922329999921,
+    11.350816148000177
+),
+koordinate(
+    -74.044016079999921,
+    11.354641018000109
+),
+koordinate(
+    -74.037993943999936,
+    11.356390692000105
+),
+koordinate(
+    -74.02989661399991,
+    11.357896226000065
+),
+koordinate(
+    -74.004628058999856,
+    11.355292059000149
+),
+koordinate(
+    -73.985259568999936,
+    11.347805080000086
+),
+koordinate(
+    -73.968495245999918,
+    11.335923570000134
+),
+koordinate(
+    -73.951039191999939,
+    11.320298570000148
+),
+koordinate(
+    -73.943592902999882,
+    11.317368882000125
+),
+koordinate(
+    -73.89777584499987,
+    11.307684637000165
+),
+koordinate(
+    -73.86538652299987,
+    11.289007880000099
+),
+koordinate(
+    -73.826039191999882,
+    11.27676015800013
+),
+koordinate(
+    -73.705148891999869,
+    11.268255927000098
+),
+koordinate(
+    -73.592396613999938,
+    11.277044989000075
+),
+koordinate(
+    -73.565581834999961,
+    11.277085679000066
+),
+koordinate(
+    -73.402495897999898,
+    11.277248440000122
+),
+koordinate(
+    -73.292388475999871,
+    11.294012762000136
+),
+koordinate(
+    -73.282582160999937,
+    11.299546617000146
+),
+koordinate(
+    -73.276193813999924,
+    11.308050848000093
+),
+koordinate(
+    -73.245757615999878,
+    11.330877997000101
+),
+koordinate(
+    -73.220041469999927,
+    11.344875393000066
+),
+koordinate(
+    -73.214955206999889,
+    11.348944403000118
+),
+koordinate(
+    -73.207427537999934,
+    11.357896226000065
+),
+koordinate(
+    -73.19566809799997,
+    11.381577867000161
+),
+koordinate(
+    -73.190663214999915,
+    11.38519928600013
+),
+koordinate(
+    -73.179025844999927,
+    11.388617255000142
+),
+koordinate(
+    -73.170277472999942,
+    11.396877346000124
+),
+koordinate(
+    -73.156239386999886,
+    11.41624583500014
+),
+koordinate(
+    -73.145253058999941,
+    11.425523179000109
+),
+koordinate(
+    -73.111887173999946,
+    11.440415757000068
+),
+koordinate(
+    -73.054839647999955,
+    11.493963934000163
+),
+koordinate(
+    -72.933990037999934,
+    11.556789455000128
+),
+koordinate(
+    -72.759673631999959,
+    11.697088934000149
+),
+koordinate(
+    -72.741322394999912,
+    11.707953192000133
+),
+koordinate(
+    -72.704701300999886,
+    11.720363674000069
+),
+koordinate(
+    -72.643910285999937,
+    11.733303127000084
+),
+koordinate(
+    -72.628325975999957,
+    11.74042389500012
+),
+koordinate(
+    -72.597971157999979,
+    11.76194896000014
+),
+koordinate(
+    -72.577463344999927,
+    11.756048895000106
+),
+koordinate(
+    -72.556263800999943,
+    11.766587632000082
+),
+koordinate(
+    -72.534331834999904,
+    11.781642971000096
+),
+koordinate(
+    -72.511626756999959,
+    11.78925202000012
+),
+koordinate(
+    -72.452056443999936,
+    11.791327216000141
+),
+koordinate(
+    -72.433461066999939,
+    11.796087958000143
+),
+koordinate(
+    -72.417591925999915,
+    11.805121161000145
+),
+koordinate(
+    -72.391997850999957,
+    11.826117255000099
+),
+koordinate(
+    -72.359608527999853,
+    11.833970445000176
+),
+koordinate(
+    -72.316151495999918,
+    11.864976304000109
+),
+koordinate(
+    -72.263050910999908,
+    11.885972398000135
+),
+koordinate(
+    -72.250559048999975,
+    11.901678778000104
+),
+koordinate(
+    -72.232167120999947,
+    11.919745184000121
+),
+koordinate(
+    -72.228016730999911,
+    11.930161851000122
+),
+koordinate(
+    -72.22630774599989,
+    11.938950914000173
+),
+koordinate(
+    -72.213734503999916,
+    11.974839585000083
+),
+koordinate(
+    -72.177967902999882,
+    12.029852606000148
+),
+koordinate(
+    -72.167876756999931,
+    12.063381252000084
+),
+koordinate(
+    -72.145497199999909,
+    12.092515367000146
+),
+koordinate(
+    -72.138661261999886,
+    12.10455963700015
+),
+koordinate(
+    -72.137115037999934,
+    12.124090887000136
+),
+koordinate(
+    -72.141224738999881,
+    12.180324611000117
+),
+koordinate(
+    -72.145415818999908,
+    12.200832424000083
+),
+koordinate(
+    -72.151112433999913,
+    12.208482164000102
+),
+koordinate(
+    -72.160511847999913,
+    12.216538804000137
+),
+koordinate(
+    -72.169260219999899,
+    12.221828518000123
+),
+koordinate(
+    -72.172759568999879,
+    12.221258856000148
+),
+koordinate(
+    -72.17052161399991,
+    12.234279690000136
+),
+koordinate(
+    -72.161976691999882,
+    12.242865302000141
+),
+koordinate(
+    -72.138661261999886,
+    12.256048895000106
+),
+koordinate(
+    -72.107533331999974,
+    12.245021877000141
+),
+koordinate(
+    -72.004872199999937,
+    12.262884833000115
+),
+koordinate(
+    -71.969634568999908,
+    12.255113023000121
+),
+koordinate(
+    -71.973540818999908,
+    12.236558335000112
+),
+koordinate(
+    -72.015126105999883,
+    12.19399648600016
+),
+koordinate(
+    -72.000152147999927,
+    12.18622467700007
+),
+koordinate(
+    -71.984852667999888,
+    12.160956122000101
+),
+koordinate(
+    -71.967274542999945,
+    12.153021552000141
+),
+koordinate(
+    -71.937611456999917,
+    12.16644928600013
+),
+koordinate(
+    -71.932525193999879,
+    12.169745184000163
+),
+koordinate(
+    -71.929921027999882,
+    12.182766018000152
+),
+koordinate(
+    -71.923247850999928,
+    12.194077867000132
+),
+koordinate(
+    -71.91441809799997,
+    12.202785549000126
+),
+koordinate(
+    -71.905262824999909,
+    12.207668361000103
+),
+koordinate(
+    -71.89232337099989,
+    12.208319403000147
+),
+koordinate(
+    -71.878773566999911,
+    12.206773179000109
+),
+koordinate(
+    -71.868031378999916,
+    12.208238023000163
+),
+koordinate(
+    -71.863636847999913,
+    12.217840887000136
+),
+koordinate(
+    -71.867665167999888,
+    12.228094794000157
+),
+koordinate(
+    -71.874867316999939,
+    12.237127997000172
+),
+koordinate(
+    -71.878325975999928,
+    12.246039130000113
+),
+koordinate(
+    -71.871083136999914,
+    12.256048895000106
+),
+koordinate(
+    -71.881214972999942,
+    12.263861395000092
+),
+koordinate(
+    -71.886586066999911,
+    12.271307684000163
+),
+koordinate(
+    -71.892730272999898,
+    12.277777411000073
+),
+koordinate(
+    -71.905262824999909,
+    12.282700914000131
+),
+koordinate(
+    -71.91832434799997,
+    12.283921617000146
+),
+koordinate(
+    -71.930653449999909,
+    12.281887111000117
+),
+koordinate(
+    -71.940744594999899,
+    12.276922919000157
+),
+koordinate(
+    -71.946848110999952,
+    12.269029039000188
+),
+koordinate(
+    -71.953033006999931,
+    12.269029039000188
+),
+koordinate(
+    -71.960519985999895,
+    12.282700914000131
+),
+koordinate(
+    -71.914784308999884,
+    12.313625393000081
+),
+koordinate(
+    -71.877919074999909,
+    12.34479401200015
+),
+koordinate(
+    -71.875477667999888,
+    12.349554755000071
+),
+koordinate(
+    -71.87124589799987,
+    12.362616278000132
+),
+koordinate(
+    -71.867421027999853,
+    12.365301825000117
+),
+koordinate(
+    -71.849436001999919,
+    12.364325262000136
+),
+koordinate(
+    -71.844390428999873,
+    12.365301825000117
+),
+koordinate(
+    -71.829090949999909,
+    12.376206773000177
+),
+koordinate(
+    -71.82091223899991,
+    12.377875067000105
+),
+koordinate(
+    -71.80907141799986,
+    12.372137762000136
+),
+koordinate(
+    -71.826812303999958,
+    12.363348700000159
+),
+koordinate(
+    -71.840077277999882,
+    12.351711330000157
+),
+koordinate(
+    -71.843129035999965,
+    12.33808014500012
+),
+koordinate(
+    -71.830148891999869,
+    12.32367584800015
+),
+koordinate(
+    -71.822865363999966,
+    12.319810289000145
+),
+koordinate(
+    -71.81769771999987,
+    12.319281317000076
+),
+koordinate(
+    -71.802845831999889,
+    12.32367584800015
+),
+koordinate(
+    -71.801828579999921,
+    12.326402085000112
+),
+koordinate(
+    -71.802967902999882,
+    12.331244208000101
+),
+koordinate(
+    -71.803212042999917,
+    12.335882880000128
+),
+koordinate(
+    -71.799427863999881,
+    12.337958075000145
+),
+koordinate(
+    -71.785389777999939,
+    12.337144273000135
+),
+koordinate(
+    -71.781727667999888,
+    12.337958075000145
+),
+koordinate(
+    -71.763295050999943,
+    12.347601630000113
+),
+koordinate(
+    -71.751088019999969,
+    12.356187242000118
+),
+koordinate(
+    -71.744048631999902,
+    12.367621161000088
+),
+koordinate(
+    -71.740793423999946,
+    12.385728257000096
+),
+koordinate(
+    -71.743397589999859,
+    12.387193101000051
+),
+koordinate(
+    -71.74868730399993,
+    12.387844143000095
+),
+koordinate(
+    -71.751820441999911,
+    12.390814520000106
+),
+koordinate(
+    -71.748199022999927,
+    12.399400132000125
+),
+koordinate(
+    -71.741525844999899,
+    12.405747789000145
+),
+koordinate(
+    -71.732533331999974,
+    12.410223700000117
+),
+koordinate(
+    -71.722767706999917,
+    12.412787177000126
+),
+koordinate(
+    -71.713449673999975,
+    12.413723049000112
+),
+koordinate(
+    -71.719838019999912,
+    12.395982164000117
+),
+koordinate(
+    -71.713775193999908,
+    12.387030341000084
+),
+koordinate(
+    -71.704213019999912,
+    12.379217841000099
+),
+koordinate(
+    -71.699818488999938,
+    12.365301825000117
+),
+koordinate(
+    -71.693592902999882,
+    12.365301825000117
+),
+koordinate(
+    -71.69098873599998,
+    12.368963934000163
+),
+koordinate(
+    -71.68708248599998,
+    12.375921942000147
+),
+koordinate(
+    -71.685454881999959,
+    12.382717190000093
+),
+koordinate(
+    -71.689849412999934,
+    12.385728257000096
+),
+koordinate(
+    -71.69676673099994,
+    12.388128973000136
+),
+koordinate(
+    -71.691639777999939,
+    12.393377997000115
+),
+koordinate(
+    -71.682972785999937,
+    12.398138739000117
+),
+koordinate(
+    -71.679310675999886,
+    12.399400132000125
+),
+koordinate(
+    -71.667591925999886,
+    12.405747789000145
+),
+koordinate(
+    -71.653797980999883,
+    12.41006094000015
+),
+koordinate(
+    -71.640736456999917,
+    12.415961005000099
+),
+koordinate(
+    -71.630930141999897,
+    12.42739492400014
+),
+koordinate(
+    -71.643381313999896,
+    12.425970770000077
+),
+koordinate(
+    -71.653879360999952,
+    12.421210028000175
+),
+koordinate(
+    -71.66234290299991,
+    12.416083075000159
+),
+koordinate(
+    -71.668771938999924,
+    12.413723049000112
+),
+koordinate(
+    -71.679107225999928,
+    12.416978257000068
+),
+koordinate(
+    -71.677316860999952,
+    12.424790757000139
+),
+koordinate(
+    -71.668690558999941,
+    12.433742580000086
+),
+koordinate(
+    -71.658802863999938,
+    12.440375067000133
+),
+koordinate(
+    -71.670074022999927,
+    12.440415757000125
+),
+koordinate(
+    -71.680083787999905,
+    12.438381252000099
+),
+koordinate(
+    -71.688099738999938,
+    12.434068101000108
+),
+koordinate(
+    -71.693592902999882,
+    12.42739492400014
+),
+koordinate(
+    -71.691883917999888,
+    12.443426825000131
+),
+koordinate(
+    -71.690256313999953,
+    12.449164130000113
+),
+koordinate(
+    -71.68614661399991,
+    12.454657294000128
+),
+koordinate(
+    -71.699289516999869,
+    12.446275132000082
+),
+koordinate(
+    -71.725697394999941,
+    12.42348867400014
+),
+koordinate(
+    -71.734527147999898,
+    12.413723049000112
+),
+koordinate(
+    -71.740793423999946,
+    12.419907945000176
+),
+koordinate(
+    -71.730539516999926,
+    12.438055731000176
+),
+koordinate(
+    -71.715728318999965,
+    12.453517971000096
+),
+koordinate(
+    -71.697255011999943,
+    12.464300848000107
+),
+koordinate(
+    -71.675607876999948,
+    12.468329169000171
+),
+koordinate(
+    -71.656158006999931,
+    12.465318101000079
+)
+]
